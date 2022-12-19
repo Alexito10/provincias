@@ -1,0 +1,817 @@
+[{
+	"id": "001",
+	"nm": "Abáigar"
+}, {
+	"id": "002",
+	"nm": "Abárzuza/Abartzuza"
+}, {
+	"id": "003",
+	"nm": "Abaurregaina/Abaurrea Alta"
+}, {
+	"id": "004",
+	"nm": "Abaurrepea/Abaurrea Baja"
+}, {
+	"id": "005",
+	"nm": "Aberin"
+}, {
+	"id": "006",
+	"nm": "Ablitas"
+}, {
+	"id": "007",
+	"nm": "Adiós"
+}, {
+	"id": "008",
+	"nm": "Aguilar de Codés"
+}, {
+	"id": "009",
+	"nm": "Aibar/Oibar"
+}, {
+	"id": "011",
+	"nm": "Allín/Allin"
+}, {
+	"id": "012",
+	"nm": "Allo"
+}, {
+	"id": "010",
+	"nm": "Altsasu/Alsasua"
+}, {
+	"id": "013",
+	"nm": "Améscoa Baja"
+}, {
+	"id": "014",
+	"nm": "Ancín/Antzin"
+}, {
+	"id": "015",
+	"nm": "Andosilla"
+}, {
+	"id": "016",
+	"nm": "Ansoáin/Antsoain"
+}, {
+	"id": "017",
+	"nm": "Anue"
+}, {
+	"id": "018",
+	"nm": "Añorbe"
+}, {
+	"id": "019",
+	"nm": "Aoiz/Agoitz"
+}, {
+	"id": "020",
+	"nm": "Araitz"
+}, {
+	"id": "025",
+	"nm": "Arakil"
+}, {
+	"id": "021",
+	"nm": "Aranarache/Aranaratxe"
+}, {
+	"id": "023",
+	"nm": "Aranguren"
+}, {
+	"id": "024",
+	"nm": "Arano"
+}, {
+	"id": "022",
+	"nm": "Arantza"
+}, {
+	"id": "026",
+	"nm": "Aras"
+}, {
+	"id": "027",
+	"nm": "Arbizu"
+}, {
+	"id": "028",
+	"nm": "Arce/Artzi"
+}, {
+	"id": "029",
+	"nm": "Arcos, Los"
+}, {
+	"id": "030",
+	"nm": "Arellano"
+}, {
+	"id": "031",
+	"nm": "Areso"
+}, {
+	"id": "032",
+	"nm": "Arguedas"
+}, {
+	"id": "033",
+	"nm": "Aria"
+}, {
+	"id": "034",
+	"nm": "Aribe"
+}, {
+	"id": "035",
+	"nm": "Armañanzas"
+}, {
+	"id": "036",
+	"nm": "Arróniz"
+}, {
+	"id": "037",
+	"nm": "Arruazu"
+}, {
+	"id": "038",
+	"nm": "Artajona"
+}, {
+	"id": "039",
+	"nm": "Artazu"
+}, {
+	"id": "040",
+	"nm": "Atez/Atetz"
+}, {
+	"id": "058",
+	"nm": "Auritz/Burguete"
+}, {
+	"id": "041",
+	"nm": "Ayegui/Aiegi"
+}, {
+	"id": "042",
+	"nm": "Azagra"
+}, {
+	"id": "043",
+	"nm": "Azuelo"
+}, {
+	"id": "044",
+	"nm": "Bakaiku"
+}, {
+	"id": "901",
+	"nm": "Barañain"
+}, {
+	"id": "045",
+	"nm": "Barásoain"
+}, {
+	"id": "046",
+	"nm": "Barbarin"
+}, {
+	"id": "047",
+	"nm": "Bargota"
+}, {
+	"id": "048",
+	"nm": "Barillas"
+}, {
+	"id": "049",
+	"nm": "Basaburua"
+}, {
+	"id": "050",
+	"nm": "Baztan"
+}, {
+	"id": "137",
+	"nm": "Beintza-Labaien"
+}, {
+	"id": "051",
+	"nm": "Beire"
+}, {
+	"id": "052",
+	"nm": "Belascoáin"
+}, {
+	"id": "250",
+	"nm": "Bera"
+}, {
+	"id": "053",
+	"nm": "Berbinzana"
+}, {
+	"id": "905",
+	"nm": "Beriáin"
+}, {
+	"id": "902",
+	"nm": "Berrioplano/Berriobeiti"
+}, {
+	"id": "903",
+	"nm": "Berriozar"
+}, {
+	"id": "054",
+	"nm": "Bertizarana"
+}, {
+	"id": "055",
+	"nm": "Betelu"
+}, {
+	"id": "253",
+	"nm": "Bidaurreta"
+}, {
+	"id": "056",
+	"nm": "Biurrun-Olcoz"
+}, {
+	"id": "057",
+	"nm": "Buñuel"
+}, {
+	"id": "059",
+	"nm": "Burgui/Burgi"
+}, {
+	"id": "060",
+	"nm": "Burlada/Burlata"
+}, {
+	"id": "061",
+	"nm": "Busto, El"
+}, {
+	"id": "062",
+	"nm": "Cabanillas"
+}, {
+	"id": "063",
+	"nm": "Cabredo"
+}, {
+	"id": "064",
+	"nm": "Cadreita"
+}, {
+	"id": "065",
+	"nm": "Caparroso"
+}, {
+	"id": "066",
+	"nm": "Cárcar"
+}, {
+	"id": "067",
+	"nm": "Carcastillo"
+}, {
+	"id": "068",
+	"nm": "Cascante"
+}, {
+	"id": "069",
+	"nm": "Cáseda"
+}, {
+	"id": "070",
+	"nm": "Castejón"
+}, {
+	"id": "071",
+	"nm": "Castillonuevo"
+}, {
+	"id": "193",
+	"nm": "Cendea de Olza/Oltza Zendea"
+}, {
+	"id": "072",
+	"nm": "Cintruénigo"
+}, {
+	"id": "074",
+	"nm": "Cirauqui/Zirauki"
+}, {
+	"id": "075",
+	"nm": "Ciriza/Ziritza"
+}, {
+	"id": "076",
+	"nm": "Cizur"
+}, {
+	"id": "077",
+	"nm": "Corella"
+}, {
+	"id": "078",
+	"nm": "Cortes"
+}, {
+	"id": "079",
+	"nm": "Desojo"
+}, {
+	"id": "080",
+	"nm": "Dicastillo"
+}, {
+	"id": "081",
+	"nm": "Donamaria"
+}, {
+	"id": "221",
+	"nm": "Doneztebe/Santesteban"
+}, {
+	"id": "083",
+	"nm": "Echarri"
+}, {
+	"id": "087",
+	"nm": "Elgorriaga"
+}, {
+	"id": "089",
+	"nm": "Enériz/Eneritz"
+}, {
+	"id": "090",
+	"nm": "Eratsun"
+}, {
+	"id": "091",
+	"nm": "Ergoiena"
+}, {
+	"id": "092",
+	"nm": "Erro"
+}, {
+	"id": "094",
+	"nm": "Eslava"
+}, {
+	"id": "095",
+	"nm": "Esparza de Salazar/Espartza Zaraitzu"
+}, {
+	"id": "096",
+	"nm": "Espronceda"
+}, {
+	"id": "097",
+	"nm": "Estella-Lizarra"
+}, {
+	"id": "098",
+	"nm": "Esteribar"
+}, {
+	"id": "099",
+	"nm": "Etayo"
+}, {
+	"id": "082",
+	"nm": "Etxalar"
+}, {
+	"id": "084",
+	"nm": "Etxarri Aranatz"
+}, {
+	"id": "085",
+	"nm": "Etxauri"
+}, {
+	"id": "100",
+	"nm": "Eulate"
+}, {
+	"id": "101",
+	"nm": "Ezcabarte"
+}, {
+	"id": "093",
+	"nm": "Ezcároz/Ezkaroze"
+}, {
+	"id": "102",
+	"nm": "Ezkurra"
+}, {
+	"id": "103",
+	"nm": "Ezprogui"
+}, {
+	"id": "104",
+	"nm": "Falces"
+}, {
+	"id": "105",
+	"nm": "Fitero"
+}, {
+	"id": "106",
+	"nm": "Fontellas"
+}, {
+	"id": "107",
+	"nm": "Funes"
+}, {
+	"id": "108",
+	"nm": "Fustiñana"
+}, {
+	"id": "109",
+	"nm": "Galar"
+}, {
+	"id": "110",
+	"nm": "Gallipienzo/Galipentzu"
+}, {
+	"id": "111",
+	"nm": "Gallués/Galoze"
+}, {
+	"id": "112",
+	"nm": "Garaioa"
+}, {
+	"id": "113",
+	"nm": "Garde"
+}, {
+	"id": "114",
+	"nm": "Garínoain"
+}, {
+	"id": "115",
+	"nm": "Garralda"
+}, {
+	"id": "116",
+	"nm": "Genevilla"
+}, {
+	"id": "117",
+	"nm": "Goizueta"
+}, {
+	"id": "118",
+	"nm": "Goñi"
+}, {
+	"id": "119",
+	"nm": "Güesa/Gorza"
+}, {
+	"id": "120",
+	"nm": "Guesálaz/Gesalatz"
+}, {
+	"id": "121",
+	"nm": "Guirguillano"
+}, {
+	"id": "256",
+	"nm": "Hiriberri/Villanueva de Aezkoa"
+}, {
+	"id": "122",
+	"nm": "Huarte/Uharte"
+}, {
+	"id": "124",
+	"nm": "Ibargoiti"
+}, {
+	"id": "259",
+	"nm": "Igantzi"
+}, {
+	"id": "125",
+	"nm": "Igúzquiza"
+}, {
+	"id": "126",
+	"nm": "Imotz"
+}, {
+	"id": "127",
+	"nm": "Irañeta"
+}, {
+	"id": "904",
+	"nm": "Irurtzun"
+}, {
+	"id": "128",
+	"nm": "Isaba/Izaba"
+}, {
+	"id": "129",
+	"nm": "Ituren"
+}, {
+	"id": "130",
+	"nm": "Iturmendi"
+}, {
+	"id": "131",
+	"nm": "Iza/Itza"
+}, {
+	"id": "132",
+	"nm": "Izagaondoa"
+}, {
+	"id": "133",
+	"nm": "Izalzu/Itzaltzu"
+}, {
+	"id": "134",
+	"nm": "Jaurrieta"
+}, {
+	"id": "135",
+	"nm": "Javier"
+}, {
+	"id": "136",
+	"nm": "Juslapeña"
+}, {
+	"id": "138",
+	"nm": "Lakuntza"
+}, {
+	"id": "139",
+	"nm": "Lana"
+}, {
+	"id": "140",
+	"nm": "Lantz"
+}, {
+	"id": "141",
+	"nm": "Lapoblación"
+}, {
+	"id": "142",
+	"nm": "Larraga"
+}, {
+	"id": "143",
+	"nm": "Larraona"
+}, {
+	"id": "144",
+	"nm": "Larraun"
+}, {
+	"id": "145",
+	"nm": "Lazagurría"
+}, {
+	"id": "146",
+	"nm": "Leache/Leatxe"
+}, {
+	"id": "147",
+	"nm": "Legarda"
+}, {
+	"id": "148",
+	"nm": "Legaria"
+}, {
+	"id": "149",
+	"nm": "Leitza"
+}, {
+	"id": "908",
+	"nm": "Lekunberri"
+}, {
+	"id": "150",
+	"nm": "Leoz/Leotz"
+}, {
+	"id": "151",
+	"nm": "Lerga"
+}, {
+	"id": "152",
+	"nm": "Lerín"
+}, {
+	"id": "153",
+	"nm": "Lesaka"
+}, {
+	"id": "154",
+	"nm": "Lezáun"
+}, {
+	"id": "155",
+	"nm": "Liédena"
+}, {
+	"id": "156",
+	"nm": "Lizoáin-Arriasgoiti"
+}, {
+	"id": "157",
+	"nm": "Lodosa"
+}, {
+	"id": "158",
+	"nm": "Lónguida/Longida"
+}, {
+	"id": "159",
+	"nm": "Lumbier"
+}, {
+	"id": "160",
+	"nm": "Luquin"
+}, {
+	"id": "248",
+	"nm": "Luzaide/Valcarlos"
+}, {
+	"id": "161",
+	"nm": "Mañeru"
+}, {
+	"id": "162",
+	"nm": "Marañón"
+}, {
+	"id": "163",
+	"nm": "Marcilla"
+}, {
+	"id": "164",
+	"nm": "Mélida"
+}, {
+	"id": "165",
+	"nm": "Mendavia"
+}, {
+	"id": "166",
+	"nm": "Mendaza"
+}, {
+	"id": "167",
+	"nm": "Mendigorría"
+}, {
+	"id": "168",
+	"nm": "Metauten"
+}, {
+	"id": "169",
+	"nm": "Milagro"
+}, {
+	"id": "170",
+	"nm": "Mirafuentes"
+}, {
+	"id": "171",
+	"nm": "Miranda de Arga"
+}, {
+	"id": "172",
+	"nm": "Monreal/Elo"
+}, {
+	"id": "173",
+	"nm": "Monteagudo"
+}, {
+	"id": "174",
+	"nm": "Morentin"
+}, {
+	"id": "175",
+	"nm": "Mues"
+}, {
+	"id": "176",
+	"nm": "Murchante"
+}, {
+	"id": "177",
+	"nm": "Murieta"
+}, {
+	"id": "178",
+	"nm": "Murillo el Cuende"
+}, {
+	"id": "179",
+	"nm": "Murillo el Fruto"
+}, {
+	"id": "180",
+	"nm": "Muruzábal"
+}, {
+	"id": "181",
+	"nm": "Navascués/Nabaskoze"
+}, {
+	"id": "182",
+	"nm": "Nazar"
+}, {
+	"id": "088",
+	"nm": "Noáin (Valle de Elorz)/Noain (Elortzibar)"
+}, {
+	"id": "183",
+	"nm": "Obanos"
+}, {
+	"id": "185",
+	"nm": "Ochagavía/Otsagabia"
+}, {
+	"id": "184",
+	"nm": "Oco"
+}, {
+	"id": "186",
+	"nm": "Odieta"
+}, {
+	"id": "187",
+	"nm": "Oiz"
+}, {
+	"id": "188",
+	"nm": "Olaibar"
+}, {
+	"id": "189",
+	"nm": "Olazti/Olazagutía"
+}, {
+	"id": "190",
+	"nm": "Olejua"
+}, {
+	"id": "191",
+	"nm": "Olite/Erriberri"
+}, {
+	"id": "194",
+	"nm": "Ollo"
+}, {
+	"id": "192",
+	"nm": "Olóriz/Oloritz"
+}, {
+	"id": "195",
+	"nm": "Orbaizeta"
+}, {
+	"id": "196",
+	"nm": "Orbara"
+}, {
+	"id": "197",
+	"nm": "Orísoain"
+}, {
+	"id": "906",
+	"nm": "Orkoien"
+}, {
+	"id": "198",
+	"nm": "Oronz/Orontze"
+}, {
+	"id": "199",
+	"nm": "Oroz-Betelu/Orotz-Betelu"
+}, {
+	"id": "211",
+	"nm": "Orreaga/Roncesvalles"
+}, {
+	"id": "200",
+	"nm": "Oteiza"
+}, {
+	"id": "201",
+	"nm": "Pamplona/Iruña"
+}, {
+	"id": "202",
+	"nm": "Peralta/Azkoien"
+}, {
+	"id": "203",
+	"nm": "Petilla de Aragón"
+}, {
+	"id": "204",
+	"nm": "Piedramillera"
+}, {
+	"id": "205",
+	"nm": "Pitillas"
+}, {
+	"id": "206",
+	"nm": "Puente la Reina/Gares"
+}, {
+	"id": "207",
+	"nm": "Pueyo"
+}, {
+	"id": "208",
+	"nm": "Ribaforada"
+}, {
+	"id": "209",
+	"nm": "Romanzado"
+}, {
+	"id": "210",
+	"nm": "Roncal/Erronkari"
+}, {
+	"id": "212",
+	"nm": "Sada"
+}, {
+	"id": "213",
+	"nm": "Saldías"
+}, {
+	"id": "214",
+	"nm": "Salinas de Oro/Jaitz"
+}, {
+	"id": "215",
+	"nm": "San Adrián"
+}, {
+	"id": "217",
+	"nm": "San Martín de Unx"
+}, {
+	"id": "216",
+	"nm": "Sangüesa/Zangoza"
+}, {
+	"id": "219",
+	"nm": "Sansol"
+}, {
+	"id": "220",
+	"nm": "Santacara"
+}, {
+	"id": "222",
+	"nm": "Sarriés/Sartze"
+}, {
+	"id": "223",
+	"nm": "Sartaguda"
+}, {
+	"id": "224",
+	"nm": "Sesma"
+}, {
+	"id": "225",
+	"nm": "Sorlada"
+}, {
+	"id": "226",
+	"nm": "Sunbilla"
+}, {
+	"id": "227",
+	"nm": "Tafalla"
+}, {
+	"id": "228",
+	"nm": "Tiebas-Muruarte de Reta"
+}, {
+	"id": "229",
+	"nm": "Tirapu"
+}, {
+	"id": "230",
+	"nm": "Torralba del Río"
+}, {
+	"id": "231",
+	"nm": "Torres del Río"
+}, {
+	"id": "232",
+	"nm": "Tudela"
+}, {
+	"id": "233",
+	"nm": "Tulebras"
+}, {
+	"id": "234",
+	"nm": "Ucar"
+}, {
+	"id": "123",
+	"nm": "Uharte Arakil"
+}, {
+	"id": "235",
+	"nm": "Ujué"
+}, {
+	"id": "236",
+	"nm": "Ultzama"
+}, {
+	"id": "237",
+	"nm": "Unciti"
+}, {
+	"id": "238",
+	"nm": "Unzué/Untzue"
+}, {
+	"id": "239",
+	"nm": "Urdazubi/Urdax"
+}, {
+	"id": "240",
+	"nm": "Urdiain"
+}, {
+	"id": "241",
+	"nm": "Urraul Alto"
+}, {
+	"id": "242",
+	"nm": "Urraul Bajo"
+}, {
+	"id": "244",
+	"nm": "Urroz"
+}, {
+	"id": "243",
+	"nm": "Urroz-Villa"
+}, {
+	"id": "245",
+	"nm": "Urzainqui/Urzainki"
+}, {
+	"id": "246",
+	"nm": "Uterga"
+}, {
+	"id": "247",
+	"nm": "Uztárroz/Uztarroze"
+}, {
+	"id": "086",
+	"nm": "Valle de Egüés/Eguesibar"
+}, {
+	"id": "260",
+	"nm": "Valle de Yerri/Deierri"
+}, {
+	"id": "249",
+	"nm": "Valtierra"
+}, {
+	"id": "251",
+	"nm": "Viana"
+}, {
+	"id": "252",
+	"nm": "Vidángoz/Bidankoze"
+}, {
+	"id": "254",
+	"nm": "Villafranca"
+}, {
+	"id": "255",
+	"nm": "Villamayor de Monjardín"
+}, {
+	"id": "257",
+	"nm": "Villatuerta"
+}, {
+	"id": "258",
+	"nm": "Villava/Atarrabia"
+}, {
+	"id": "261",
+	"nm": "Yesa"
+}, {
+	"id": "262",
+	"nm": "Zabalza/Zabaltza"
+}, {
+	"id": "073",
+	"nm": "Ziordia"
+}, {
+	"id": "907",
+	"nm": "Zizur Mayor/Zizur Nagusia"
+}, {
+	"id": "263",
+	"nm": "Zubieta"
+}, {
+	"id": "264",
+	"nm": "Zugarramurdi"
+}, {
+	"id": "265",
+	"nm": "Zúñiga"
+}]

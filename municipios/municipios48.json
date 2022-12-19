@@ -1,0 +1,337 @@
+[{
+	"id": "001",
+	"nm": "Abadiño"
+}, {
+	"id": "002",
+	"nm": "Abanto y Ciérvana-Abanto Zierbena"
+}, {
+	"id": "911",
+	"nm": "Ajangiz"
+}, {
+	"id": "912",
+	"nm": "Alonsotegi"
+}, {
+	"id": "003",
+	"nm": "Amorebieta-Etxano"
+}, {
+	"id": "004",
+	"nm": "Amoroto"
+}, {
+	"id": "005",
+	"nm": "Arakaldo"
+}, {
+	"id": "006",
+	"nm": "Arantzazu"
+}, {
+	"id": "093",
+	"nm": "Areatza"
+}, {
+	"id": "009",
+	"nm": "Arrankudiaga"
+}, {
+	"id": "914",
+	"nm": "Arratzu"
+}, {
+	"id": "010",
+	"nm": "Arrieta"
+}, {
+	"id": "011",
+	"nm": "Arrigorriaga"
+}, {
+	"id": "023",
+	"nm": "Artea"
+}, {
+	"id": "008",
+	"nm": "Artzentales"
+}, {
+	"id": "091",
+	"nm": "Atxondo"
+}, {
+	"id": "070",
+	"nm": "Aulesti"
+}, {
+	"id": "012",
+	"nm": "Bakio"
+}, {
+	"id": "090",
+	"nm": "Balmaseda"
+}, {
+	"id": "013",
+	"nm": "Barakaldo"
+}, {
+	"id": "014",
+	"nm": "Barrika"
+}, {
+	"id": "015",
+	"nm": "Basauri"
+}, {
+	"id": "092",
+	"nm": "Bedia"
+}, {
+	"id": "016",
+	"nm": "Berango"
+}, {
+	"id": "017",
+	"nm": "Bermeo"
+}, {
+	"id": "018",
+	"nm": "Berriatua"
+}, {
+	"id": "019",
+	"nm": "Berriz"
+}, {
+	"id": "020",
+	"nm": "Bilbao"
+}, {
+	"id": "021",
+	"nm": "Busturia"
+}, {
+	"id": "901",
+	"nm": "Derio"
+}, {
+	"id": "026",
+	"nm": "Dima"
+}, {
+	"id": "027",
+	"nm": "Durango"
+}, {
+	"id": "028",
+	"nm": "Ea"
+}, {
+	"id": "031",
+	"nm": "Elantxobe"
+}, {
+	"id": "032",
+	"nm": "Elorrio"
+}, {
+	"id": "902",
+	"nm": "Erandio"
+}, {
+	"id": "033",
+	"nm": "Ereño"
+}, {
+	"id": "034",
+	"nm": "Ermua"
+}, {
+	"id": "079",
+	"nm": "Errigoiti"
+}, {
+	"id": "029",
+	"nm": "Etxebarri"
+}, {
+	"id": "030",
+	"nm": "Etxebarria"
+}, {
+	"id": "906",
+	"nm": "Forua"
+}, {
+	"id": "035",
+	"nm": "Fruiz"
+}, {
+	"id": "036",
+	"nm": "Galdakao"
+}, {
+	"id": "037",
+	"nm": "Galdames"
+}, {
+	"id": "038",
+	"nm": "Gamiz-Fika"
+}, {
+	"id": "039",
+	"nm": "Garai"
+}, {
+	"id": "040",
+	"nm": "Gatika"
+}, {
+	"id": "041",
+	"nm": "Gautegiz Arteaga"
+}, {
+	"id": "046",
+	"nm": "Gernika-Lumo"
+}, {
+	"id": "044",
+	"nm": "Getxo"
+}, {
+	"id": "047",
+	"nm": "Gizaburuaga"
+}, {
+	"id": "042",
+	"nm": "Gordexola"
+}, {
+	"id": "043",
+	"nm": "Gorliz"
+}, {
+	"id": "045",
+	"nm": "Güeñes"
+}, {
+	"id": "048",
+	"nm": "Ibarrangelu"
+}, {
+	"id": "094",
+	"nm": "Igorre"
+}, {
+	"id": "049",
+	"nm": "Ispaster"
+}, {
+	"id": "910",
+	"nm": "Iurreta"
+}, {
+	"id": "050",
+	"nm": "Izurtza"
+}, {
+	"id": "022",
+	"nm": "Karrantza Harana/Valle de Carranza"
+}, {
+	"id": "907",
+	"nm": "Kortezubi"
+}, {
+	"id": "051",
+	"nm": "Lanestosa"
+}, {
+	"id": "052",
+	"nm": "Larrabetzu"
+}, {
+	"id": "053",
+	"nm": "Laukiz"
+}, {
+	"id": "054",
+	"nm": "Leioa"
+}, {
+	"id": "057",
+	"nm": "Lekeitio"
+}, {
+	"id": "055",
+	"nm": "Lemoa"
+}, {
+	"id": "056",
+	"nm": "Lemoiz"
+}, {
+	"id": "081",
+	"nm": "Lezama"
+}, {
+	"id": "903",
+	"nm": "Loiu"
+}, {
+	"id": "058",
+	"nm": "Mallabia"
+}, {
+	"id": "059",
+	"nm": "Mañaria"
+}, {
+	"id": "060",
+	"nm": "Markina-Xemein"
+}, {
+	"id": "061",
+	"nm": "Maruri-Jatabe"
+}, {
+	"id": "062",
+	"nm": "Mendata"
+}, {
+	"id": "063",
+	"nm": "Mendexa"
+}, {
+	"id": "064",
+	"nm": "Meñaka"
+}, {
+	"id": "066",
+	"nm": "Morga"
+}, {
+	"id": "068",
+	"nm": "Mundaka"
+}, {
+	"id": "069",
+	"nm": "Mungia"
+}, {
+	"id": "007",
+	"nm": "Munitibar-Arbatzegi Gerrikaitz"
+}, {
+	"id": "908",
+	"nm": "Murueta"
+}, {
+	"id": "071",
+	"nm": "Muskiz"
+}, {
+	"id": "067",
+	"nm": "Muxika"
+}, {
+	"id": "909",
+	"nm": "Nabarniz"
+}, {
+	"id": "073",
+	"nm": "Ondarroa"
+}, {
+	"id": "075",
+	"nm": "Orozko"
+}, {
+	"id": "083",
+	"nm": "Ortuella"
+}, {
+	"id": "072",
+	"nm": "Otxandio"
+}, {
+	"id": "077",
+	"nm": "Plentzia"
+}, {
+	"id": "078",
+	"nm": "Portugalete"
+}, {
+	"id": "082",
+	"nm": "Santurtzi"
+}, {
+	"id": "084",
+	"nm": "Sestao"
+}, {
+	"id": "904",
+	"nm": "Sondika"
+}, {
+	"id": "085",
+	"nm": "Sopela"
+}, {
+	"id": "086",
+	"nm": "Sopuerta"
+}, {
+	"id": "076",
+	"nm": "Sukarrieta"
+}, {
+	"id": "087",
+	"nm": "Trucios-Turtzioz"
+}, {
+	"id": "088",
+	"nm": "Ubide"
+}, {
+	"id": "065",
+	"nm": "Ugao-Miraballes"
+}, {
+	"id": "089",
+	"nm": "Urduliz"
+}, {
+	"id": "074",
+	"nm": "Urduña/Orduña"
+}, {
+	"id": "080",
+	"nm": "Valle de Trápaga-Trapagaran"
+}, {
+	"id": "095",
+	"nm": "Zaldibar"
+}, {
+	"id": "096",
+	"nm": "Zalla"
+}, {
+	"id": "905",
+	"nm": "Zamudio"
+}, {
+	"id": "097",
+	"nm": "Zaratamo"
+}, {
+	"id": "024",
+	"nm": "Zeanuri"
+}, {
+	"id": "025",
+	"nm": "Zeberio"
+}, {
+	"id": "913",
+	"nm": "Zierbena"
+}, {
+	"id": "915",
+	"nm": "Ziortza-Bolibar"
+}]

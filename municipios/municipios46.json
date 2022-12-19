@@ -1,0 +1,799 @@
+[{
+	"id": "001",
+	"nm": "Ademuz"
+}, {
+	"id": "002",
+	"nm": "Ador"
+}, {
+	"id": "004",
+	"nm": "Agullent"
+}, {
+	"id": "042",
+	"nm": "Aielo de Malferit"
+}, {
+	"id": "043",
+	"nm": "Aielo de Rugat"
+}, {
+	"id": "005",
+	"nm": "Alaquàs"
+}, {
+	"id": "006",
+	"nm": "Albaida"
+}, {
+	"id": "007",
+	"nm": "Albal"
+}, {
+	"id": "008",
+	"nm": "Albalat de la Ribera"
+}, {
+	"id": "009",
+	"nm": "Albalat dels Sorells"
+}, {
+	"id": "010",
+	"nm": "Albalat dels Tarongers"
+}, {
+	"id": "011",
+	"nm": "Alberic"
+}, {
+	"id": "012",
+	"nm": "Alborache"
+}, {
+	"id": "013",
+	"nm": "Alboraya"
+}, {
+	"id": "014",
+	"nm": "Albuixech"
+}, {
+	"id": "016",
+	"nm": "Alcàntera de Xúquer"
+}, {
+	"id": "015",
+	"nm": "Alcàsser"
+}, {
+	"id": "018",
+	"nm": "Alcublas"
+}, {
+	"id": "020",
+	"nm": "Alcúdia de Crespins, l'"
+}, {
+	"id": "019",
+	"nm": "Alcúdia, l'"
+}, {
+	"id": "021",
+	"nm": "Aldaia"
+}, {
+	"id": "022",
+	"nm": "Alfafar"
+}, {
+	"id": "024",
+	"nm": "Alfara de la Baronia"
+}, {
+	"id": "025",
+	"nm": "Alfara del Patriarca"
+}, {
+	"id": "026",
+	"nm": "Alfarp"
+}, {
+	"id": "027",
+	"nm": "Alfarrasí"
+}, {
+	"id": "023",
+	"nm": "Alfauir"
+}, {
+	"id": "028",
+	"nm": "Algar de Palancia"
+}, {
+	"id": "029",
+	"nm": "Algemesí"
+}, {
+	"id": "030",
+	"nm": "Algimia de Alfara"
+}, {
+	"id": "031",
+	"nm": "Alginet"
+}, {
+	"id": "032",
+	"nm": "Almàssera"
+}, {
+	"id": "033",
+	"nm": "Almiserà"
+}, {
+	"id": "034",
+	"nm": "Almoines"
+}, {
+	"id": "035",
+	"nm": "Almussafes"
+}, {
+	"id": "036",
+	"nm": "Alpuente"
+}, {
+	"id": "037",
+	"nm": "Alqueria de la Comtessa, l'"
+}, {
+	"id": "017",
+	"nm": "Alzira"
+}, {
+	"id": "038",
+	"nm": "Andilla"
+}, {
+	"id": "039",
+	"nm": "Anna"
+}, {
+	"id": "040",
+	"nm": "Antella"
+}, {
+	"id": "041",
+	"nm": "Aras de los Olmos"
+}, {
+	"id": "003",
+	"nm": "Atzeneta d'Albaida"
+}, {
+	"id": "044",
+	"nm": "Ayora"
+}, {
+	"id": "046",
+	"nm": "Barx"
+}, {
+	"id": "045",
+	"nm": "Barxeta"
+}, {
+	"id": "047",
+	"nm": "Bèlgida"
+}, {
+	"id": "048",
+	"nm": "Bellreguard"
+}, {
+	"id": "049",
+	"nm": "Bellús"
+}, {
+	"id": "050",
+	"nm": "Benagéber"
+}, {
+	"id": "051",
+	"nm": "Benaguasil"
+}, {
+	"id": "052",
+	"nm": "Benavites"
+}, {
+	"id": "053",
+	"nm": "Beneixida"
+}, {
+	"id": "054",
+	"nm": "Benetússer"
+}, {
+	"id": "055",
+	"nm": "Beniarjó"
+}, {
+	"id": "056",
+	"nm": "Beniatjar"
+}, {
+	"id": "057",
+	"nm": "Benicolet"
+}, {
+	"id": "904",
+	"nm": "Benicull de Xúquer"
+}, {
+	"id": "060",
+	"nm": "Benifaió"
+}, {
+	"id": "059",
+	"nm": "Benifairó de la Valldigna"
+}, {
+	"id": "058",
+	"nm": "Benifairó de les Valls"
+}, {
+	"id": "061",
+	"nm": "Beniflá"
+}, {
+	"id": "062",
+	"nm": "Benigànim"
+}, {
+	"id": "063",
+	"nm": "Benimodo"
+}, {
+	"id": "064",
+	"nm": "Benimuslem"
+}, {
+	"id": "065",
+	"nm": "Beniparrell"
+}, {
+	"id": "066",
+	"nm": "Benirredrà"
+}, {
+	"id": "067",
+	"nm": "Benisanó"
+}, {
+	"id": "068",
+	"nm": "Benissoda"
+}, {
+	"id": "069",
+	"nm": "Benisuera"
+}, {
+	"id": "070",
+	"nm": "Bétera"
+}, {
+	"id": "071",
+	"nm": "Bicorp"
+}, {
+	"id": "072",
+	"nm": "Bocairent"
+}, {
+	"id": "073",
+	"nm": "Bolbaite"
+}, {
+	"id": "074",
+	"nm": "Bonrepòs i Mirambell"
+}, {
+	"id": "075",
+	"nm": "Bufali"
+}, {
+	"id": "076",
+	"nm": "Bugarra"
+}, {
+	"id": "077",
+	"nm": "Buñol"
+}, {
+	"id": "078",
+	"nm": "Burjassot"
+}, {
+	"id": "079",
+	"nm": "Calles"
+}, {
+	"id": "080",
+	"nm": "Camporrobles"
+}, {
+	"id": "081",
+	"nm": "Canals"
+}, {
+	"id": "082",
+	"nm": "Canet d'En Berenguer"
+}, {
+	"id": "083",
+	"nm": "Carcaixent"
+}, {
+	"id": "084",
+	"nm": "Càrcer"
+}, {
+	"id": "085",
+	"nm": "Carlet"
+}, {
+	"id": "086",
+	"nm": "Carrícola"
+}, {
+	"id": "087",
+	"nm": "Casas Altas"
+}, {
+	"id": "088",
+	"nm": "Casas Bajas"
+}, {
+	"id": "089",
+	"nm": "Casinos"
+}, {
+	"id": "090",
+	"nm": "Castelló de Rugat"
+}, {
+	"id": "091",
+	"nm": "Castellonet de la Conquesta"
+}, {
+	"id": "092",
+	"nm": "Castielfabib"
+}, {
+	"id": "093",
+	"nm": "Catadau"
+}, {
+	"id": "094",
+	"nm": "Catarroja"
+}, {
+	"id": "095",
+	"nm": "Caudete de las Fuentes"
+}, {
+	"id": "096",
+	"nm": "Cerdà"
+}, {
+	"id": "107",
+	"nm": "Chella"
+}, {
+	"id": "106",
+	"nm": "Chelva"
+}, {
+	"id": "108",
+	"nm": "Chera"
+}, {
+	"id": "109",
+	"nm": "Cheste"
+}, {
+	"id": "111",
+	"nm": "Chiva"
+}, {
+	"id": "112",
+	"nm": "Chulilla"
+}, {
+	"id": "097",
+	"nm": "Cofrentes"
+}, {
+	"id": "098",
+	"nm": "Corbera"
+}, {
+	"id": "099",
+	"nm": "Cortes de Pallás"
+}, {
+	"id": "100",
+	"nm": "Cotes"
+}, {
+	"id": "105",
+	"nm": "Cullera"
+}, {
+	"id": "113",
+	"nm": "Daimús"
+}, {
+	"id": "114",
+	"nm": "Domeño"
+}, {
+	"id": "115",
+	"nm": "Dos Aguas"
+}, {
+	"id": "116",
+	"nm": "Eliana, l'"
+}, {
+	"id": "117",
+	"nm": "Emperador"
+}, {
+	"id": "118",
+	"nm": "Enguera"
+}, {
+	"id": "119",
+	"nm": "Ènova, l'"
+}, {
+	"id": "120",
+	"nm": "Estivella"
+}, {
+	"id": "121",
+	"nm": "Estubeny"
+}, {
+	"id": "122",
+	"nm": "Faura"
+}, {
+	"id": "123",
+	"nm": "Favara"
+}, {
+	"id": "126",
+	"nm": "Foios"
+}, {
+	"id": "128",
+	"nm": "Font de la Figuera, la"
+}, {
+	"id": "127",
+	"nm": "Font d'En Carròs, la"
+}, {
+	"id": "124",
+	"nm": "Fontanars dels Alforins"
+}, {
+	"id": "125",
+	"nm": "Fortaleny"
+}, {
+	"id": "129",
+	"nm": "Fuenterrobles"
+}, {
+	"id": "131",
+	"nm": "Gandia"
+}, {
+	"id": "902",
+	"nm": "Gátova"
+}, {
+	"id": "130",
+	"nm": "Gavarda"
+}, {
+	"id": "132",
+	"nm": "Genovés"
+}, {
+	"id": "133",
+	"nm": "Gestalgar"
+}, {
+	"id": "134",
+	"nm": "Gilet"
+}, {
+	"id": "135",
+	"nm": "Godella"
+}, {
+	"id": "136",
+	"nm": "Godelleta"
+}, {
+	"id": "137",
+	"nm": "Granja de la Costera, la"
+}, {
+	"id": "138",
+	"nm": "Guadasséquies"
+}, {
+	"id": "139",
+	"nm": "Guadassuar"
+}, {
+	"id": "140",
+	"nm": "Guardamar de la Safor"
+}, {
+	"id": "141",
+	"nm": "Higueruelas"
+}, {
+	"id": "142",
+	"nm": "Jalance"
+}, {
+	"id": "144",
+	"nm": "Jarafuel"
+}, {
+	"id": "154",
+	"nm": "Llanera de Ranes"
+}, {
+	"id": "155",
+	"nm": "Llaurí"
+}, {
+	"id": "147",
+	"nm": "Llíria"
+}, {
+	"id": "152",
+	"nm": "Llocnou de la Corona"
+}, {
+	"id": "153",
+	"nm": "Llocnou de Sant Jeroni"
+}, {
+	"id": "151",
+	"nm": "Llocnou d'En Fenollet"
+}, {
+	"id": "156",
+	"nm": "Llombai"
+}, {
+	"id": "157",
+	"nm": "Llosa de Ranes, la"
+}, {
+	"id": "150",
+	"nm": "Llutxent"
+}, {
+	"id": "148",
+	"nm": "Loriguilla"
+}, {
+	"id": "149",
+	"nm": "Losa del Obispo"
+}, {
+	"id": "158",
+	"nm": "Macastre"
+}, {
+	"id": "159",
+	"nm": "Manises"
+}, {
+	"id": "160",
+	"nm": "Manuel"
+}, {
+	"id": "161",
+	"nm": "Marines"
+}, {
+	"id": "162",
+	"nm": "Massalavés"
+}, {
+	"id": "163",
+	"nm": "Massalfassar"
+}, {
+	"id": "164",
+	"nm": "Massamagrell"
+}, {
+	"id": "165",
+	"nm": "Massanassa"
+}, {
+	"id": "166",
+	"nm": "Meliana"
+}, {
+	"id": "167",
+	"nm": "Millares"
+}, {
+	"id": "168",
+	"nm": "Miramar"
+}, {
+	"id": "169",
+	"nm": "Mislata"
+}, {
+	"id": "170",
+	"nm": "Mogente/Moixent"
+}, {
+	"id": "171",
+	"nm": "Moncada"
+}, {
+	"id": "173",
+	"nm": "Montaverner"
+}, {
+	"id": "174",
+	"nm": "Montesa"
+}, {
+	"id": "175",
+	"nm": "Montitxelvo/Montichelvo"
+}, {
+	"id": "176",
+	"nm": "Montroi/Montroy"
+}, {
+	"id": "172",
+	"nm": "Montserrat"
+}, {
+	"id": "177",
+	"nm": "Museros"
+}, {
+	"id": "178",
+	"nm": "Náquera"
+}, {
+	"id": "179",
+	"nm": "Navarrés"
+}, {
+	"id": "180",
+	"nm": "Novelé/Novetlè"
+}, {
+	"id": "181",
+	"nm": "Oliva"
+}, {
+	"id": "183",
+	"nm": "Olleria, l'"
+}, {
+	"id": "182",
+	"nm": "Olocau"
+}, {
+	"id": "184",
+	"nm": "Ontinyent"
+}, {
+	"id": "185",
+	"nm": "Otos"
+}, {
+	"id": "186",
+	"nm": "Paiporta"
+}, {
+	"id": "187",
+	"nm": "Palma de Gandía"
+}, {
+	"id": "188",
+	"nm": "Palmera"
+}, {
+	"id": "189",
+	"nm": "Palomar, el"
+}, {
+	"id": "190",
+	"nm": "Paterna"
+}, {
+	"id": "191",
+	"nm": "Pedralba"
+}, {
+	"id": "192",
+	"nm": "Petrés"
+}, {
+	"id": "193",
+	"nm": "Picanya"
+}, {
+	"id": "194",
+	"nm": "Picassent"
+}, {
+	"id": "195",
+	"nm": "Piles"
+}, {
+	"id": "196",
+	"nm": "Pinet"
+}, {
+	"id": "199",
+	"nm": "Pobla de Farnals, la"
+}, {
+	"id": "202",
+	"nm": "Pobla de Vallbona, la"
+}, {
+	"id": "200",
+	"nm": "Pobla del Duc, la"
+}, {
+	"id": "203",
+	"nm": "Pobla Llarga, la"
+}, {
+	"id": "197",
+	"nm": "Polinyà de Xúquer"
+}, {
+	"id": "198",
+	"nm": "Potries"
+}, {
+	"id": "205",
+	"nm": "Puçol"
+}, {
+	"id": "201",
+	"nm": "Puebla de San Miguel"
+}, {
+	"id": "204",
+	"nm": "Puig de Santa Maria, el"
+}, {
+	"id": "101",
+	"nm": "Quart de les Valls"
+}, {
+	"id": "102",
+	"nm": "Quart de Poblet"
+}, {
+	"id": "103",
+	"nm": "Quartell"
+}, {
+	"id": "104",
+	"nm": "Quatretonda"
+}, {
+	"id": "206",
+	"nm": "Quesa"
+}, {
+	"id": "207",
+	"nm": "Rafelbunyol"
+}, {
+	"id": "208",
+	"nm": "Rafelcofer"
+}, {
+	"id": "209",
+	"nm": "Rafelguaraf"
+}, {
+	"id": "210",
+	"nm": "Ráfol de Salem"
+}, {
+	"id": "212",
+	"nm": "Real"
+}, {
+	"id": "211",
+	"nm": "Real de Gandía"
+}, {
+	"id": "213",
+	"nm": "Requena"
+}, {
+	"id": "214",
+	"nm": "Riba-roja de Túria"
+}, {
+	"id": "215",
+	"nm": "Riola"
+}, {
+	"id": "216",
+	"nm": "Rocafort"
+}, {
+	"id": "217",
+	"nm": "Rotglà i Corberà"
+}, {
+	"id": "218",
+	"nm": "Rótova"
+}, {
+	"id": "219",
+	"nm": "Rugat"
+}, {
+	"id": "220",
+	"nm": "Sagunto/Sagunt"
+}, {
+	"id": "221",
+	"nm": "Salem"
+}, {
+	"id": "903",
+	"nm": "San Antonio de Benagéber"
+}, {
+	"id": "222",
+	"nm": "Sant Joanet"
+}, {
+	"id": "223",
+	"nm": "Sedaví"
+}, {
+	"id": "224",
+	"nm": "Segart"
+}, {
+	"id": "225",
+	"nm": "Sellent"
+}, {
+	"id": "226",
+	"nm": "Sempere"
+}, {
+	"id": "227",
+	"nm": "Senyera"
+}, {
+	"id": "228",
+	"nm": "Serra"
+}, {
+	"id": "229",
+	"nm": "Siete Aguas"
+}, {
+	"id": "230",
+	"nm": "Silla"
+}, {
+	"id": "231",
+	"nm": "Simat de la Valldigna"
+}, {
+	"id": "232",
+	"nm": "Sinarcas"
+}, {
+	"id": "233",
+	"nm": "Sollana"
+}, {
+	"id": "234",
+	"nm": "Sot de Chera"
+}, {
+	"id": "235",
+	"nm": "Sueca"
+}, {
+	"id": "236",
+	"nm": "Sumacàrcer"
+}, {
+	"id": "237",
+	"nm": "Tavernes Blanques"
+}, {
+	"id": "238",
+	"nm": "Tavernes de la Valldigna"
+}, {
+	"id": "239",
+	"nm": "Teresa de Cofrentes"
+}, {
+	"id": "240",
+	"nm": "Terrateig"
+}, {
+	"id": "241",
+	"nm": "Titaguas"
+}, {
+	"id": "242",
+	"nm": "Torrebaja"
+}, {
+	"id": "243",
+	"nm": "Torrella"
+}, {
+	"id": "244",
+	"nm": "Torrent"
+}, {
+	"id": "245",
+	"nm": "Torres Torres"
+}, {
+	"id": "246",
+	"nm": "Tous"
+}, {
+	"id": "247",
+	"nm": "Tuéjar"
+}, {
+	"id": "248",
+	"nm": "Turís"
+}, {
+	"id": "249",
+	"nm": "Utiel"
+}, {
+	"id": "250",
+	"nm": "Valencia"
+}, {
+	"id": "251",
+	"nm": "Vallada"
+}, {
+	"id": "252",
+	"nm": "Vallanca"
+}, {
+	"id": "253",
+	"nm": "Vallés"
+}, {
+	"id": "254",
+	"nm": "Venta del Moro"
+}, {
+	"id": "255",
+	"nm": "Vilallonga/Villalonga"
+}, {
+	"id": "256",
+	"nm": "Vilamarxant"
+}, {
+	"id": "257",
+	"nm": "Villanueva de Castellón"
+}, {
+	"id": "258",
+	"nm": "Villar del Arzobispo"
+}, {
+	"id": "259",
+	"nm": "Villargordo del Cabriel"
+}, {
+	"id": "260",
+	"nm": "Vinalesa"
+}, {
+	"id": "145",
+	"nm": "Xàtiva"
+}, {
+	"id": "143",
+	"nm": "Xeraco"
+}, {
+	"id": "146",
+	"nm": "Xeresa"
+}, {
+	"id": "110",
+	"nm": "Xirivella"
+}, {
+	"id": "261",
+	"nm": "Yátova"
+}, {
+	"id": "262",
+	"nm": "Yesa, La"
+}, {
+	"id": "263",
+	"nm": "Zarra"
+}]

@@ -1,0 +1,574 @@
+[{
+	"id": "001",
+	"nm": "Abarca de Campos"
+}, {
+	"id": "003",
+	"nm": "Abia de las Torres"
+}, {
+	"id": "004",
+	"nm": "Aguilar de Campoo"
+}, {
+	"id": "005",
+	"nm": "Alar del Rey"
+}, {
+	"id": "006",
+	"nm": "Alba de Cerrato"
+}, {
+	"id": "009",
+	"nm": "Amayuelas de Arriba"
+}, {
+	"id": "010",
+	"nm": "Ampudia"
+}, {
+	"id": "011",
+	"nm": "Amusco"
+}, {
+	"id": "012",
+	"nm": "Antigüedad"
+}, {
+	"id": "015",
+	"nm": "Arconada"
+}, {
+	"id": "017",
+	"nm": "Astudillo"
+}, {
+	"id": "018",
+	"nm": "Autilla del Pino"
+}, {
+	"id": "019",
+	"nm": "Autillo de Campos"
+}, {
+	"id": "020",
+	"nm": "Ayuela"
+}, {
+	"id": "022",
+	"nm": "Baltanás"
+}, {
+	"id": "024",
+	"nm": "Baquerín de Campos"
+}, {
+	"id": "025",
+	"nm": "Bárcena de Campos"
+}, {
+	"id": "027",
+	"nm": "Barruelo de Santullán"
+}, {
+	"id": "028",
+	"nm": "Báscones de Ojeda"
+}, {
+	"id": "029",
+	"nm": "Becerril de Campos"
+}, {
+	"id": "031",
+	"nm": "Belmonte de Campos"
+}, {
+	"id": "032",
+	"nm": "Berzosilla"
+}, {
+	"id": "033",
+	"nm": "Boada de Campos"
+}, {
+	"id": "035",
+	"nm": "Boadilla de Rioseco"
+}, {
+	"id": "034",
+	"nm": "Boadilla del Camino"
+}, {
+	"id": "036",
+	"nm": "Brañosera"
+}, {
+	"id": "037",
+	"nm": "Buenavista de Valdavia"
+}, {
+	"id": "038",
+	"nm": "Bustillo de la Vega"
+}, {
+	"id": "039",
+	"nm": "Bustillo del Páramo de Carrión"
+}, {
+	"id": "041",
+	"nm": "Calahorra de Boedo"
+}, {
+	"id": "042",
+	"nm": "Calzada de los Molinos"
+}, {
+	"id": "045",
+	"nm": "Capillas"
+}, {
+	"id": "046",
+	"nm": "Cardeñosa de Volpejera"
+}, {
+	"id": "047",
+	"nm": "Carrión de los Condes"
+}, {
+	"id": "048",
+	"nm": "Castil de Vela"
+}, {
+	"id": "049",
+	"nm": "Castrejón de la Peña"
+}, {
+	"id": "050",
+	"nm": "Castrillo de Don Juan"
+}, {
+	"id": "051",
+	"nm": "Castrillo de Onielo"
+}, {
+	"id": "052",
+	"nm": "Castrillo de Villavega"
+}, {
+	"id": "053",
+	"nm": "Castromocho"
+}, {
+	"id": "055",
+	"nm": "Cervatos de la Cueza"
+}, {
+	"id": "056",
+	"nm": "Cervera de Pisuerga"
+}, {
+	"id": "057",
+	"nm": "Cevico de la Torre"
+}, {
+	"id": "058",
+	"nm": "Cevico Navero"
+}, {
+	"id": "059",
+	"nm": "Cisneros"
+}, {
+	"id": "060",
+	"nm": "Cobos de Cerrato"
+}, {
+	"id": "061",
+	"nm": "Collazos de Boedo"
+}, {
+	"id": "062",
+	"nm": "Congosto de Valdavia"
+}, {
+	"id": "063",
+	"nm": "Cordovilla la Real"
+}, {
+	"id": "066",
+	"nm": "Cubillas de Cerrato"
+}, {
+	"id": "067",
+	"nm": "Dehesa de Montejo"
+}, {
+	"id": "068",
+	"nm": "Dehesa de Romanos"
+}, {
+	"id": "069",
+	"nm": "Dueñas"
+}, {
+	"id": "070",
+	"nm": "Espinosa de Cerrato"
+}, {
+	"id": "071",
+	"nm": "Espinosa de Villagonzalo"
+}, {
+	"id": "072",
+	"nm": "Frechilla"
+}, {
+	"id": "073",
+	"nm": "Fresno del Río"
+}, {
+	"id": "074",
+	"nm": "Frómista"
+}, {
+	"id": "076",
+	"nm": "Fuentes de Nava"
+}, {
+	"id": "077",
+	"nm": "Fuentes de Valdepero"
+}, {
+	"id": "079",
+	"nm": "Grijota"
+}, {
+	"id": "080",
+	"nm": "Guardo"
+}, {
+	"id": "081",
+	"nm": "Guaza de Campos"
+}, {
+	"id": "082",
+	"nm": "Hérmedes de Cerrato"
+}, {
+	"id": "083",
+	"nm": "Herrera de Pisuerga"
+}, {
+	"id": "084",
+	"nm": "Herrera de Valdecañas"
+}, {
+	"id": "086",
+	"nm": "Hontoria de Cerrato"
+}, {
+	"id": "087",
+	"nm": "Hornillos de Cerrato"
+}, {
+	"id": "088",
+	"nm": "Husillos"
+}, {
+	"id": "089",
+	"nm": "Itero de la Vega"
+}, {
+	"id": "091",
+	"nm": "Lagartos"
+}, {
+	"id": "092",
+	"nm": "Lantadilla"
+}, {
+	"id": "094",
+	"nm": "Ledigos"
+}, {
+	"id": "903",
+	"nm": "Loma de Ucieza"
+}, {
+	"id": "096",
+	"nm": "Lomas"
+}, {
+	"id": "098",
+	"nm": "Magaz de Pisuerga"
+}, {
+	"id": "099",
+	"nm": "Manquillos"
+}, {
+	"id": "100",
+	"nm": "Mantinos"
+}, {
+	"id": "101",
+	"nm": "Marcilla de Campos"
+}, {
+	"id": "102",
+	"nm": "Mazariegos"
+}, {
+	"id": "103",
+	"nm": "Mazuecos de Valdeginate"
+}, {
+	"id": "104",
+	"nm": "Melgar de Yuso"
+}, {
+	"id": "106",
+	"nm": "Meneses de Campos"
+}, {
+	"id": "107",
+	"nm": "Micieces de Ojeda"
+}, {
+	"id": "108",
+	"nm": "Monzón de Campos"
+}, {
+	"id": "109",
+	"nm": "Moratinos"
+}, {
+	"id": "110",
+	"nm": "Mudá"
+}, {
+	"id": "112",
+	"nm": "Nogal de las Huertas"
+}, {
+	"id": "113",
+	"nm": "Olea de Boedo"
+}, {
+	"id": "114",
+	"nm": "Olmos de Ojeda"
+}, {
+	"id": "116",
+	"nm": "Osornillo"
+}, {
+	"id": "901",
+	"nm": "Osorno la Mayor"
+}, {
+	"id": "120",
+	"nm": "Palencia"
+}, {
+	"id": "121",
+	"nm": "Palenzuela"
+}, {
+	"id": "122",
+	"nm": "Páramo de Boedo"
+}, {
+	"id": "123",
+	"nm": "Paredes de Nava"
+}, {
+	"id": "124",
+	"nm": "Payo de Ojeda"
+}, {
+	"id": "125",
+	"nm": "Pedraza de Campos"
+}, {
+	"id": "126",
+	"nm": "Pedrosa de la Vega"
+}, {
+	"id": "127",
+	"nm": "Perales"
+}, {
+	"id": "904",
+	"nm": "Pernía, La"
+}, {
+	"id": "129",
+	"nm": "Pino del Río"
+}, {
+	"id": "130",
+	"nm": "Piña de Campos"
+}, {
+	"id": "131",
+	"nm": "Población de Arroyo"
+}, {
+	"id": "132",
+	"nm": "Población de Campos"
+}, {
+	"id": "133",
+	"nm": "Población de Cerrato"
+}, {
+	"id": "134",
+	"nm": "Polentinos"
+}, {
+	"id": "135",
+	"nm": "Pomar de Valdivia"
+}, {
+	"id": "136",
+	"nm": "Poza de la Vega"
+}, {
+	"id": "137",
+	"nm": "Pozo de Urama"
+}, {
+	"id": "139",
+	"nm": "Prádanos de Ojeda"
+}, {
+	"id": "140",
+	"nm": "Puebla de Valdavia, La"
+}, {
+	"id": "141",
+	"nm": "Quintana del Puente"
+}, {
+	"id": "143",
+	"nm": "Quintanilla de Onsoña"
+}, {
+	"id": "146",
+	"nm": "Reinoso de Cerrato"
+}, {
+	"id": "147",
+	"nm": "Renedo de la Vega"
+}, {
+	"id": "149",
+	"nm": "Requena de Campos"
+}, {
+	"id": "151",
+	"nm": "Respenda de la Peña"
+}, {
+	"id": "152",
+	"nm": "Revenga de Campos"
+}, {
+	"id": "154",
+	"nm": "Revilla de Collazos"
+}, {
+	"id": "155",
+	"nm": "Ribas de Campos"
+}, {
+	"id": "156",
+	"nm": "Riberos de la Cueza"
+}, {
+	"id": "157",
+	"nm": "Saldaña"
+}, {
+	"id": "158",
+	"nm": "Salinas de Pisuerga"
+}, {
+	"id": "159",
+	"nm": "San Cebrián de Campos"
+}, {
+	"id": "160",
+	"nm": "San Cebrián de Mudá"
+}, {
+	"id": "161",
+	"nm": "San Cristóbal de Boedo"
+}, {
+	"id": "163",
+	"nm": "San Mamés de Campos"
+}, {
+	"id": "165",
+	"nm": "San Román de la Cuba"
+}, {
+	"id": "167",
+	"nm": "Santa Cecilia del Alcor"
+}, {
+	"id": "168",
+	"nm": "Santa Cruz de Boedo"
+}, {
+	"id": "169",
+	"nm": "Santervás de la Vega"
+}, {
+	"id": "170",
+	"nm": "Santibáñez de Ecla"
+}, {
+	"id": "171",
+	"nm": "Santibáñez de la Peña"
+}, {
+	"id": "174",
+	"nm": "Santoyo"
+}, {
+	"id": "175",
+	"nm": "Serna, La"
+}, {
+	"id": "177",
+	"nm": "Soto de Cerrato"
+}, {
+	"id": "176",
+	"nm": "Sotobañado y Priorato"
+}, {
+	"id": "178",
+	"nm": "Tabanera de Cerrato"
+}, {
+	"id": "179",
+	"nm": "Tabanera de Valdavia"
+}, {
+	"id": "180",
+	"nm": "Támara de Campos"
+}, {
+	"id": "181",
+	"nm": "Tariego de Cerrato"
+}, {
+	"id": "182",
+	"nm": "Torquemada"
+}, {
+	"id": "184",
+	"nm": "Torremormojón"
+}, {
+	"id": "185",
+	"nm": "Triollo"
+}, {
+	"id": "186",
+	"nm": "Valbuena de Pisuerga"
+}, {
+	"id": "189",
+	"nm": "Valdeolmillos"
+}, {
+	"id": "190",
+	"nm": "Valderrábano"
+}, {
+	"id": "192",
+	"nm": "Valde-Ucieza"
+}, {
+	"id": "196",
+	"nm": "Valle de Cerrato"
+}, {
+	"id": "902",
+	"nm": "Valle del Retortillo"
+}, {
+	"id": "199",
+	"nm": "Velilla del Río Carrión"
+}, {
+	"id": "023",
+	"nm": "Venta de Baños"
+}, {
+	"id": "201",
+	"nm": "Vertavillo"
+}, {
+	"id": "093",
+	"nm": "Vid de Ojeda, La"
+}, {
+	"id": "202",
+	"nm": "Villabasta de Valdavia"
+}, {
+	"id": "204",
+	"nm": "Villacidaler"
+}, {
+	"id": "205",
+	"nm": "Villaconancio"
+}, {
+	"id": "206",
+	"nm": "Villada"
+}, {
+	"id": "208",
+	"nm": "Villaeles de Valdavia"
+}, {
+	"id": "210",
+	"nm": "Villahán"
+}, {
+	"id": "211",
+	"nm": "Villaherreros"
+}, {
+	"id": "213",
+	"nm": "Villalaco"
+}, {
+	"id": "214",
+	"nm": "Villalba de Guardo"
+}, {
+	"id": "215",
+	"nm": "Villalcázar de Sirga"
+}, {
+	"id": "216",
+	"nm": "Villalcón"
+}, {
+	"id": "217",
+	"nm": "Villalobón"
+}, {
+	"id": "218",
+	"nm": "Villaluenga de la Vega"
+}, {
+	"id": "220",
+	"nm": "Villamartín de Campos"
+}, {
+	"id": "221",
+	"nm": "Villamediana"
+}, {
+	"id": "222",
+	"nm": "Villameriel"
+}, {
+	"id": "223",
+	"nm": "Villamoronta"
+}, {
+	"id": "224",
+	"nm": "Villamuera de la Cueza"
+}, {
+	"id": "225",
+	"nm": "Villamuriel de Cerrato"
+}, {
+	"id": "227",
+	"nm": "Villanueva del Rebollar"
+}, {
+	"id": "228",
+	"nm": "Villanuño de Valdavia"
+}, {
+	"id": "229",
+	"nm": "Villaprovedo"
+}, {
+	"id": "230",
+	"nm": "Villarmentero de Campos"
+}, {
+	"id": "231",
+	"nm": "Villarrabé"
+}, {
+	"id": "232",
+	"nm": "Villarramiel"
+}, {
+	"id": "233",
+	"nm": "Villasarracino"
+}, {
+	"id": "234",
+	"nm": "Villasila de Valdavia"
+}, {
+	"id": "236",
+	"nm": "Villaturde"
+}, {
+	"id": "237",
+	"nm": "Villaumbrales"
+}, {
+	"id": "238",
+	"nm": "Villaviudas"
+}, {
+	"id": "240",
+	"nm": "Villerías de Campos"
+}, {
+	"id": "241",
+	"nm": "Villodre"
+}, {
+	"id": "242",
+	"nm": "Villodrigo"
+}, {
+	"id": "243",
+	"nm": "Villoldo"
+}, {
+	"id": "245",
+	"nm": "Villota del Páramo"
+}, {
+	"id": "246",
+	"nm": "Villovieco"
+}]

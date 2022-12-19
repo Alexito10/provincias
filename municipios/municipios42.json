@@ -1,0 +1,550 @@
+[{
+	"id": "001",
+	"nm": "Abejar"
+}, {
+	"id": "003",
+	"nm": "Adradas"
+}, {
+	"id": "004",
+	"nm": "Ágreda"
+}, {
+	"id": "006",
+	"nm": "Alconaba"
+}, {
+	"id": "007",
+	"nm": "Alcubilla de Avellaneda"
+}, {
+	"id": "008",
+	"nm": "Alcubilla de las Peñas"
+}, {
+	"id": "009",
+	"nm": "Aldealafuente"
+}, {
+	"id": "010",
+	"nm": "Aldealices"
+}, {
+	"id": "011",
+	"nm": "Aldealpozo"
+}, {
+	"id": "012",
+	"nm": "Aldealseñor"
+}, {
+	"id": "013",
+	"nm": "Aldehuela de Periáñez"
+}, {
+	"id": "014",
+	"nm": "Aldehuelas, Las"
+}, {
+	"id": "015",
+	"nm": "Alentisque"
+}, {
+	"id": "016",
+	"nm": "Aliud"
+}, {
+	"id": "017",
+	"nm": "Almajano"
+}, {
+	"id": "018",
+	"nm": "Almaluez"
+}, {
+	"id": "019",
+	"nm": "Almarza"
+}, {
+	"id": "020",
+	"nm": "Almazán"
+}, {
+	"id": "021",
+	"nm": "Almazul"
+}, {
+	"id": "022",
+	"nm": "Almenar de Soria"
+}, {
+	"id": "023",
+	"nm": "Alpanseque"
+}, {
+	"id": "024",
+	"nm": "Arancón"
+}, {
+	"id": "025",
+	"nm": "Arcos de Jalón"
+}, {
+	"id": "026",
+	"nm": "Arenillas"
+}, {
+	"id": "027",
+	"nm": "Arévalo de la Sierra"
+}, {
+	"id": "028",
+	"nm": "Ausejo de la Sierra"
+}, {
+	"id": "029",
+	"nm": "Baraona"
+}, {
+	"id": "030",
+	"nm": "Barca"
+}, {
+	"id": "031",
+	"nm": "Barcones"
+}, {
+	"id": "032",
+	"nm": "Bayubas de Abajo"
+}, {
+	"id": "033",
+	"nm": "Bayubas de Arriba"
+}, {
+	"id": "034",
+	"nm": "Beratón"
+}, {
+	"id": "035",
+	"nm": "Berlanga de Duero"
+}, {
+	"id": "036",
+	"nm": "Blacos"
+}, {
+	"id": "037",
+	"nm": "Bliecos"
+}, {
+	"id": "038",
+	"nm": "Borjabad"
+}, {
+	"id": "039",
+	"nm": "Borobia"
+}, {
+	"id": "041",
+	"nm": "Buberos"
+}, {
+	"id": "042",
+	"nm": "Buitrago"
+}, {
+	"id": "043",
+	"nm": "Burgo de Osma-Ciudad de Osma"
+}, {
+	"id": "044",
+	"nm": "Cabrejas del Campo"
+}, {
+	"id": "045",
+	"nm": "Cabrejas del Pinar"
+}, {
+	"id": "046",
+	"nm": "Calatañazor"
+}, {
+	"id": "048",
+	"nm": "Caltojar"
+}, {
+	"id": "049",
+	"nm": "Candilichera"
+}, {
+	"id": "050",
+	"nm": "Cañamaque"
+}, {
+	"id": "051",
+	"nm": "Carabantes"
+}, {
+	"id": "052",
+	"nm": "Caracena"
+}, {
+	"id": "053",
+	"nm": "Carrascosa de Abajo"
+}, {
+	"id": "054",
+	"nm": "Carrascosa de la Sierra"
+}, {
+	"id": "055",
+	"nm": "Casarejos"
+}, {
+	"id": "056",
+	"nm": "Castilfrío de la Sierra"
+}, {
+	"id": "058",
+	"nm": "Castillejo de Robledo"
+}, {
+	"id": "057",
+	"nm": "Castilruiz"
+}, {
+	"id": "059",
+	"nm": "Centenera de Andaluz"
+}, {
+	"id": "060",
+	"nm": "Cerbón"
+}, {
+	"id": "061",
+	"nm": "Cidones"
+}, {
+	"id": "062",
+	"nm": "Cigudosa"
+}, {
+	"id": "063",
+	"nm": "Cihuela"
+}, {
+	"id": "064",
+	"nm": "Ciria"
+}, {
+	"id": "065",
+	"nm": "Cirujales del Río"
+}, {
+	"id": "068",
+	"nm": "Coscurita"
+}, {
+	"id": "069",
+	"nm": "Covaleda"
+}, {
+	"id": "070",
+	"nm": "Cubilla"
+}, {
+	"id": "071",
+	"nm": "Cubo de la Solana"
+}, {
+	"id": "073",
+	"nm": "Cueva de Ágreda"
+}, {
+	"id": "075",
+	"nm": "Dévanos"
+}, {
+	"id": "076",
+	"nm": "Deza"
+}, {
+	"id": "078",
+	"nm": "Duruelo de la Sierra"
+}, {
+	"id": "079",
+	"nm": "Escobosa de Almazán"
+}, {
+	"id": "080",
+	"nm": "Espeja de San Marcelino"
+}, {
+	"id": "081",
+	"nm": "Espejón"
+}, {
+	"id": "082",
+	"nm": "Estepa de San Juan"
+}, {
+	"id": "083",
+	"nm": "Frechilla de Almazán"
+}, {
+	"id": "084",
+	"nm": "Fresno de Caracena"
+}, {
+	"id": "085",
+	"nm": "Fuentearmegil"
+}, {
+	"id": "086",
+	"nm": "Fuentecambrón"
+}, {
+	"id": "087",
+	"nm": "Fuentecantos"
+}, {
+	"id": "088",
+	"nm": "Fuentelmonge"
+}, {
+	"id": "089",
+	"nm": "Fuentelsaz de Soria"
+}, {
+	"id": "090",
+	"nm": "Fuentepinilla"
+}, {
+	"id": "092",
+	"nm": "Fuentes de Magaña"
+}, {
+	"id": "093",
+	"nm": "Fuentestrún"
+}, {
+	"id": "094",
+	"nm": "Garray"
+}, {
+	"id": "095",
+	"nm": "Golmayo"
+}, {
+	"id": "096",
+	"nm": "Gómara"
+}, {
+	"id": "097",
+	"nm": "Gormaz"
+}, {
+	"id": "098",
+	"nm": "Herrera de Soria"
+}, {
+	"id": "100",
+	"nm": "Hinojosa del Campo"
+}, {
+	"id": "103",
+	"nm": "Langa de Duero"
+}, {
+	"id": "105",
+	"nm": "Liceras"
+}, {
+	"id": "106",
+	"nm": "Losilla, La"
+}, {
+	"id": "107",
+	"nm": "Magaña"
+}, {
+	"id": "108",
+	"nm": "Maján"
+}, {
+	"id": "110",
+	"nm": "Matalebreras"
+}, {
+	"id": "111",
+	"nm": "Matamala de Almazán"
+}, {
+	"id": "113",
+	"nm": "Medinaceli"
+}, {
+	"id": "115",
+	"nm": "Miño de Medinaceli"
+}, {
+	"id": "116",
+	"nm": "Miño de San Esteban"
+}, {
+	"id": "117",
+	"nm": "Molinos de Duero"
+}, {
+	"id": "118",
+	"nm": "Momblona"
+}, {
+	"id": "119",
+	"nm": "Monteagudo de las Vicarías"
+}, {
+	"id": "120",
+	"nm": "Montejo de Tiermes"
+}, {
+	"id": "121",
+	"nm": "Montenegro de Cameros"
+}, {
+	"id": "123",
+	"nm": "Morón de Almazán"
+}, {
+	"id": "124",
+	"nm": "Muriel de la Fuente"
+}, {
+	"id": "125",
+	"nm": "Muriel Viejo"
+}, {
+	"id": "127",
+	"nm": "Nafría de Ucero"
+}, {
+	"id": "128",
+	"nm": "Narros"
+}, {
+	"id": "129",
+	"nm": "Navaleno"
+}, {
+	"id": "130",
+	"nm": "Nepas"
+}, {
+	"id": "131",
+	"nm": "Nolay"
+}, {
+	"id": "132",
+	"nm": "Noviercas"
+}, {
+	"id": "134",
+	"nm": "Ólvega"
+}, {
+	"id": "135",
+	"nm": "Oncala"
+}, {
+	"id": "139",
+	"nm": "Pinilla del Campo"
+}, {
+	"id": "140",
+	"nm": "Portillo de Soria"
+}, {
+	"id": "141",
+	"nm": "Póveda de Soria, La"
+}, {
+	"id": "142",
+	"nm": "Pozalmuro"
+}, {
+	"id": "144",
+	"nm": "Quintana Redonda"
+}, {
+	"id": "145",
+	"nm": "Quintanas de Gormaz"
+}, {
+	"id": "148",
+	"nm": "Quiñonería"
+}, {
+	"id": "149",
+	"nm": "Rábanos, Los"
+}, {
+	"id": "151",
+	"nm": "Rebollar"
+}, {
+	"id": "152",
+	"nm": "Recuerda"
+}, {
+	"id": "153",
+	"nm": "Rello"
+}, {
+	"id": "154",
+	"nm": "Renieblas"
+}, {
+	"id": "155",
+	"nm": "Retortillo de Soria"
+}, {
+	"id": "156",
+	"nm": "Reznos"
+}, {
+	"id": "157",
+	"nm": "Riba de Escalote, La"
+}, {
+	"id": "158",
+	"nm": "Rioseco de Soria"
+}, {
+	"id": "159",
+	"nm": "Rollamienta"
+}, {
+	"id": "160",
+	"nm": "Royo, El"
+}, {
+	"id": "161",
+	"nm": "Salduero"
+}, {
+	"id": "162",
+	"nm": "San Esteban de Gormaz"
+}, {
+	"id": "163",
+	"nm": "San Felices"
+}, {
+	"id": "164",
+	"nm": "San Leonardo de Yagüe"
+}, {
+	"id": "165",
+	"nm": "San Pedro Manrique"
+}, {
+	"id": "166",
+	"nm": "Santa Cruz de Yanguas"
+}, {
+	"id": "167",
+	"nm": "Santa María de Huerta"
+}, {
+	"id": "168",
+	"nm": "Santa María de las Hoyas"
+}, {
+	"id": "171",
+	"nm": "Serón de Nágima"
+}, {
+	"id": "172",
+	"nm": "Soliedra"
+}, {
+	"id": "173",
+	"nm": "Soria"
+}, {
+	"id": "174",
+	"nm": "Sotillo del Rincón"
+}, {
+	"id": "175",
+	"nm": "Suellacabras"
+}, {
+	"id": "176",
+	"nm": "Tajahuerce"
+}, {
+	"id": "177",
+	"nm": "Tajueco"
+}, {
+	"id": "178",
+	"nm": "Talveila"
+}, {
+	"id": "181",
+	"nm": "Tardelcuende"
+}, {
+	"id": "182",
+	"nm": "Taroda"
+}, {
+	"id": "183",
+	"nm": "Tejado"
+}, {
+	"id": "184",
+	"nm": "Torlengua"
+}, {
+	"id": "185",
+	"nm": "Torreblacos"
+}, {
+	"id": "187",
+	"nm": "Torrubia de Soria"
+}, {
+	"id": "188",
+	"nm": "Trévago"
+}, {
+	"id": "189",
+	"nm": "Ucero"
+}, {
+	"id": "190",
+	"nm": "Vadillo"
+}, {
+	"id": "191",
+	"nm": "Valdeavellano de Tera"
+}, {
+	"id": "192",
+	"nm": "Valdegeña"
+}, {
+	"id": "193",
+	"nm": "Valdelagua del Cerro"
+}, {
+	"id": "194",
+	"nm": "Valdemaluque"
+}, {
+	"id": "195",
+	"nm": "Valdenebro"
+}, {
+	"id": "196",
+	"nm": "Valdeprado"
+}, {
+	"id": "197",
+	"nm": "Valderrodilla"
+}, {
+	"id": "198",
+	"nm": "Valtajeros"
+}, {
+	"id": "200",
+	"nm": "Velamazán"
+}, {
+	"id": "201",
+	"nm": "Velilla de la Sierra"
+}, {
+	"id": "202",
+	"nm": "Velilla de los Ajos"
+}, {
+	"id": "204",
+	"nm": "Viana de Duero"
+}, {
+	"id": "205",
+	"nm": "Villaciervos"
+}, {
+	"id": "206",
+	"nm": "Villanueva de Gormaz"
+}, {
+	"id": "207",
+	"nm": "Villar del Ala"
+}, {
+	"id": "208",
+	"nm": "Villar del Campo"
+}, {
+	"id": "209",
+	"nm": "Villar del Río"
+}, {
+	"id": "211",
+	"nm": "Villares de Soria, Los"
+}, {
+	"id": "212",
+	"nm": "Villasayas"
+}, {
+	"id": "213",
+	"nm": "Villaseca de Arciel"
+}, {
+	"id": "215",
+	"nm": "Vinuesa"
+}, {
+	"id": "216",
+	"nm": "Vizmanos"
+}, {
+	"id": "217",
+	"nm": "Vozmediano"
+}, {
+	"id": "218",
+	"nm": "Yanguas"
+}, {
+	"id": "219",
+	"nm": "Yelo"
+}]

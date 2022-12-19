@@ -1,0 +1,709 @@
+[{
+	"id": "001",
+	"nm": "Ababuj"
+}, {
+	"id": "002",
+	"nm": "Abejuela"
+}, {
+	"id": "003",
+	"nm": "Aguatón"
+}, {
+	"id": "004",
+	"nm": "Aguaviva"
+}, {
+	"id": "005",
+	"nm": "Aguilar del Alfambra"
+}, {
+	"id": "006",
+	"nm": "Alacón"
+}, {
+	"id": "007",
+	"nm": "Alba"
+}, {
+	"id": "008",
+	"nm": "Albalate del Arzobispo"
+}, {
+	"id": "009",
+	"nm": "Albarracín"
+}, {
+	"id": "010",
+	"nm": "Albentosa"
+}, {
+	"id": "011",
+	"nm": "Alcaine"
+}, {
+	"id": "012",
+	"nm": "Alcalá de la Selva"
+}, {
+	"id": "013",
+	"nm": "Alcañiz"
+}, {
+	"id": "014",
+	"nm": "Alcorisa"
+}, {
+	"id": "016",
+	"nm": "Alfambra"
+}, {
+	"id": "017",
+	"nm": "Aliaga"
+}, {
+	"id": "021",
+	"nm": "Allepuz"
+}, {
+	"id": "022",
+	"nm": "Alloza"
+}, {
+	"id": "023",
+	"nm": "Allueva"
+}, {
+	"id": "018",
+	"nm": "Almohaja"
+}, {
+	"id": "019",
+	"nm": "Alobras"
+}, {
+	"id": "020",
+	"nm": "Alpeñés"
+}, {
+	"id": "024",
+	"nm": "Anadón"
+}, {
+	"id": "025",
+	"nm": "Andorra"
+}, {
+	"id": "026",
+	"nm": "Arcos de las Salinas"
+}, {
+	"id": "027",
+	"nm": "Arens de Lledó"
+}, {
+	"id": "028",
+	"nm": "Argente"
+}, {
+	"id": "029",
+	"nm": "Ariño"
+}, {
+	"id": "031",
+	"nm": "Azaila"
+}, {
+	"id": "032",
+	"nm": "Bádenas"
+}, {
+	"id": "033",
+	"nm": "Báguena"
+}, {
+	"id": "034",
+	"nm": "Bañón"
+}, {
+	"id": "035",
+	"nm": "Barrachina"
+}, {
+	"id": "036",
+	"nm": "Bea"
+}, {
+	"id": "037",
+	"nm": "Beceite"
+}, {
+	"id": "039",
+	"nm": "Bello"
+}, {
+	"id": "038",
+	"nm": "Belmonte de San José"
+}, {
+	"id": "040",
+	"nm": "Berge"
+}, {
+	"id": "041",
+	"nm": "Bezas"
+}, {
+	"id": "042",
+	"nm": "Blancas"
+}, {
+	"id": "043",
+	"nm": "Blesa"
+}, {
+	"id": "044",
+	"nm": "Bordón"
+}, {
+	"id": "045",
+	"nm": "Bronchales"
+}, {
+	"id": "046",
+	"nm": "Bueña"
+}, {
+	"id": "047",
+	"nm": "Burbáguena"
+}, {
+	"id": "048",
+	"nm": "Cabra de Mora"
+}, {
+	"id": "049",
+	"nm": "Calaceite"
+}, {
+	"id": "050",
+	"nm": "Calamocha"
+}, {
+	"id": "051",
+	"nm": "Calanda"
+}, {
+	"id": "052",
+	"nm": "Calomarde"
+}, {
+	"id": "053",
+	"nm": "Camañas"
+}, {
+	"id": "054",
+	"nm": "Camarena de la Sierra"
+}, {
+	"id": "055",
+	"nm": "Camarillas"
+}, {
+	"id": "056",
+	"nm": "Caminreal"
+}, {
+	"id": "059",
+	"nm": "Cantavieja"
+}, {
+	"id": "060",
+	"nm": "Cañada de Benatanduz"
+}, {
+	"id": "061",
+	"nm": "Cañada de Verich, La"
+}, {
+	"id": "062",
+	"nm": "Cañada Vellida"
+}, {
+	"id": "063",
+	"nm": "Cañizar del Olivar"
+}, {
+	"id": "064",
+	"nm": "Cascante del Río"
+}, {
+	"id": "065",
+	"nm": "Castejón de Tornos"
+}, {
+	"id": "066",
+	"nm": "Castel de Cabra"
+}, {
+	"id": "070",
+	"nm": "Castellar, El"
+}, {
+	"id": "071",
+	"nm": "Castellote"
+}, {
+	"id": "067",
+	"nm": "Castelnou"
+}, {
+	"id": "068",
+	"nm": "Castelserás"
+}, {
+	"id": "074",
+	"nm": "Cedrillas"
+}, {
+	"id": "075",
+	"nm": "Celadas"
+}, {
+	"id": "076",
+	"nm": "Cella"
+}, {
+	"id": "077",
+	"nm": "Cerollera, La"
+}, {
+	"id": "080",
+	"nm": "Codoñera, La"
+}, {
+	"id": "082",
+	"nm": "Corbalán"
+}, {
+	"id": "084",
+	"nm": "Cortes de Aragón"
+}, {
+	"id": "085",
+	"nm": "Cosa"
+}, {
+	"id": "086",
+	"nm": "Cretas"
+}, {
+	"id": "087",
+	"nm": "Crivillén"
+}, {
+	"id": "088",
+	"nm": "Cuba, La"
+}, {
+	"id": "089",
+	"nm": "Cubla"
+}, {
+	"id": "090",
+	"nm": "Cucalón"
+}, {
+	"id": "092",
+	"nm": "Cuervo, El"
+}, {
+	"id": "093",
+	"nm": "Cuevas de Almudén"
+}, {
+	"id": "094",
+	"nm": "Cuevas Labradas"
+}, {
+	"id": "096",
+	"nm": "Ejulve"
+}, {
+	"id": "097",
+	"nm": "Escorihuela"
+}, {
+	"id": "099",
+	"nm": "Escucha"
+}, {
+	"id": "100",
+	"nm": "Estercuel"
+}, {
+	"id": "101",
+	"nm": "Ferreruela de Huerva"
+}, {
+	"id": "102",
+	"nm": "Fonfría"
+}, {
+	"id": "103",
+	"nm": "Formiche Alto"
+}, {
+	"id": "105",
+	"nm": "Fórnoles"
+}, {
+	"id": "106",
+	"nm": "Fortanete"
+}, {
+	"id": "107",
+	"nm": "Foz-Calanda"
+}, {
+	"id": "108",
+	"nm": "Fresneda, La"
+}, {
+	"id": "109",
+	"nm": "Frías de Albarracín"
+}, {
+	"id": "110",
+	"nm": "Fuenferrada"
+}, {
+	"id": "111",
+	"nm": "Fuentes Calientes"
+}, {
+	"id": "112",
+	"nm": "Fuentes Claras"
+}, {
+	"id": "113",
+	"nm": "Fuentes de Rubielos"
+}, {
+	"id": "114",
+	"nm": "Fuentespalda"
+}, {
+	"id": "115",
+	"nm": "Galve"
+}, {
+	"id": "116",
+	"nm": "Gargallo"
+}, {
+	"id": "117",
+	"nm": "Gea de Albarracín"
+}, {
+	"id": "118",
+	"nm": "Ginebrosa, La"
+}, {
+	"id": "119",
+	"nm": "Griegos"
+}, {
+	"id": "120",
+	"nm": "Guadalaviar"
+}, {
+	"id": "121",
+	"nm": "Gúdar"
+}, {
+	"id": "122",
+	"nm": "Híjar"
+}, {
+	"id": "123",
+	"nm": "Hinojosa de Jarque"
+}, {
+	"id": "124",
+	"nm": "Hoz de la Vieja, La"
+}, {
+	"id": "125",
+	"nm": "Huesa del Común"
+}, {
+	"id": "126",
+	"nm": "Iglesuela del Cid, La"
+}, {
+	"id": "127",
+	"nm": "Jabaloyas"
+}, {
+	"id": "128",
+	"nm": "Jarque de la Val"
+}, {
+	"id": "129",
+	"nm": "Jatiel"
+}, {
+	"id": "130",
+	"nm": "Jorcas"
+}, {
+	"id": "131",
+	"nm": "Josa"
+}, {
+	"id": "132",
+	"nm": "Lagueruela"
+}, {
+	"id": "133",
+	"nm": "Lanzuela"
+}, {
+	"id": "135",
+	"nm": "Libros"
+}, {
+	"id": "136",
+	"nm": "Lidón"
+}, {
+	"id": "137",
+	"nm": "Linares de Mora"
+}, {
+	"id": "141",
+	"nm": "Lledó"
+}, {
+	"id": "138",
+	"nm": "Loscos"
+}, {
+	"id": "142",
+	"nm": "Maicas"
+}, {
+	"id": "143",
+	"nm": "Manzanera"
+}, {
+	"id": "144",
+	"nm": "Martín del Río"
+}, {
+	"id": "145",
+	"nm": "Mas de las Matas"
+}, {
+	"id": "146",
+	"nm": "Mata de los Olmos, La"
+}, {
+	"id": "147",
+	"nm": "Mazaleón"
+}, {
+	"id": "148",
+	"nm": "Mezquita de Jarque"
+}, {
+	"id": "149",
+	"nm": "Mirambel"
+}, {
+	"id": "150",
+	"nm": "Miravete de la Sierra"
+}, {
+	"id": "151",
+	"nm": "Molinos"
+}, {
+	"id": "152",
+	"nm": "Monforte de Moyuela"
+}, {
+	"id": "153",
+	"nm": "Monreal del Campo"
+}, {
+	"id": "154",
+	"nm": "Monroyo"
+}, {
+	"id": "155",
+	"nm": "Montalbán"
+}, {
+	"id": "156",
+	"nm": "Monteagudo del Castillo"
+}, {
+	"id": "157",
+	"nm": "Monterde de Albarracín"
+}, {
+	"id": "158",
+	"nm": "Mora de Rubielos"
+}, {
+	"id": "159",
+	"nm": "Moscardón"
+}, {
+	"id": "160",
+	"nm": "Mosqueruela"
+}, {
+	"id": "161",
+	"nm": "Muniesa"
+}, {
+	"id": "163",
+	"nm": "Noguera de Albarracín"
+}, {
+	"id": "164",
+	"nm": "Nogueras"
+}, {
+	"id": "165",
+	"nm": "Nogueruelas"
+}, {
+	"id": "167",
+	"nm": "Obón"
+}, {
+	"id": "168",
+	"nm": "Odón"
+}, {
+	"id": "169",
+	"nm": "Ojos Negros"
+}, {
+	"id": "171",
+	"nm": "Olba"
+}, {
+	"id": "172",
+	"nm": "Oliete"
+}, {
+	"id": "173",
+	"nm": "Olmos, Los"
+}, {
+	"id": "174",
+	"nm": "Orihuela del Tremedal"
+}, {
+	"id": "175",
+	"nm": "Orrios"
+}, {
+	"id": "176",
+	"nm": "Palomar de Arroyos"
+}, {
+	"id": "177",
+	"nm": "Pancrudo"
+}, {
+	"id": "178",
+	"nm": "Parras de Castellote, Las"
+}, {
+	"id": "179",
+	"nm": "Peñarroya de Tastavins"
+}, {
+	"id": "180",
+	"nm": "Peracense"
+}, {
+	"id": "181",
+	"nm": "Peralejos"
+}, {
+	"id": "182",
+	"nm": "Perales del Alfambra"
+}, {
+	"id": "183",
+	"nm": "Pitarque"
+}, {
+	"id": "184",
+	"nm": "Plou"
+}, {
+	"id": "185",
+	"nm": "Pobo, El"
+}, {
+	"id": "187",
+	"nm": "Portellada, La"
+}, {
+	"id": "189",
+	"nm": "Pozondón"
+}, {
+	"id": "190",
+	"nm": "Pozuel del Campo"
+}, {
+	"id": "191",
+	"nm": "Puebla de Híjar, La"
+}, {
+	"id": "192",
+	"nm": "Puebla de Valverde, La"
+}, {
+	"id": "193",
+	"nm": "Puertomingalvo"
+}, {
+	"id": "194",
+	"nm": "Ráfales"
+}, {
+	"id": "195",
+	"nm": "Rillo"
+}, {
+	"id": "196",
+	"nm": "Riodeva"
+}, {
+	"id": "197",
+	"nm": "Ródenas"
+}, {
+	"id": "198",
+	"nm": "Royuela"
+}, {
+	"id": "199",
+	"nm": "Rubiales"
+}, {
+	"id": "200",
+	"nm": "Rubielos de la Cérida"
+}, {
+	"id": "201",
+	"nm": "Rubielos de Mora"
+}, {
+	"id": "203",
+	"nm": "Salcedillo"
+}, {
+	"id": "204",
+	"nm": "Saldón"
+}, {
+	"id": "205",
+	"nm": "Samper de Calanda"
+}, {
+	"id": "206",
+	"nm": "San Agustín"
+}, {
+	"id": "207",
+	"nm": "San Martín del Río"
+}, {
+	"id": "208",
+	"nm": "Santa Cruz de Nogueras"
+}, {
+	"id": "209",
+	"nm": "Santa Eulalia"
+}, {
+	"id": "210",
+	"nm": "Sarrión"
+}, {
+	"id": "211",
+	"nm": "Segura de los Baños"
+}, {
+	"id": "212",
+	"nm": "Seno"
+}, {
+	"id": "213",
+	"nm": "Singra"
+}, {
+	"id": "215",
+	"nm": "Terriente"
+}, {
+	"id": "216",
+	"nm": "Teruel"
+}, {
+	"id": "217",
+	"nm": "Toril y Masegoso"
+}, {
+	"id": "218",
+	"nm": "Tormón"
+}, {
+	"id": "219",
+	"nm": "Tornos"
+}, {
+	"id": "220",
+	"nm": "Torralba de los Sisones"
+}, {
+	"id": "223",
+	"nm": "Torre de Arcas"
+}, {
+	"id": "224",
+	"nm": "Torre de las Arcas"
+}, {
+	"id": "225",
+	"nm": "Torre del Compte"
+}, {
+	"id": "227",
+	"nm": "Torre los Negros"
+}, {
+	"id": "221",
+	"nm": "Torrecilla de Alcañiz"
+}, {
+	"id": "222",
+	"nm": "Torrecilla del Rebollar"
+}, {
+	"id": "226",
+	"nm": "Torrelacárcel"
+}, {
+	"id": "228",
+	"nm": "Torremocha de Jiloca"
+}, {
+	"id": "229",
+	"nm": "Torres de Albarracín"
+}, {
+	"id": "230",
+	"nm": "Torrevelilla"
+}, {
+	"id": "231",
+	"nm": "Torrijas"
+}, {
+	"id": "232",
+	"nm": "Torrijo del Campo"
+}, {
+	"id": "234",
+	"nm": "Tramacastiel"
+}, {
+	"id": "235",
+	"nm": "Tramacastilla"
+}, {
+	"id": "236",
+	"nm": "Tronchón"
+}, {
+	"id": "237",
+	"nm": "Urrea de Gaén"
+}, {
+	"id": "238",
+	"nm": "Utrillas"
+}, {
+	"id": "239",
+	"nm": "Valacloche"
+}, {
+	"id": "240",
+	"nm": "Valbona"
+}, {
+	"id": "241",
+	"nm": "Valdealgorfa"
+}, {
+	"id": "243",
+	"nm": "Valdecuenca"
+}, {
+	"id": "244",
+	"nm": "Valdelinares"
+}, {
+	"id": "245",
+	"nm": "Valdeltormo"
+}, {
+	"id": "246",
+	"nm": "Valderrobres"
+}, {
+	"id": "247",
+	"nm": "Valjunquera"
+}, {
+	"id": "249",
+	"nm": "Vallecillo, El"
+}, {
+	"id": "250",
+	"nm": "Veguillas de la Sierra"
+}, {
+	"id": "251",
+	"nm": "Villafranca del Campo"
+}, {
+	"id": "252",
+	"nm": "Villahermosa del Campo"
+}, {
+	"id": "256",
+	"nm": "Villanueva del Rebollar de la Sierra"
+}, {
+	"id": "257",
+	"nm": "Villar del Cobo"
+}, {
+	"id": "258",
+	"nm": "Villar del Salz"
+}, {
+	"id": "260",
+	"nm": "Villarluengo"
+}, {
+	"id": "261",
+	"nm": "Villarquemado"
+}, {
+	"id": "262",
+	"nm": "Villarroya de los Pinares"
+}, {
+	"id": "263",
+	"nm": "Villastar"
+}, {
+	"id": "264",
+	"nm": "Villel"
+}, {
+	"id": "265",
+	"nm": "Vinaceite"
+}, {
+	"id": "266",
+	"nm": "Visiedo"
+}, {
+	"id": "267",
+	"nm": "Vivel del Río Martín"
+}, {
+	"id": "268",
+	"nm": "Zoma, La"
+}]

@@ -1,0 +1,553 @@
+[{
+	"id": "001",
+	"nm": "Aiguamúrcia"
+}, {
+	"id": "002",
+	"nm": "Albinyana"
+}, {
+	"id": "003",
+	"nm": "Albiol, L'"
+}, {
+	"id": "004",
+	"nm": "Alcanar"
+}, {
+	"id": "005",
+	"nm": "Alcover"
+}, {
+	"id": "904",
+	"nm": "Aldea, L'"
+}, {
+	"id": "006",
+	"nm": "Aldover"
+}, {
+	"id": "007",
+	"nm": "Aleixar, L'"
+}, {
+	"id": "008",
+	"nm": "Alfara de Carles"
+}, {
+	"id": "009",
+	"nm": "Alforja"
+}, {
+	"id": "010",
+	"nm": "Alió"
+}, {
+	"id": "011",
+	"nm": "Almoster"
+}, {
+	"id": "012",
+	"nm": "Altafulla"
+}, {
+	"id": "013",
+	"nm": "Ametlla de Mar, L'"
+}, {
+	"id": "906",
+	"nm": "Ampolla, L'"
+}, {
+	"id": "014",
+	"nm": "Amposta"
+}, {
+	"id": "016",
+	"nm": "Arboç, L'"
+}, {
+	"id": "015",
+	"nm": "Arbolí"
+}, {
+	"id": "017",
+	"nm": "Argentera, L'"
+}, {
+	"id": "018",
+	"nm": "Arnes"
+}, {
+	"id": "019",
+	"nm": "Ascó"
+}, {
+	"id": "020",
+	"nm": "Banyeres del Penedès"
+}, {
+	"id": "021",
+	"nm": "Barberà de la Conca"
+}, {
+	"id": "022",
+	"nm": "Batea"
+}, {
+	"id": "023",
+	"nm": "Bellmunt del Priorat"
+}, {
+	"id": "024",
+	"nm": "Bellvei"
+}, {
+	"id": "025",
+	"nm": "Benifallet"
+}, {
+	"id": "026",
+	"nm": "Benissanet"
+}, {
+	"id": "027",
+	"nm": "Bisbal de Falset, La"
+}, {
+	"id": "028",
+	"nm": "Bisbal del Penedès, La"
+}, {
+	"id": "029",
+	"nm": "Blancafort"
+}, {
+	"id": "030",
+	"nm": "Bonastre"
+}, {
+	"id": "031",
+	"nm": "Borges del Camp, Les"
+}, {
+	"id": "032",
+	"nm": "Bot"
+}, {
+	"id": "033",
+	"nm": "Botarell"
+}, {
+	"id": "034",
+	"nm": "Bràfim"
+}, {
+	"id": "035",
+	"nm": "Cabacés"
+}, {
+	"id": "036",
+	"nm": "Cabra del Camp"
+}, {
+	"id": "037",
+	"nm": "Calafell"
+}, {
+	"id": "903",
+	"nm": "Camarles"
+}, {
+	"id": "038",
+	"nm": "Cambrils"
+}, {
+	"id": "907",
+	"nm": "Canonja, La"
+}, {
+	"id": "039",
+	"nm": "Capafonts"
+}, {
+	"id": "040",
+	"nm": "Capçanes"
+}, {
+	"id": "041",
+	"nm": "Caseres"
+}, {
+	"id": "042",
+	"nm": "Castellvell del Camp"
+}, {
+	"id": "043",
+	"nm": "Catllar, El"
+}, {
+	"id": "045",
+	"nm": "Colldejou"
+}, {
+	"id": "046",
+	"nm": "Conesa"
+}, {
+	"id": "047",
+	"nm": "Constantí"
+}, {
+	"id": "048",
+	"nm": "Corbera d'Ebre"
+}, {
+	"id": "049",
+	"nm": "Cornudella de Montsant"
+}, {
+	"id": "050",
+	"nm": "Creixell"
+}, {
+	"id": "051",
+	"nm": "Cunit"
+}, {
+	"id": "901",
+	"nm": "Deltebre"
+}, {
+	"id": "053",
+	"nm": "Duesaigües"
+}, {
+	"id": "054",
+	"nm": "Espluga de Francolí, L'"
+}, {
+	"id": "055",
+	"nm": "Falset"
+}, {
+	"id": "056",
+	"nm": "Fatarella, La"
+}, {
+	"id": "057",
+	"nm": "Febró, La"
+}, {
+	"id": "058",
+	"nm": "Figuera, La"
+}, {
+	"id": "059",
+	"nm": "Figuerola del Camp"
+}, {
+	"id": "060",
+	"nm": "Flix"
+}, {
+	"id": "061",
+	"nm": "Forès"
+}, {
+	"id": "062",
+	"nm": "Freginals"
+}, {
+	"id": "063",
+	"nm": "Galera, La"
+}, {
+	"id": "064",
+	"nm": "Gandesa"
+}, {
+	"id": "065",
+	"nm": "Garcia"
+}, {
+	"id": "066",
+	"nm": "Garidells, Els"
+}, {
+	"id": "067",
+	"nm": "Ginestar"
+}, {
+	"id": "068",
+	"nm": "Godall"
+}, {
+	"id": "069",
+	"nm": "Gratallops"
+}, {
+	"id": "070",
+	"nm": "Guiamets, Els"
+}, {
+	"id": "071",
+	"nm": "Horta de Sant Joan"
+}, {
+	"id": "072",
+	"nm": "Lloar, El"
+}, {
+	"id": "073",
+	"nm": "Llorac"
+}, {
+	"id": "074",
+	"nm": "Llorenç del Penedès"
+}, {
+	"id": "076",
+	"nm": "Marçà"
+}, {
+	"id": "075",
+	"nm": "Margalef"
+}, {
+	"id": "077",
+	"nm": "Mas de Barberans"
+}, {
+	"id": "078",
+	"nm": "Masdenverge"
+}, {
+	"id": "079",
+	"nm": "Masllorenç"
+}, {
+	"id": "080",
+	"nm": "Masó, La"
+}, {
+	"id": "081",
+	"nm": "Maspujols"
+}, {
+	"id": "082",
+	"nm": "Masroig, El"
+}, {
+	"id": "083",
+	"nm": "Milà, El"
+}, {
+	"id": "084",
+	"nm": "Miravet"
+}, {
+	"id": "085",
+	"nm": "Molar, El"
+}, {
+	"id": "086",
+	"nm": "Montblanc"
+}, {
+	"id": "088",
+	"nm": "Montbrió del Camp"
+}, {
+	"id": "089",
+	"nm": "Montferri"
+}, {
+	"id": "090",
+	"nm": "Montmell, El"
+}, {
+	"id": "091",
+	"nm": "Mont-ral"
+}, {
+	"id": "092",
+	"nm": "Mont-roig del Camp"
+}, {
+	"id": "093",
+	"nm": "Móra d'Ebre"
+}, {
+	"id": "094",
+	"nm": "Móra la Nova"
+}, {
+	"id": "095",
+	"nm": "Morell, El"
+}, {
+	"id": "096",
+	"nm": "Morera de Montsant, La"
+}, {
+	"id": "097",
+	"nm": "Nou de Gaià, La"
+}, {
+	"id": "098",
+	"nm": "Nulles"
+}, {
+	"id": "100",
+	"nm": "Pallaresos, Els"
+}, {
+	"id": "099",
+	"nm": "Palma d'Ebre, La"
+}, {
+	"id": "101",
+	"nm": "Passanant i Belltall"
+}, {
+	"id": "102",
+	"nm": "Paüls"
+}, {
+	"id": "103",
+	"nm": "Perafort"
+}, {
+	"id": "104",
+	"nm": "Perelló, El"
+}, {
+	"id": "105",
+	"nm": "Piles, Les"
+}, {
+	"id": "106",
+	"nm": "Pinell de Brai, El"
+}, {
+	"id": "107",
+	"nm": "Pira"
+}, {
+	"id": "108",
+	"nm": "Pla de Santa Maria, El"
+}, {
+	"id": "109",
+	"nm": "Pobla de Mafumet, La"
+}, {
+	"id": "110",
+	"nm": "Pobla de Massaluca, La"
+}, {
+	"id": "111",
+	"nm": "Pobla de Montornès, La"
+}, {
+	"id": "112",
+	"nm": "Poboleda"
+}, {
+	"id": "113",
+	"nm": "Pont d'Armentera, El"
+}, {
+	"id": "141",
+	"nm": "Pontils"
+}, {
+	"id": "114",
+	"nm": "Porrera"
+}, {
+	"id": "115",
+	"nm": "Pradell de la Teixeta"
+}, {
+	"id": "116",
+	"nm": "Prades"
+}, {
+	"id": "117",
+	"nm": "Prat de Comte"
+}, {
+	"id": "118",
+	"nm": "Pratdip"
+}, {
+	"id": "119",
+	"nm": "Puigpelat"
+}, {
+	"id": "120",
+	"nm": "Querol"
+}, {
+	"id": "121",
+	"nm": "Rasquera"
+}, {
+	"id": "122",
+	"nm": "Renau"
+}, {
+	"id": "123",
+	"nm": "Reus"
+}, {
+	"id": "124",
+	"nm": "Riba, La"
+}, {
+	"id": "125",
+	"nm": "Riba-roja d'Ebre"
+}, {
+	"id": "126",
+	"nm": "Riera de Gaià, La"
+}, {
+	"id": "127",
+	"nm": "Riudecanyes"
+}, {
+	"id": "128",
+	"nm": "Riudecols"
+}, {
+	"id": "129",
+	"nm": "Riudoms"
+}, {
+	"id": "130",
+	"nm": "Rocafort de Queralt"
+}, {
+	"id": "131",
+	"nm": "Roda de Berà"
+}, {
+	"id": "132",
+	"nm": "Rodonyà"
+}, {
+	"id": "133",
+	"nm": "Roquetes"
+}, {
+	"id": "134",
+	"nm": "Rourell, El"
+}, {
+	"id": "135",
+	"nm": "Salomó"
+}, {
+	"id": "905",
+	"nm": "Salou"
+}, {
+	"id": "136",
+	"nm": "Sant Carles de la Ràpita"
+}, {
+	"id": "137",
+	"nm": "Sant Jaume dels Domenys"
+}, {
+	"id": "902",
+	"nm": "Sant Jaume d'Enveja"
+}, {
+	"id": "138",
+	"nm": "Santa Bàrbara"
+}, {
+	"id": "139",
+	"nm": "Santa Coloma de Queralt"
+}, {
+	"id": "140",
+	"nm": "Santa Oliva"
+}, {
+	"id": "142",
+	"nm": "Sarral"
+}, {
+	"id": "143",
+	"nm": "Savallà del Comtat"
+}, {
+	"id": "144",
+	"nm": "Secuita, La"
+}, {
+	"id": "145",
+	"nm": "Selva del Camp, La"
+}, {
+	"id": "146",
+	"nm": "Senan"
+}, {
+	"id": "044",
+	"nm": "Sénia, La"
+}, {
+	"id": "147",
+	"nm": "Solivella"
+}, {
+	"id": "148",
+	"nm": "Tarragona"
+}, {
+	"id": "149",
+	"nm": "Tivenys"
+}, {
+	"id": "150",
+	"nm": "Tivissa"
+}, {
+	"id": "151",
+	"nm": "Torre de Fontaubella, La"
+}, {
+	"id": "152",
+	"nm": "Torre de l'Espanyol, La"
+}, {
+	"id": "153",
+	"nm": "Torredembarra"
+}, {
+	"id": "154",
+	"nm": "Torroja del Priorat"
+}, {
+	"id": "155",
+	"nm": "Tortosa"
+}, {
+	"id": "156",
+	"nm": "Ulldecona"
+}, {
+	"id": "157",
+	"nm": "Ulldemolins"
+}, {
+	"id": "158",
+	"nm": "Vallclara"
+}, {
+	"id": "159",
+	"nm": "Vallfogona de Riucorb"
+}, {
+	"id": "160",
+	"nm": "Vallmoll"
+}, {
+	"id": "161",
+	"nm": "Valls"
+}, {
+	"id": "162",
+	"nm": "Vandellòs i l'Hospitalet de l'Infant"
+}, {
+	"id": "163",
+	"nm": "Vendrell, El"
+}, {
+	"id": "164",
+	"nm": "Vespella de Gaià"
+}, {
+	"id": "165",
+	"nm": "Vilabella"
+}, {
+	"id": "175",
+	"nm": "Vilalba dels Arcs"
+}, {
+	"id": "166",
+	"nm": "Vilallonga del Camp"
+}, {
+	"id": "168",
+	"nm": "Vilanova de Prades"
+}, {
+	"id": "167",
+	"nm": "Vilanova d'Escornalbou"
+}, {
+	"id": "169",
+	"nm": "Vilaplana"
+}, {
+	"id": "170",
+	"nm": "Vila-rodona"
+}, {
+	"id": "171",
+	"nm": "Vila-seca"
+}, {
+	"id": "172",
+	"nm": "Vilaverd"
+}, {
+	"id": "173",
+	"nm": "Vilella Alta, La"
+}, {
+	"id": "174",
+	"nm": "Vilella Baixa, La"
+}, {
+	"id": "176",
+	"nm": "Vimbodí i Poblet"
+}, {
+	"id": "177",
+	"nm": "Vinebre"
+}, {
+	"id": "178",
+	"nm": "Vinyols i els Arcs"
+}, {
+	"id": "052",
+	"nm": "Xerta"
+}]

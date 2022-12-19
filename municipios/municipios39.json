@@ -1,0 +1,307 @@
+[{
+	"id": "001",
+	"nm": "Alfoz de Lloredo"
+}, {
+	"id": "002",
+	"nm": "Ampuero"
+}, {
+	"id": "003",
+	"nm": "Anievas"
+}, {
+	"id": "004",
+	"nm": "Arenas de Iguña"
+}, {
+	"id": "005",
+	"nm": "Argoños"
+}, {
+	"id": "006",
+	"nm": "Arnuero"
+}, {
+	"id": "007",
+	"nm": "Arredondo"
+}, {
+	"id": "008",
+	"nm": "Astillero, El"
+}, {
+	"id": "009",
+	"nm": "Bárcena de Cicero"
+}, {
+	"id": "010",
+	"nm": "Bárcena de Pie de Concha"
+}, {
+	"id": "011",
+	"nm": "Bareyo"
+}, {
+	"id": "012",
+	"nm": "Cabezón de la Sal"
+}, {
+	"id": "013",
+	"nm": "Cabezón de Liébana"
+}, {
+	"id": "014",
+	"nm": "Cabuérniga"
+}, {
+	"id": "015",
+	"nm": "Camaleño"
+}, {
+	"id": "016",
+	"nm": "Camargo"
+}, {
+	"id": "027",
+	"nm": "Campoo de Enmedio"
+}, {
+	"id": "017",
+	"nm": "Campoo de Yuso"
+}, {
+	"id": "018",
+	"nm": "Cartes"
+}, {
+	"id": "019",
+	"nm": "Castañeda"
+}, {
+	"id": "020",
+	"nm": "Castro-Urdiales"
+}, {
+	"id": "021",
+	"nm": "Cieza"
+}, {
+	"id": "022",
+	"nm": "Cillorigo de Liébana"
+}, {
+	"id": "023",
+	"nm": "Colindres"
+}, {
+	"id": "024",
+	"nm": "Comillas"
+}, {
+	"id": "025",
+	"nm": "Corrales de Buelna, Los"
+}, {
+	"id": "026",
+	"nm": "Corvera de Toranzo"
+}, {
+	"id": "028",
+	"nm": "Entrambasaguas"
+}, {
+	"id": "029",
+	"nm": "Escalante"
+}, {
+	"id": "030",
+	"nm": "Guriezo"
+}, {
+	"id": "031",
+	"nm": "Hazas de Cesto"
+}, {
+	"id": "032",
+	"nm": "Hermandad de Campoo de Suso"
+}, {
+	"id": "033",
+	"nm": "Herrerías"
+}, {
+	"id": "034",
+	"nm": "Lamasón"
+}, {
+	"id": "035",
+	"nm": "Laredo"
+}, {
+	"id": "036",
+	"nm": "Liendo"
+}, {
+	"id": "037",
+	"nm": "Liérganes"
+}, {
+	"id": "038",
+	"nm": "Limpias"
+}, {
+	"id": "039",
+	"nm": "Luena"
+}, {
+	"id": "040",
+	"nm": "Marina de Cudeyo"
+}, {
+	"id": "041",
+	"nm": "Mazcuerras"
+}, {
+	"id": "042",
+	"nm": "Medio Cudeyo"
+}, {
+	"id": "043",
+	"nm": "Meruelo"
+}, {
+	"id": "044",
+	"nm": "Miengo"
+}, {
+	"id": "045",
+	"nm": "Miera"
+}, {
+	"id": "046",
+	"nm": "Molledo"
+}, {
+	"id": "047",
+	"nm": "Noja"
+}, {
+	"id": "048",
+	"nm": "Penagos"
+}, {
+	"id": "049",
+	"nm": "Peñarrubia"
+}, {
+	"id": "050",
+	"nm": "Pesaguero"
+}, {
+	"id": "051",
+	"nm": "Pesquera"
+}, {
+	"id": "052",
+	"nm": "Piélagos"
+}, {
+	"id": "053",
+	"nm": "Polaciones"
+}, {
+	"id": "054",
+	"nm": "Polanco"
+}, {
+	"id": "055",
+	"nm": "Potes"
+}, {
+	"id": "056",
+	"nm": "Puente Viesgo"
+}, {
+	"id": "057",
+	"nm": "Ramales de la Victoria"
+}, {
+	"id": "058",
+	"nm": "Rasines"
+}, {
+	"id": "059",
+	"nm": "Reinosa"
+}, {
+	"id": "060",
+	"nm": "Reocín"
+}, {
+	"id": "061",
+	"nm": "Ribamontán al Mar"
+}, {
+	"id": "062",
+	"nm": "Ribamontán al Monte"
+}, {
+	"id": "063",
+	"nm": "Rionansa"
+}, {
+	"id": "064",
+	"nm": "Riotuerto"
+}, {
+	"id": "065",
+	"nm": "Rozas de Valdearroyo, Las"
+}, {
+	"id": "066",
+	"nm": "Ruente"
+}, {
+	"id": "067",
+	"nm": "Ruesga"
+}, {
+	"id": "068",
+	"nm": "Ruiloba"
+}, {
+	"id": "069",
+	"nm": "San Felices de Buelna"
+}, {
+	"id": "070",
+	"nm": "San Miguel de Aguayo"
+}, {
+	"id": "071",
+	"nm": "San Pedro del Romeral"
+}, {
+	"id": "072",
+	"nm": "San Roque de Riomiera"
+}, {
+	"id": "080",
+	"nm": "San Vicente de la Barquera"
+}, {
+	"id": "073",
+	"nm": "Santa Cruz de Bezana"
+}, {
+	"id": "074",
+	"nm": "Santa María de Cayón"
+}, {
+	"id": "075",
+	"nm": "Santander"
+}, {
+	"id": "076",
+	"nm": "Santillana del Mar"
+}, {
+	"id": "077",
+	"nm": "Santiurde de Reinosa"
+}, {
+	"id": "078",
+	"nm": "Santiurde de Toranzo"
+}, {
+	"id": "079",
+	"nm": "Santoña"
+}, {
+	"id": "081",
+	"nm": "Saro"
+}, {
+	"id": "082",
+	"nm": "Selaya"
+}, {
+	"id": "083",
+	"nm": "Soba"
+}, {
+	"id": "084",
+	"nm": "Solórzano"
+}, {
+	"id": "085",
+	"nm": "Suances"
+}, {
+	"id": "086",
+	"nm": "Tojos, Los"
+}, {
+	"id": "087",
+	"nm": "Torrelavega"
+}, {
+	"id": "088",
+	"nm": "Tresviso"
+}, {
+	"id": "089",
+	"nm": "Tudanca"
+}, {
+	"id": "090",
+	"nm": "Udías"
+}, {
+	"id": "095",
+	"nm": "Val de San Vicente"
+}, {
+	"id": "091",
+	"nm": "Valdáliga"
+}, {
+	"id": "092",
+	"nm": "Valdeolea"
+}, {
+	"id": "093",
+	"nm": "Valdeprado del Río"
+}, {
+	"id": "094",
+	"nm": "Valderredible"
+}, {
+	"id": "101",
+	"nm": "Valle de Villaverde"
+}, {
+	"id": "096",
+	"nm": "Vega de Liébana"
+}, {
+	"id": "097",
+	"nm": "Vega de Pas"
+}, {
+	"id": "098",
+	"nm": "Villacarriedo"
+}, {
+	"id": "099",
+	"nm": "Villaescusa"
+}, {
+	"id": "100",
+	"nm": "Villafufre"
+}, {
+	"id": "102",
+	"nm": "Voto"
+}]

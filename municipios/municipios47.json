@@ -1,0 +1,676 @@
+[{
+	"id": "001",
+	"nm": "Adalia"
+}, {
+	"id": "002",
+	"nm": "Aguasal"
+}, {
+	"id": "003",
+	"nm": "Aguilar de Campos"
+}, {
+	"id": "004",
+	"nm": "Alaejos"
+}, {
+	"id": "005",
+	"nm": "Alcazarén"
+}, {
+	"id": "006",
+	"nm": "Aldea de San Miguel"
+}, {
+	"id": "007",
+	"nm": "Aldeamayor de San Martín"
+}, {
+	"id": "008",
+	"nm": "Almenara de Adaja"
+}, {
+	"id": "009",
+	"nm": "Amusquillo"
+}, {
+	"id": "010",
+	"nm": "Arroyo de la Encomienda"
+}, {
+	"id": "011",
+	"nm": "Ataquines"
+}, {
+	"id": "012",
+	"nm": "Bahabón"
+}, {
+	"id": "013",
+	"nm": "Barcial de la Loma"
+}, {
+	"id": "014",
+	"nm": "Barruelo del Valle"
+}, {
+	"id": "015",
+	"nm": "Becilla de Valderaduey"
+}, {
+	"id": "016",
+	"nm": "Benafarces"
+}, {
+	"id": "017",
+	"nm": "Bercero"
+}, {
+	"id": "018",
+	"nm": "Berceruelo"
+}, {
+	"id": "019",
+	"nm": "Berrueces"
+}, {
+	"id": "020",
+	"nm": "Bobadilla del Campo"
+}, {
+	"id": "021",
+	"nm": "Bocigas"
+}, {
+	"id": "022",
+	"nm": "Bocos de Duero"
+}, {
+	"id": "023",
+	"nm": "Boecillo"
+}, {
+	"id": "024",
+	"nm": "Bolaños de Campos"
+}, {
+	"id": "025",
+	"nm": "Brahojos de Medina"
+}, {
+	"id": "026",
+	"nm": "Bustillo de Chaves"
+}, {
+	"id": "027",
+	"nm": "Cabezón de Pisuerga"
+}, {
+	"id": "028",
+	"nm": "Cabezón de Valderaduey"
+}, {
+	"id": "029",
+	"nm": "Cabreros del Monte"
+}, {
+	"id": "030",
+	"nm": "Campaspero"
+}, {
+	"id": "031",
+	"nm": "Campillo, El"
+}, {
+	"id": "032",
+	"nm": "Camporredondo"
+}, {
+	"id": "033",
+	"nm": "Canalejas de Peñafiel"
+}, {
+	"id": "034",
+	"nm": "Canillas de Esgueva"
+}, {
+	"id": "035",
+	"nm": "Carpio"
+}, {
+	"id": "036",
+	"nm": "Casasola de Arión"
+}, {
+	"id": "037",
+	"nm": "Castrejón de Trabancos"
+}, {
+	"id": "038",
+	"nm": "Castrillo de Duero"
+}, {
+	"id": "039",
+	"nm": "Castrillo-Tejeriego"
+}, {
+	"id": "040",
+	"nm": "Castrobol"
+}, {
+	"id": "041",
+	"nm": "Castrodeza"
+}, {
+	"id": "042",
+	"nm": "Castromembibre"
+}, {
+	"id": "043",
+	"nm": "Castromonte"
+}, {
+	"id": "044",
+	"nm": "Castronuevo de Esgueva"
+}, {
+	"id": "045",
+	"nm": "Castronuño"
+}, {
+	"id": "046",
+	"nm": "Castroponce"
+}, {
+	"id": "047",
+	"nm": "Castroverde de Cerrato"
+}, {
+	"id": "048",
+	"nm": "Ceinos de Campos"
+}, {
+	"id": "049",
+	"nm": "Cervillego de la Cruz"
+}, {
+	"id": "050",
+	"nm": "Cigales"
+}, {
+	"id": "051",
+	"nm": "Ciguñuela"
+}, {
+	"id": "052",
+	"nm": "Cistérniga"
+}, {
+	"id": "053",
+	"nm": "Cogeces de Íscar"
+}, {
+	"id": "054",
+	"nm": "Cogeces del Monte"
+}, {
+	"id": "055",
+	"nm": "Corcos"
+}, {
+	"id": "056",
+	"nm": "Corrales de Duero"
+}, {
+	"id": "057",
+	"nm": "Cubillas de Santa Marta"
+}, {
+	"id": "058",
+	"nm": "Cuenca de Campos"
+}, {
+	"id": "059",
+	"nm": "Curiel de Duero"
+}, {
+	"id": "060",
+	"nm": "Encinas de Esgueva"
+}, {
+	"id": "061",
+	"nm": "Esguevillas de Esgueva"
+}, {
+	"id": "062",
+	"nm": "Fombellida"
+}, {
+	"id": "063",
+	"nm": "Fompedraza"
+}, {
+	"id": "064",
+	"nm": "Fontihoyuelo"
+}, {
+	"id": "065",
+	"nm": "Fresno el Viejo"
+}, {
+	"id": "066",
+	"nm": "Fuensaldaña"
+}, {
+	"id": "067",
+	"nm": "Fuente el Sol"
+}, {
+	"id": "068",
+	"nm": "Fuente-Olmedo"
+}, {
+	"id": "069",
+	"nm": "Gallegos de Hornija"
+}, {
+	"id": "070",
+	"nm": "Gatón de Campos"
+}, {
+	"id": "071",
+	"nm": "Geria"
+}, {
+	"id": "073",
+	"nm": "Herrín de Campos"
+}, {
+	"id": "074",
+	"nm": "Hornillos de Eresma"
+}, {
+	"id": "075",
+	"nm": "Íscar"
+}, {
+	"id": "076",
+	"nm": "Laguna de Duero"
+}, {
+	"id": "077",
+	"nm": "Langayo"
+}, {
+	"id": "079",
+	"nm": "Llano de Olmedo"
+}, {
+	"id": "078",
+	"nm": "Lomoviejo"
+}, {
+	"id": "080",
+	"nm": "Manzanillo"
+}, {
+	"id": "081",
+	"nm": "Marzales"
+}, {
+	"id": "082",
+	"nm": "Matapozuelos"
+}, {
+	"id": "083",
+	"nm": "Matilla de los Caños"
+}, {
+	"id": "084",
+	"nm": "Mayorga"
+}, {
+	"id": "086",
+	"nm": "Medina de Rioseco"
+}, {
+	"id": "085",
+	"nm": "Medina del Campo"
+}, {
+	"id": "087",
+	"nm": "Megeces"
+}, {
+	"id": "088",
+	"nm": "Melgar de Abajo"
+}, {
+	"id": "089",
+	"nm": "Melgar de Arriba"
+}, {
+	"id": "090",
+	"nm": "Mojados"
+}, {
+	"id": "091",
+	"nm": "Monasterio de Vega"
+}, {
+	"id": "092",
+	"nm": "Montealegre de Campos"
+}, {
+	"id": "093",
+	"nm": "Montemayor de Pililla"
+}, {
+	"id": "094",
+	"nm": "Moral de la Reina"
+}, {
+	"id": "095",
+	"nm": "Moraleja de las Panaderas"
+}, {
+	"id": "096",
+	"nm": "Morales de Campos"
+}, {
+	"id": "097",
+	"nm": "Mota del Marqués"
+}, {
+	"id": "098",
+	"nm": "Mucientes"
+}, {
+	"id": "099",
+	"nm": "Mudarra, La"
+}, {
+	"id": "100",
+	"nm": "Muriel"
+}, {
+	"id": "101",
+	"nm": "Nava del Rey"
+}, {
+	"id": "102",
+	"nm": "Nueva Villa de las Torres"
+}, {
+	"id": "103",
+	"nm": "Olivares de Duero"
+}, {
+	"id": "104",
+	"nm": "Olmedo"
+}, {
+	"id": "105",
+	"nm": "Olmos de Esgueva"
+}, {
+	"id": "106",
+	"nm": "Olmos de Peñafiel"
+}, {
+	"id": "109",
+	"nm": "Palazuelo de Vedija"
+}, {
+	"id": "110",
+	"nm": "Parrilla, La"
+}, {
+	"id": "111",
+	"nm": "Pedraja de Portillo, La"
+}, {
+	"id": "112",
+	"nm": "Pedrajas de San Esteban"
+}, {
+	"id": "113",
+	"nm": "Pedrosa del Rey"
+}, {
+	"id": "114",
+	"nm": "Peñafiel"
+}, {
+	"id": "115",
+	"nm": "Peñaflor de Hornija"
+}, {
+	"id": "116",
+	"nm": "Pesquera de Duero"
+}, {
+	"id": "117",
+	"nm": "Piña de Esgueva"
+}, {
+	"id": "118",
+	"nm": "Piñel de Abajo"
+}, {
+	"id": "119",
+	"nm": "Piñel de Arriba"
+}, {
+	"id": "121",
+	"nm": "Pollos"
+}, {
+	"id": "122",
+	"nm": "Portillo"
+}, {
+	"id": "123",
+	"nm": "Pozal de Gallinas"
+}, {
+	"id": "124",
+	"nm": "Pozaldez"
+}, {
+	"id": "125",
+	"nm": "Pozuelo de la Orden"
+}, {
+	"id": "126",
+	"nm": "Puras"
+}, {
+	"id": "127",
+	"nm": "Quintanilla de Arriba"
+}, {
+	"id": "129",
+	"nm": "Quintanilla de Onésimo"
+}, {
+	"id": "130",
+	"nm": "Quintanilla de Trigueros"
+}, {
+	"id": "128",
+	"nm": "Quintanilla del Molar"
+}, {
+	"id": "131",
+	"nm": "Rábano"
+}, {
+	"id": "132",
+	"nm": "Ramiro"
+}, {
+	"id": "133",
+	"nm": "Renedo de Esgueva"
+}, {
+	"id": "134",
+	"nm": "Roales de Campos"
+}, {
+	"id": "135",
+	"nm": "Robladillo"
+}, {
+	"id": "137",
+	"nm": "Roturas"
+}, {
+	"id": "138",
+	"nm": "Rubí de Bracamonte"
+}, {
+	"id": "139",
+	"nm": "Rueda"
+}, {
+	"id": "140",
+	"nm": "Saelices de Mayorga"
+}, {
+	"id": "141",
+	"nm": "Salvador de Zapardiel"
+}, {
+	"id": "142",
+	"nm": "San Cebrián de Mazote"
+}, {
+	"id": "143",
+	"nm": "San Llorente"
+}, {
+	"id": "144",
+	"nm": "San Martín de Valvení"
+}, {
+	"id": "145",
+	"nm": "San Miguel del Arroyo"
+}, {
+	"id": "146",
+	"nm": "San Miguel del Pino"
+}, {
+	"id": "147",
+	"nm": "San Pablo de la Moraleja"
+}, {
+	"id": "148",
+	"nm": "San Pedro de Latarce"
+}, {
+	"id": "149",
+	"nm": "San Pelayo"
+}, {
+	"id": "150",
+	"nm": "San Román de Hornija"
+}, {
+	"id": "151",
+	"nm": "San Salvador"
+}, {
+	"id": "156",
+	"nm": "San Vicente del Palacio"
+}, {
+	"id": "152",
+	"nm": "Santa Eufemia del Arroyo"
+}, {
+	"id": "153",
+	"nm": "Santervás de Campos"
+}, {
+	"id": "154",
+	"nm": "Santibáñez de Valcorba"
+}, {
+	"id": "155",
+	"nm": "Santovenia de Pisuerga"
+}, {
+	"id": "157",
+	"nm": "Sardón de Duero"
+}, {
+	"id": "158",
+	"nm": "Seca, La"
+}, {
+	"id": "159",
+	"nm": "Serrada"
+}, {
+	"id": "160",
+	"nm": "Siete Iglesias de Trabancos"
+}, {
+	"id": "161",
+	"nm": "Simancas"
+}, {
+	"id": "162",
+	"nm": "Tamariz de Campos"
+}, {
+	"id": "163",
+	"nm": "Tiedra"
+}, {
+	"id": "164",
+	"nm": "Tordehumos"
+}, {
+	"id": "165",
+	"nm": "Tordesillas"
+}, {
+	"id": "169",
+	"nm": "Torre de Esgueva"
+}, {
+	"id": "170",
+	"nm": "Torre de Peñafiel"
+}, {
+	"id": "166",
+	"nm": "Torrecilla de la Abadesa"
+}, {
+	"id": "167",
+	"nm": "Torrecilla de la Orden"
+}, {
+	"id": "168",
+	"nm": "Torrecilla de la Torre"
+}, {
+	"id": "171",
+	"nm": "Torrelobatón"
+}, {
+	"id": "172",
+	"nm": "Torrescárcela"
+}, {
+	"id": "173",
+	"nm": "Traspinedo"
+}, {
+	"id": "174",
+	"nm": "Trigueros del Valle"
+}, {
+	"id": "175",
+	"nm": "Tudela de Duero"
+}, {
+	"id": "176",
+	"nm": "Unión de Campos, La"
+}, {
+	"id": "177",
+	"nm": "Urones de Castroponce"
+}, {
+	"id": "178",
+	"nm": "Urueña"
+}, {
+	"id": "179",
+	"nm": "Valbuena de Duero"
+}, {
+	"id": "180",
+	"nm": "Valdearcos de la Vega"
+}, {
+	"id": "181",
+	"nm": "Valdenebro de los Valles"
+}, {
+	"id": "182",
+	"nm": "Valdestillas"
+}, {
+	"id": "183",
+	"nm": "Valdunquillo"
+}, {
+	"id": "186",
+	"nm": "Valladolid"
+}, {
+	"id": "184",
+	"nm": "Valoria la Buena"
+}, {
+	"id": "185",
+	"nm": "Valverde de Campos"
+}, {
+	"id": "187",
+	"nm": "Vega de Ruiponce"
+}, {
+	"id": "188",
+	"nm": "Vega de Valdetronco"
+}, {
+	"id": "189",
+	"nm": "Velascálvaro"
+}, {
+	"id": "190",
+	"nm": "Velilla"
+}, {
+	"id": "191",
+	"nm": "Velliza"
+}, {
+	"id": "192",
+	"nm": "Ventosa de la Cuesta"
+}, {
+	"id": "193",
+	"nm": "Viana de Cega"
+}, {
+	"id": "195",
+	"nm": "Villabáñez"
+}, {
+	"id": "196",
+	"nm": "Villabaruz de Campos"
+}, {
+	"id": "197",
+	"nm": "Villabrágima"
+}, {
+	"id": "198",
+	"nm": "Villacarralón"
+}, {
+	"id": "199",
+	"nm": "Villacid de Campos"
+}, {
+	"id": "200",
+	"nm": "Villaco"
+}, {
+	"id": "203",
+	"nm": "Villafrades de Campos"
+}, {
+	"id": "204",
+	"nm": "Villafranca de Duero"
+}, {
+	"id": "205",
+	"nm": "Villafrechós"
+}, {
+	"id": "206",
+	"nm": "Villafuerte"
+}, {
+	"id": "207",
+	"nm": "Villagarcía de Campos"
+}, {
+	"id": "208",
+	"nm": "Villagómez la Nueva"
+}, {
+	"id": "209",
+	"nm": "Villalán de Campos"
+}, {
+	"id": "210",
+	"nm": "Villalar de los Comuneros"
+}, {
+	"id": "211",
+	"nm": "Villalba de la Loma"
+}, {
+	"id": "212",
+	"nm": "Villalba de los Alcores"
+}, {
+	"id": "213",
+	"nm": "Villalbarba"
+}, {
+	"id": "214",
+	"nm": "Villalón de Campos"
+}, {
+	"id": "215",
+	"nm": "Villamuriel de Campos"
+}, {
+	"id": "216",
+	"nm": "Villán de Tordesillas"
+}, {
+	"id": "217",
+	"nm": "Villanubla"
+}, {
+	"id": "218",
+	"nm": "Villanueva de Duero"
+}, {
+	"id": "219",
+	"nm": "Villanueva de la Condesa"
+}, {
+	"id": "220",
+	"nm": "Villanueva de los Caballeros"
+}, {
+	"id": "221",
+	"nm": "Villanueva de los Infantes"
+}, {
+	"id": "222",
+	"nm": "Villanueva de San Mancio"
+}, {
+	"id": "223",
+	"nm": "Villardefrades"
+}, {
+	"id": "224",
+	"nm": "Villarmentero de Esgueva"
+}, {
+	"id": "225",
+	"nm": "Villasexmir"
+}, {
+	"id": "226",
+	"nm": "Villavaquerín"
+}, {
+	"id": "227",
+	"nm": "Villavellid"
+}, {
+	"id": "228",
+	"nm": "Villaverde de Medina"
+}, {
+	"id": "229",
+	"nm": "Villavicencio de los Caballeros"
+}, {
+	"id": "194",
+	"nm": "Viloria"
+}, {
+	"id": "230",
+	"nm": "Wamba"
+}, {
+	"id": "231",
+	"nm": "Zaratán"
+}, {
+	"id": "232",
+	"nm": "Zarza, La"
+}]

@@ -1,0 +1,277 @@
+[{
+	"id": "001",
+	"nm": "Allariz"
+}, {
+	"id": "002",
+	"nm": "Amoeiro"
+}, {
+	"id": "003",
+	"nm": "Arnoia, A"
+}, {
+	"id": "004",
+	"nm": "Avión"
+}, {
+	"id": "005",
+	"nm": "Baltar"
+}, {
+	"id": "006",
+	"nm": "Bande"
+}, {
+	"id": "007",
+	"nm": "Baños de Molgas"
+}, {
+	"id": "008",
+	"nm": "Barbadás"
+}, {
+	"id": "009",
+	"nm": "Barco de Valdeorras, O"
+}, {
+	"id": "010",
+	"nm": "Beade"
+}, {
+	"id": "011",
+	"nm": "Beariz"
+}, {
+	"id": "012",
+	"nm": "Blancos, Os"
+}, {
+	"id": "013",
+	"nm": "Boborás"
+}, {
+	"id": "014",
+	"nm": "Bola, A"
+}, {
+	"id": "015",
+	"nm": "Bolo, O"
+}, {
+	"id": "016",
+	"nm": "Calvos de Randín"
+}, {
+	"id": "018",
+	"nm": "Carballeda de Avia"
+}, {
+	"id": "017",
+	"nm": "Carballeda de Valdeorras"
+}, {
+	"id": "019",
+	"nm": "Carballiño, O"
+}, {
+	"id": "020",
+	"nm": "Cartelle"
+}, {
+	"id": "022",
+	"nm": "Castrelo de Miño"
+}, {
+	"id": "021",
+	"nm": "Castrelo do Val"
+}, {
+	"id": "023",
+	"nm": "Castro Caldelas"
+}, {
+	"id": "024",
+	"nm": "Celanova"
+}, {
+	"id": "025",
+	"nm": "Cenlle"
+}, {
+	"id": "029",
+	"nm": "Chandrexa de Queixa"
+}, {
+	"id": "026",
+	"nm": "Coles"
+}, {
+	"id": "027",
+	"nm": "Cortegada"
+}, {
+	"id": "028",
+	"nm": "Cualedro"
+}, {
+	"id": "030",
+	"nm": "Entrimo"
+}, {
+	"id": "031",
+	"nm": "Esgos"
+}, {
+	"id": "033",
+	"nm": "Gomesende"
+}, {
+	"id": "034",
+	"nm": "Gudiña, A"
+}, {
+	"id": "035",
+	"nm": "Irixo, O"
+}, {
+	"id": "038",
+	"nm": "Larouco"
+}, {
+	"id": "039",
+	"nm": "Laza"
+}, {
+	"id": "040",
+	"nm": "Leiro"
+}, {
+	"id": "041",
+	"nm": "Lobeira"
+}, {
+	"id": "042",
+	"nm": "Lobios"
+}, {
+	"id": "043",
+	"nm": "Maceda"
+}, {
+	"id": "044",
+	"nm": "Manzaneda"
+}, {
+	"id": "045",
+	"nm": "Maside"
+}, {
+	"id": "046",
+	"nm": "Melón"
+}, {
+	"id": "047",
+	"nm": "Merca, A"
+}, {
+	"id": "048",
+	"nm": "Mezquita, A"
+}, {
+	"id": "049",
+	"nm": "Montederramo"
+}, {
+	"id": "050",
+	"nm": "Monterrei"
+}, {
+	"id": "051",
+	"nm": "Muíños"
+}, {
+	"id": "052",
+	"nm": "Nogueira de Ramuín"
+}, {
+	"id": "053",
+	"nm": "Oímbra"
+}, {
+	"id": "054",
+	"nm": "Ourense"
+}, {
+	"id": "055",
+	"nm": "Paderne de Allariz"
+}, {
+	"id": "056",
+	"nm": "Padrenda"
+}, {
+	"id": "057",
+	"nm": "Parada de Sil"
+}, {
+	"id": "058",
+	"nm": "Pereiro de Aguiar, O"
+}, {
+	"id": "059",
+	"nm": "Peroxa, A"
+}, {
+	"id": "060",
+	"nm": "Petín"
+}, {
+	"id": "061",
+	"nm": "Piñor"
+}, {
+	"id": "063",
+	"nm": "Pobra de Trives, A"
+}, {
+	"id": "064",
+	"nm": "Pontedeva"
+}, {
+	"id": "062",
+	"nm": "Porqueira"
+}, {
+	"id": "065",
+	"nm": "Punxín"
+}, {
+	"id": "066",
+	"nm": "Quintela de Leirado"
+}, {
+	"id": "067",
+	"nm": "Rairiz de Veiga"
+}, {
+	"id": "068",
+	"nm": "Ramirás"
+}, {
+	"id": "069",
+	"nm": "Ribadavia"
+}, {
+	"id": "071",
+	"nm": "Riós"
+}, {
+	"id": "072",
+	"nm": "Rúa, A"
+}, {
+	"id": "073",
+	"nm": "Rubiá"
+}, {
+	"id": "074",
+	"nm": "San Amaro"
+}, {
+	"id": "075",
+	"nm": "San Cibrao das Viñas"
+}, {
+	"id": "076",
+	"nm": "San Cristovo de Cea"
+}, {
+	"id": "070",
+	"nm": "San Xoán de Río"
+}, {
+	"id": "077",
+	"nm": "Sandiás"
+}, {
+	"id": "078",
+	"nm": "Sarreaus"
+}, {
+	"id": "079",
+	"nm": "Taboadela"
+}, {
+	"id": "080",
+	"nm": "Teixeira, A"
+}, {
+	"id": "081",
+	"nm": "Toén"
+}, {
+	"id": "082",
+	"nm": "Trasmiras"
+}, {
+	"id": "083",
+	"nm": "Veiga, A"
+}, {
+	"id": "084",
+	"nm": "Verea"
+}, {
+	"id": "085",
+	"nm": "Verín"
+}, {
+	"id": "086",
+	"nm": "Viana do Bolo"
+}, {
+	"id": "087",
+	"nm": "Vilamarín"
+}, {
+	"id": "088",
+	"nm": "Vilamartín de Valdeorras"
+}, {
+	"id": "089",
+	"nm": "Vilar de Barrio"
+}, {
+	"id": "090",
+	"nm": "Vilar de Santos"
+}, {
+	"id": "091",
+	"nm": "Vilardevós"
+}, {
+	"id": "092",
+	"nm": "Vilariño de Conso"
+}, {
+	"id": "032",
+	"nm": "Xinzo de Limia"
+}, {
+	"id": "036",
+	"nm": "Xunqueira de Ambía"
+}, {
+	"id": "037",
+	"nm": "Xunqueira de Espadanedo"
+}]

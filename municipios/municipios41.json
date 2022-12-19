@@ -1,0 +1,316 @@
+[ {
+	"id": "001",
+	"nm": "Aguadulce"
+}, {
+	"id": "002",
+	"nm": "Alanís"
+}, {
+	"id": "003",
+	"nm": "Albaida del Aljarafe"
+}, {
+	"id": "004",
+	"nm": "Alcalá de Guadaíra"
+}, {
+	"id": "005",
+	"nm": "Alcalá del Río"
+}, {
+	"id": "006",
+	"nm": "Alcolea del Río"
+}, {
+	"id": "007",
+	"nm": "Algaba, La"
+}, {
+	"id": "008",
+	"nm": "Algámitas"
+}, {
+	"id": "009",
+	"nm": "Almadén de la Plata"
+}, {
+	"id": "010",
+	"nm": "Almensilla"
+}, {
+	"id": "011",
+	"nm": "Arahal"
+}, {
+	"id": "012",
+	"nm": "Aznalcázar"
+}, {
+	"id": "013",
+	"nm": "Aznalcóllar"
+}, {
+	"id": "014",
+	"nm": "Badolatosa"
+}, {
+	"id": "015",
+	"nm": "Benacazón"
+}, {
+	"id": "016",
+	"nm": "Bollullos de la Mitación"
+}, {
+	"id": "017",
+	"nm": "Bormujos"
+}, {
+	"id": "018",
+	"nm": "Brenes"
+}, {
+	"id": "019",
+	"nm": "Burguillos"
+}, {
+	"id": "020",
+	"nm": "Cabezas de San Juan, Las"
+}, {
+	"id": "021",
+	"nm": "Camas"
+}, {
+	"id": "022",
+	"nm": "Campana, La"
+}, {
+	"id": "023",
+	"nm": "Cantillana"
+}, {
+	"id": "901",
+	"nm": "Cañada Rosal"
+}, {
+	"id": "024",
+	"nm": "Carmona"
+}, {
+	"id": "025",
+	"nm": "Carrión de los Céspedes"
+}, {
+	"id": "026",
+	"nm": "Casariche"
+}, {
+	"id": "027",
+	"nm": "Castilblanco de los Arroyos"
+}, {
+	"id": "028",
+	"nm": "Castilleja de Guzmán"
+}, {
+	"id": "029",
+	"nm": "Castilleja de la Cuesta"
+}, {
+	"id": "030",
+	"nm": "Castilleja del Campo"
+}, {
+	"id": "031",
+	"nm": "Castillo de las Guardas, El"
+}, {
+	"id": "032",
+	"nm": "Cazalla de la Sierra"
+}, {
+	"id": "033",
+	"nm": "Constantina"
+}, {
+	"id": "034",
+	"nm": "Coria del Río"
+}, {
+	"id": "035",
+	"nm": "Coripe"
+}, {
+	"id": "036",
+	"nm": "Coronil, El"
+}, {
+	"id": "037",
+	"nm": "Corrales, Los"
+}, {
+	"id": "903",
+	"nm": "Cuervo de Sevilla, El"
+}, {
+	"id": "038",
+	"nm": "Dos Hermanas"
+}, {
+	"id": "039",
+	"nm": "Écija"
+}, {
+	"id": "040",
+	"nm": "Espartinas"
+}, {
+	"id": "041",
+	"nm": "Estepa"
+}, {
+	"id": "042",
+	"nm": "Fuentes de Andalucía"
+}, {
+	"id": "043",
+	"nm": "Garrobo, El"
+}, {
+	"id": "044",
+	"nm": "Gelves"
+}, {
+	"id": "045",
+	"nm": "Gerena"
+}, {
+	"id": "046",
+	"nm": "Gilena"
+}, {
+	"id": "047",
+	"nm": "Gines"
+}, {
+	"id": "048",
+	"nm": "Guadalcanal"
+}, {
+	"id": "049",
+	"nm": "Guillena"
+}, {
+	"id": "050",
+	"nm": "Herrera"
+}, {
+	"id": "051",
+	"nm": "Huévar del Aljarafe"
+}, {
+	"id": "902",
+	"nm": "Isla Mayor"
+}, {
+	"id": "052",
+	"nm": "Lantejuela"
+}, {
+	"id": "053",
+	"nm": "Lebrija"
+}, {
+	"id": "054",
+	"nm": "Lora de Estepa"
+}, {
+	"id": "055",
+	"nm": "Lora del Río"
+}, {
+	"id": "056",
+	"nm": "Luisiana, La"
+}, {
+	"id": "057",
+	"nm": "Madroño, El"
+}, {
+	"id": "058",
+	"nm": "Mairena del Alcor"
+}, {
+	"id": "059",
+	"nm": "Mairena del Aljarafe"
+}, {
+	"id": "060",
+	"nm": "Marchena"
+}, {
+	"id": "061",
+	"nm": "Marinaleda"
+}, {
+	"id": "062",
+	"nm": "Martín de la Jara"
+}, {
+	"id": "063",
+	"nm": "Molares, Los"
+}, {
+	"id": "064",
+	"nm": "Montellano"
+}, {
+	"id": "065",
+	"nm": "Morón de la Frontera"
+}, {
+	"id": "066",
+	"nm": "Navas de la Concepción, Las"
+}, {
+	"id": "067",
+	"nm": "Olivares"
+}, {
+	"id": "068",
+	"nm": "Osuna"
+}, {
+	"id": "069",
+	"nm": "Palacios y Villafranca, Los"
+}, {
+	"id": "070",
+	"nm": "Palomares del Río"
+}, {
+	"id": "071",
+	"nm": "Paradas"
+}, {
+	"id": "072",
+	"nm": "Pedrera"
+}, {
+	"id": "073",
+	"nm": "Pedroso, El"
+}, {
+	"id": "074",
+	"nm": "Peñaflor"
+}, {
+	"id": "075",
+	"nm": "Pilas"
+}, {
+	"id": "076",
+	"nm": "Pruna"
+}, {
+	"id": "077",
+	"nm": "Puebla de Cazalla, La"
+}, {
+	"id": "078",
+	"nm": "Puebla de los Infantes, La"
+}, {
+	"id": "079",
+	"nm": "Puebla del Río, La"
+}, {
+	"id": "080",
+	"nm": "Real de la Jara, El"
+}, {
+	"id": "081",
+	"nm": "Rinconada, La"
+}, {
+	"id": "082",
+	"nm": "Roda de Andalucía, La"
+}, {
+	"id": "083",
+	"nm": "Ronquillo, El"
+}, {
+	"id": "084",
+	"nm": "Rubio, El"
+}, {
+	"id": "085",
+	"nm": "Salteras"
+}, {
+	"id": "086",
+	"nm": "San Juan de Aznalfarache"
+}, {
+	"id": "088",
+	"nm": "San Nicolás del Puerto"
+}, {
+	"id": "087",
+	"nm": "Sanlúcar la Mayor"
+}, {
+	"id": "089",
+	"nm": "Santiponce"
+}, {
+	"id": "090",
+	"nm": "Saucejo, El"
+}, {
+	"id": "091",
+	"nm": "Sevilla"
+}, {
+	"id": "092",
+	"nm": "Tocina"
+}, {
+	"id": "093",
+	"nm": "Tomares"
+}, {
+	"id": "094",
+	"nm": "Umbrete"
+}, {
+	"id": "095",
+	"nm": "Utrera"
+}, {
+	"id": "096",
+	"nm": "Valencina de la Concepción"
+}, {
+	"id": "097",
+	"nm": "Villamanrique de la Condesa"
+}, {
+	"id": "100",
+	"nm": "Villanueva de San Juan"
+}, {
+	"id": "098",
+	"nm": "Villanueva del Ariscal"
+}, {
+	"id": "099",
+	"nm": "Villanueva del Río y Minas"
+}, {
+	"id": "101",
+	"nm": "Villaverde del Río"
+}, {
+	"id": "102",
+	"nm": "Viso del Alcor, El"
+}]
