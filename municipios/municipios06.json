@@ -1,0 +1,496 @@
+[{
+	"id": "001",
+	"nm": "Acedera"
+}, {
+	"id": "002",
+	"nm": "Aceuchal"
+}, {
+	"id": "003",
+	"nm": "Ahillones"
+}, {
+	"id": "004",
+	"nm": "Alange"
+}, {
+	"id": "005",
+	"nm": "Albuera, La"
+}, {
+	"id": "006",
+	"nm": "Alburquerque"
+}, {
+	"id": "007",
+	"nm": "Alconchel"
+}, {
+	"id": "008",
+	"nm": "Alconera"
+}, {
+	"id": "009",
+	"nm": "Aljucén"
+}, {
+	"id": "010",
+	"nm": "Almendral"
+}, {
+	"id": "011",
+	"nm": "Almendralejo"
+}, {
+	"id": "012",
+	"nm": "Arroyo de San Serván"
+}, {
+	"id": "013",
+	"nm": "Atalaya"
+}, {
+	"id": "014",
+	"nm": "Azuaga"
+}, {
+	"id": "015",
+	"nm": "Badajoz"
+}, {
+	"id": "016",
+	"nm": "Barcarrota"
+}, {
+	"id": "017",
+	"nm": "Baterno"
+}, {
+	"id": "018",
+	"nm": "Benquerencia de la Serena"
+}, {
+	"id": "019",
+	"nm": "Berlanga"
+}, {
+	"id": "020",
+	"nm": "Bienvenida"
+}, {
+	"id": "021",
+	"nm": "Bodonal de la Sierra"
+}, {
+	"id": "022",
+	"nm": "Burguillos del Cerro"
+}, {
+	"id": "023",
+	"nm": "Cabeza del Buey"
+}, {
+	"id": "024",
+	"nm": "Cabeza la Vaca"
+}, {
+	"id": "025",
+	"nm": "Calamonte"
+}, {
+	"id": "026",
+	"nm": "Calera de León"
+}, {
+	"id": "027",
+	"nm": "Calzadilla de los Barros"
+}, {
+	"id": "028",
+	"nm": "Campanario"
+}, {
+	"id": "029",
+	"nm": "Campillo de Llerena"
+}, {
+	"id": "030",
+	"nm": "Capilla"
+}, {
+	"id": "031",
+	"nm": "Carmonita"
+}, {
+	"id": "032",
+	"nm": "Carrascalejo, El"
+}, {
+	"id": "033",
+	"nm": "Casas de Don Pedro"
+}, {
+	"id": "034",
+	"nm": "Casas de Reina"
+}, {
+	"id": "035",
+	"nm": "Castilblanco"
+}, {
+	"id": "036",
+	"nm": "Castuera"
+}, {
+	"id": "042",
+	"nm": "Cheles"
+}, {
+	"id": "037",
+	"nm": "Codosera, La"
+}, {
+	"id": "038",
+	"nm": "Cordobilla de Lácara"
+}, {
+	"id": "039",
+	"nm": "Coronada, La"
+}, {
+	"id": "040",
+	"nm": "Corte de Peleas"
+}, {
+	"id": "041",
+	"nm": "Cristina"
+}, {
+	"id": "043",
+	"nm": "Don Álvaro"
+}, {
+	"id": "044",
+	"nm": "Don Benito"
+}, {
+	"id": "045",
+	"nm": "Entrín Bajo"
+}, {
+	"id": "046",
+	"nm": "Esparragalejo"
+}, {
+	"id": "047",
+	"nm": "Esparragosa de la Serena"
+}, {
+	"id": "048",
+	"nm": "Esparragosa de Lares"
+}, {
+	"id": "049",
+	"nm": "Feria"
+}, {
+	"id": "050",
+	"nm": "Fregenal de la Sierra"
+}, {
+	"id": "051",
+	"nm": "Fuenlabrada de los Montes"
+}, {
+	"id": "052",
+	"nm": "Fuente de Cantos"
+}, {
+	"id": "053",
+	"nm": "Fuente del Arco"
+}, {
+	"id": "054",
+	"nm": "Fuente del Maestre"
+}, {
+	"id": "055",
+	"nm": "Fuentes de León"
+}, {
+	"id": "056",
+	"nm": "Garbayuela"
+}, {
+	"id": "057",
+	"nm": "Garlitos"
+}, {
+	"id": "058",
+	"nm": "Garrovilla, La"
+}, {
+	"id": "059",
+	"nm": "Granja de Torrehermosa"
+}, {
+	"id": "903",
+	"nm": "Guadiana del Caudillo"
+}, {
+	"id": "060",
+	"nm": "Guareña"
+}, {
+	"id": "061",
+	"nm": "Haba, La"
+}, {
+	"id": "062",
+	"nm": "Helechosa de los Montes"
+}, {
+	"id": "063",
+	"nm": "Herrera del Duque"
+}, {
+	"id": "064",
+	"nm": "Higuera de la Serena"
+}, {
+	"id": "065",
+	"nm": "Higuera de Llerena"
+}, {
+	"id": "066",
+	"nm": "Higuera de Vargas"
+}, {
+	"id": "067",
+	"nm": "Higuera la Real"
+}, {
+	"id": "068",
+	"nm": "Hinojosa del Valle"
+}, {
+	"id": "069",
+	"nm": "Hornachos"
+}, {
+	"id": "070",
+	"nm": "Jerez de los Caballeros"
+}, {
+	"id": "071",
+	"nm": "Lapa, La"
+}, {
+	"id": "073",
+	"nm": "Llera"
+}, {
+	"id": "074",
+	"nm": "Llerena"
+}, {
+	"id": "072",
+	"nm": "Lobón"
+}, {
+	"id": "075",
+	"nm": "Magacela"
+}, {
+	"id": "076",
+	"nm": "Maguilla"
+}, {
+	"id": "077",
+	"nm": "Malcocinado"
+}, {
+	"id": "078",
+	"nm": "Malpartida de la Serena"
+}, {
+	"id": "079",
+	"nm": "Manchita"
+}, {
+	"id": "080",
+	"nm": "Medellín"
+}, {
+	"id": "081",
+	"nm": "Medina de las Torres"
+}, {
+	"id": "082",
+	"nm": "Mengabril"
+}, {
+	"id": "083",
+	"nm": "Mérida"
+}, {
+	"id": "084",
+	"nm": "Mirandilla"
+}, {
+	"id": "085",
+	"nm": "Monesterio"
+}, {
+	"id": "086",
+	"nm": "Montemolín"
+}, {
+	"id": "087",
+	"nm": "Monterrubio de la Serena"
+}, {
+	"id": "088",
+	"nm": "Montijo"
+}, {
+	"id": "089",
+	"nm": "Morera, La"
+}, {
+	"id": "090",
+	"nm": "Nava de Santiago, La"
+}, {
+	"id": "091",
+	"nm": "Navalvillar de Pela"
+}, {
+	"id": "092",
+	"nm": "Nogales"
+}, {
+	"id": "093",
+	"nm": "Oliva de la Frontera"
+}, {
+	"id": "094",
+	"nm": "Oliva de Mérida"
+}, {
+	"id": "095",
+	"nm": "Olivenza"
+}, {
+	"id": "096",
+	"nm": "Orellana de la Sierra"
+}, {
+	"id": "097",
+	"nm": "Orellana la Vieja"
+}, {
+	"id": "098",
+	"nm": "Palomas"
+}, {
+	"id": "099",
+	"nm": "Parra, La"
+}, {
+	"id": "100",
+	"nm": "Peñalsordo"
+}, {
+	"id": "101",
+	"nm": "Peraleda del Zaucejo"
+}, {
+	"id": "102",
+	"nm": "Puebla de Alcocer"
+}, {
+	"id": "103",
+	"nm": "Puebla de la Calzada"
+}, {
+	"id": "104",
+	"nm": "Puebla de la Reina"
+}, {
+	"id": "107",
+	"nm": "Puebla de Obando"
+}, {
+	"id": "108",
+	"nm": "Puebla de Sancho Pérez"
+}, {
+	"id": "105",
+	"nm": "Puebla del Maestre"
+}, {
+	"id": "106",
+	"nm": "Puebla del Prior"
+}, {
+	"id": "902",
+	"nm": "Pueblonuevo del Guadiana"
+}, {
+	"id": "109",
+	"nm": "Quintana de la Serena"
+}, {
+	"id": "110",
+	"nm": "Reina"
+}, {
+	"id": "111",
+	"nm": "Rena"
+}, {
+	"id": "112",
+	"nm": "Retamal de Llerena"
+}, {
+	"id": "113",
+	"nm": "Ribera del Fresno"
+}, {
+	"id": "114",
+	"nm": "Risco"
+}, {
+	"id": "115",
+	"nm": "Roca de la Sierra, La"
+}, {
+	"id": "116",
+	"nm": "Salvaleón"
+}, {
+	"id": "117",
+	"nm": "Salvatierra de los Barros"
+}, {
+	"id": "119",
+	"nm": "San Pedro de Mérida"
+}, {
+	"id": "123",
+	"nm": "San Vicente de Alcántara"
+}, {
+	"id": "118",
+	"nm": "Sancti-Spíritus"
+}, {
+	"id": "120",
+	"nm": "Santa Amalia"
+}, {
+	"id": "121",
+	"nm": "Santa Marta"
+}, {
+	"id": "122",
+	"nm": "Santos de Maimona, Los"
+}, {
+	"id": "124",
+	"nm": "Segura de León"
+}, {
+	"id": "125",
+	"nm": "Siruela"
+}, {
+	"id": "126",
+	"nm": "Solana de los Barros"
+}, {
+	"id": "127",
+	"nm": "Talarrubias"
+}, {
+	"id": "128",
+	"nm": "Talavera la Real"
+}, {
+	"id": "129",
+	"nm": "Táliga"
+}, {
+	"id": "130",
+	"nm": "Tamurejo"
+}, {
+	"id": "131",
+	"nm": "Torre de Miguel Sesmero"
+}, {
+	"id": "132",
+	"nm": "Torremayor"
+}, {
+	"id": "133",
+	"nm": "Torremejía"
+}, {
+	"id": "134",
+	"nm": "Trasierra"
+}, {
+	"id": "135",
+	"nm": "Trujillanos"
+}, {
+	"id": "136",
+	"nm": "Usagre"
+}, {
+	"id": "137",
+	"nm": "Valdecaballeros"
+}, {
+	"id": "901",
+	"nm": "Valdelacalzada"
+}, {
+	"id": "138",
+	"nm": "Valdetorres"
+}, {
+	"id": "139",
+	"nm": "Valencia de las Torres"
+}, {
+	"id": "140",
+	"nm": "Valencia del Mombuey"
+}, {
+	"id": "141",
+	"nm": "Valencia del Ventoso"
+}, {
+	"id": "146",
+	"nm": "Valle de la Serena"
+}, {
+	"id": "147",
+	"nm": "Valle de Matamoros"
+}, {
+	"id": "148",
+	"nm": "Valle de Santa Ana"
+}, {
+	"id": "142",
+	"nm": "Valverde de Burguillos"
+}, {
+	"id": "143",
+	"nm": "Valverde de Leganés"
+}, {
+	"id": "144",
+	"nm": "Valverde de Llerena"
+}, {
+	"id": "145",
+	"nm": "Valverde de Mérida"
+}, {
+	"id": "149",
+	"nm": "Villafranca de los Barros"
+}, {
+	"id": "150",
+	"nm": "Villagarcía de la Torre"
+}, {
+	"id": "151",
+	"nm": "Villagonzalo"
+}, {
+	"id": "152",
+	"nm": "Villalba de los Barros"
+}, {
+	"id": "153",
+	"nm": "Villanueva de la Serena"
+}, {
+	"id": "154",
+	"nm": "Villanueva del Fresno"
+}, {
+	"id": "156",
+	"nm": "Villar de Rena"
+}, {
+	"id": "155",
+	"nm": "Villar del Rey"
+}, {
+	"id": "157",
+	"nm": "Villarta de los Montes"
+}, {
+	"id": "158",
+	"nm": "Zafra"
+}, {
+	"id": "159",
+	"nm": "Zahínos"
+}, {
+	"id": "160",
+	"nm": "Zalamea de la Serena"
+}, {
+	"id": "162",
+	"nm": "Zarza, La"
+}, {
+	"id": "161",
+	"nm": "Zarza-Capilla"
+}]

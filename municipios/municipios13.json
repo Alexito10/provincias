@@ -1,0 +1,307 @@
+[{
+	"id": "001",
+	"nm": "Abenójar"
+}, {
+	"id": "002",
+	"nm": "Agudo"
+}, {
+	"id": "003",
+	"nm": "Alamillo"
+}, {
+	"id": "004",
+	"nm": "Albaladejo"
+}, {
+	"id": "005",
+	"nm": "Alcázar de San Juan"
+}, {
+	"id": "006",
+	"nm": "Alcoba"
+}, {
+	"id": "007",
+	"nm": "Alcolea de Calatrava"
+}, {
+	"id": "008",
+	"nm": "Alcubillas"
+}, {
+	"id": "009",
+	"nm": "Aldea del Rey"
+}, {
+	"id": "010",
+	"nm": "Alhambra"
+}, {
+	"id": "011",
+	"nm": "Almadén"
+}, {
+	"id": "012",
+	"nm": "Almadenejos"
+}, {
+	"id": "013",
+	"nm": "Almagro"
+}, {
+	"id": "014",
+	"nm": "Almedina"
+}, {
+	"id": "015",
+	"nm": "Almodóvar del Campo"
+}, {
+	"id": "016",
+	"nm": "Almuradiel"
+}, {
+	"id": "017",
+	"nm": "Anchuras"
+}, {
+	"id": "903",
+	"nm": "Arenales de San Gregorio"
+}, {
+	"id": "018",
+	"nm": "Arenas de San Juan"
+}, {
+	"id": "019",
+	"nm": "Argamasilla de Alba"
+}, {
+	"id": "020",
+	"nm": "Argamasilla de Calatrava"
+}, {
+	"id": "021",
+	"nm": "Arroba de los Montes"
+}, {
+	"id": "022",
+	"nm": "Ballesteros de Calatrava"
+}, {
+	"id": "023",
+	"nm": "Bolaños de Calatrava"
+}, {
+	"id": "024",
+	"nm": "Brazatortas"
+}, {
+	"id": "025",
+	"nm": "Cabezarados"
+}, {
+	"id": "026",
+	"nm": "Cabezarrubias del Puerto"
+}, {
+	"id": "027",
+	"nm": "Calzada de Calatrava"
+}, {
+	"id": "028",
+	"nm": "Campo de Criptana"
+}, {
+	"id": "029",
+	"nm": "Cañada de Calatrava"
+}, {
+	"id": "030",
+	"nm": "Caracuel de Calatrava"
+}, {
+	"id": "031",
+	"nm": "Carrión de Calatrava"
+}, {
+	"id": "032",
+	"nm": "Carrizosa"
+}, {
+	"id": "033",
+	"nm": "Castellar de Santiago"
+}, {
+	"id": "038",
+	"nm": "Chillón"
+}, {
+	"id": "034",
+	"nm": "Ciudad Real"
+}, {
+	"id": "035",
+	"nm": "Corral de Calatrava"
+}, {
+	"id": "036",
+	"nm": "Cortijos, Los"
+}, {
+	"id": "037",
+	"nm": "Cózar"
+}, {
+	"id": "039",
+	"nm": "Daimiel"
+}, {
+	"id": "040",
+	"nm": "Fernán Caballero"
+}, {
+	"id": "041",
+	"nm": "Fontanarejo"
+}, {
+	"id": "042",
+	"nm": "Fuencaliente"
+}, {
+	"id": "043",
+	"nm": "Fuenllana"
+}, {
+	"id": "044",
+	"nm": "Fuente el Fresno"
+}, {
+	"id": "045",
+	"nm": "Granátula de Calatrava"
+}, {
+	"id": "046",
+	"nm": "Guadalmez"
+}, {
+	"id": "047",
+	"nm": "Herencia"
+}, {
+	"id": "048",
+	"nm": "Hinojosas de Calatrava"
+}, {
+	"id": "049",
+	"nm": "Horcajo de los Montes"
+}, {
+	"id": "050",
+	"nm": "Labores, Las"
+}, {
+	"id": "904",
+	"nm": "Llanos del Caudillo"
+}, {
+	"id": "051",
+	"nm": "Luciana"
+}, {
+	"id": "052",
+	"nm": "Malagón"
+}, {
+	"id": "053",
+	"nm": "Manzanares"
+}, {
+	"id": "054",
+	"nm": "Membrilla"
+}, {
+	"id": "055",
+	"nm": "Mestanza"
+}, {
+	"id": "056",
+	"nm": "Miguelturra"
+}, {
+	"id": "057",
+	"nm": "Montiel"
+}, {
+	"id": "058",
+	"nm": "Moral de Calatrava"
+}, {
+	"id": "059",
+	"nm": "Navalpino"
+}, {
+	"id": "060",
+	"nm": "Navas de Estena"
+}, {
+	"id": "061",
+	"nm": "Pedro Muñoz"
+}, {
+	"id": "062",
+	"nm": "Picón"
+}, {
+	"id": "063",
+	"nm": "Piedrabuena"
+}, {
+	"id": "064",
+	"nm": "Poblete"
+}, {
+	"id": "065",
+	"nm": "Porzuna"
+}, {
+	"id": "066",
+	"nm": "Pozuelo de Calatrava"
+}, {
+	"id": "067",
+	"nm": "Pozuelos de Calatrava, Los"
+}, {
+	"id": "068",
+	"nm": "Puebla de Don Rodrigo"
+}, {
+	"id": "069",
+	"nm": "Puebla del Príncipe"
+}, {
+	"id": "070",
+	"nm": "Puerto Lápice"
+}, {
+	"id": "071",
+	"nm": "Puertollano"
+}, {
+	"id": "072",
+	"nm": "Retuerta del Bullaque"
+}, {
+	"id": "901",
+	"nm": "Robledo, El"
+}, {
+	"id": "902",
+	"nm": "Ruidera"
+}, {
+	"id": "073",
+	"nm": "Saceruela"
+}, {
+	"id": "074",
+	"nm": "San Carlos del Valle"
+}, {
+	"id": "075",
+	"nm": "San Lorenzo de Calatrava"
+}, {
+	"id": "076",
+	"nm": "Santa Cruz de los Cáñamos"
+}, {
+	"id": "077",
+	"nm": "Santa Cruz de Mudela"
+}, {
+	"id": "078",
+	"nm": "Socuéllamos"
+}, {
+	"id": "080",
+	"nm": "Solana del Pino"
+}, {
+	"id": "079",
+	"nm": "Solana, La"
+}, {
+	"id": "081",
+	"nm": "Terrinches"
+}, {
+	"id": "082",
+	"nm": "Tomelloso"
+}, {
+	"id": "083",
+	"nm": "Torralba de Calatrava"
+}, {
+	"id": "084",
+	"nm": "Torre de Juan Abad"
+}, {
+	"id": "085",
+	"nm": "Torrenueva"
+}, {
+	"id": "086",
+	"nm": "Valdemanco del Esteras"
+}, {
+	"id": "087",
+	"nm": "Valdepeñas"
+}, {
+	"id": "088",
+	"nm": "Valenzuela de Calatrava"
+}, {
+	"id": "089",
+	"nm": "Villahermosa"
+}, {
+	"id": "090",
+	"nm": "Villamanrique"
+}, {
+	"id": "091",
+	"nm": "Villamayor de Calatrava"
+}, {
+	"id": "092",
+	"nm": "Villanueva de la Fuente"
+}, {
+	"id": "093",
+	"nm": "Villanueva de los Infantes"
+}, {
+	"id": "094",
+	"nm": "Villanueva de San Carlos"
+}, {
+	"id": "095",
+	"nm": "Villar del Pozo"
+}, {
+	"id": "096",
+	"nm": "Villarrubia de los Ojos"
+}, {
+	"id": "097",
+	"nm": "Villarta de San Juan"
+}, {
+	"id": "098",
+	"nm": "Viso del Marqués"
+}]

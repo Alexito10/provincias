@@ -1,0 +1,865 @@
+[{
+	"id": "001",
+	"nm": "Abánades"
+}, {
+	"id": "002",
+	"nm": "Ablanque"
+}, {
+	"id": "003",
+	"nm": "Adobes"
+}, {
+	"id": "004",
+	"nm": "Alaminos"
+}, {
+	"id": "005",
+	"nm": "Alarilla"
+}, {
+	"id": "006",
+	"nm": "Albalate de Zorita"
+}, {
+	"id": "007",
+	"nm": "Albares"
+}, {
+	"id": "008",
+	"nm": "Albendiego"
+}, {
+	"id": "009",
+	"nm": "Alcocer"
+}, {
+	"id": "010",
+	"nm": "Alcolea de las Peñas"
+}, {
+	"id": "011",
+	"nm": "Alcolea del Pinar"
+}, {
+	"id": "013",
+	"nm": "Alcoroches"
+}, {
+	"id": "015",
+	"nm": "Aldeanueva de Guadalajara"
+}, {
+	"id": "016",
+	"nm": "Algar de Mesa"
+}, {
+	"id": "017",
+	"nm": "Algora"
+}, {
+	"id": "018",
+	"nm": "Alhóndiga"
+}, {
+	"id": "019",
+	"nm": "Alique"
+}, {
+	"id": "020",
+	"nm": "Almadrones"
+}, {
+	"id": "021",
+	"nm": "Almoguera"
+}, {
+	"id": "022",
+	"nm": "Almonacid de Zorita"
+}, {
+	"id": "023",
+	"nm": "Alocén"
+}, {
+	"id": "024",
+	"nm": "Alovera"
+}, {
+	"id": "027",
+	"nm": "Alustante"
+}, {
+	"id": "031",
+	"nm": "Angón"
+}, {
+	"id": "032",
+	"nm": "Anguita"
+}, {
+	"id": "033",
+	"nm": "Anquela del Ducado"
+}, {
+	"id": "034",
+	"nm": "Anquela del Pedregal"
+}, {
+	"id": "036",
+	"nm": "Aranzueque"
+}, {
+	"id": "037",
+	"nm": "Arbancón"
+}, {
+	"id": "038",
+	"nm": "Arbeteta"
+}, {
+	"id": "039",
+	"nm": "Argecilla"
+}, {
+	"id": "040",
+	"nm": "Armallones"
+}, {
+	"id": "041",
+	"nm": "Armuña de Tajuña"
+}, {
+	"id": "042",
+	"nm": "Arroyo de las Fraguas"
+}, {
+	"id": "043",
+	"nm": "Atanzón"
+}, {
+	"id": "044",
+	"nm": "Atienza"
+}, {
+	"id": "045",
+	"nm": "Auñón"
+}, {
+	"id": "046",
+	"nm": "Azuqueca de Henares"
+}, {
+	"id": "047",
+	"nm": "Baides"
+}, {
+	"id": "048",
+	"nm": "Baños de Tajo"
+}, {
+	"id": "049",
+	"nm": "Bañuelos"
+}, {
+	"id": "050",
+	"nm": "Barriopedro"
+}, {
+	"id": "051",
+	"nm": "Berninches"
+}, {
+	"id": "052",
+	"nm": "Bodera, La"
+}, {
+	"id": "053",
+	"nm": "Brihuega"
+}, {
+	"id": "054",
+	"nm": "Budia"
+}, {
+	"id": "055",
+	"nm": "Bujalaro"
+}, {
+	"id": "057",
+	"nm": "Bustares"
+}, {
+	"id": "058",
+	"nm": "Cabanillas del Campo"
+}, {
+	"id": "059",
+	"nm": "Campillo de Dueñas"
+}, {
+	"id": "060",
+	"nm": "Campillo de Ranas"
+}, {
+	"id": "061",
+	"nm": "Campisábalos"
+}, {
+	"id": "064",
+	"nm": "Canredondo"
+}, {
+	"id": "065",
+	"nm": "Cantalojas"
+}, {
+	"id": "066",
+	"nm": "Cañizar"
+}, {
+	"id": "067",
+	"nm": "Cardoso de la Sierra, El"
+}, {
+	"id": "070",
+	"nm": "Casa de Uceda"
+}, {
+	"id": "071",
+	"nm": "Casar, El"
+}, {
+	"id": "073",
+	"nm": "Casas de San Galindo"
+}, {
+	"id": "074",
+	"nm": "Caspueñas"
+}, {
+	"id": "075",
+	"nm": "Castejón de Henares"
+}, {
+	"id": "076",
+	"nm": "Castellar de la Muela"
+}, {
+	"id": "078",
+	"nm": "Castilforte"
+}, {
+	"id": "079",
+	"nm": "Castilnuevo"
+}, {
+	"id": "080",
+	"nm": "Cendejas de Enmedio"
+}, {
+	"id": "081",
+	"nm": "Cendejas de la Torre"
+}, {
+	"id": "082",
+	"nm": "Centenera"
+}, {
+	"id": "103",
+	"nm": "Checa"
+}, {
+	"id": "104",
+	"nm": "Chequilla"
+}, {
+	"id": "106",
+	"nm": "Chillarón del Rey"
+}, {
+	"id": "105",
+	"nm": "Chiloeches"
+}, {
+	"id": "086",
+	"nm": "Cifuentes"
+}, {
+	"id": "087",
+	"nm": "Cincovillas"
+}, {
+	"id": "088",
+	"nm": "Ciruelas"
+}, {
+	"id": "089",
+	"nm": "Ciruelos del Pinar"
+}, {
+	"id": "090",
+	"nm": "Cobeta"
+}, {
+	"id": "091",
+	"nm": "Cogollor"
+}, {
+	"id": "092",
+	"nm": "Cogolludo"
+}, {
+	"id": "095",
+	"nm": "Condemios de Abajo"
+}, {
+	"id": "096",
+	"nm": "Condemios de Arriba"
+}, {
+	"id": "097",
+	"nm": "Congostrina"
+}, {
+	"id": "098",
+	"nm": "Copernal"
+}, {
+	"id": "099",
+	"nm": "Corduente"
+}, {
+	"id": "102",
+	"nm": "Cubillo de Uceda, El"
+}, {
+	"id": "107",
+	"nm": "Driebes"
+}, {
+	"id": "108",
+	"nm": "Durón"
+}, {
+	"id": "109",
+	"nm": "Embid"
+}, {
+	"id": "110",
+	"nm": "Escamilla"
+}, {
+	"id": "111",
+	"nm": "Escariche"
+}, {
+	"id": "112",
+	"nm": "Escopete"
+}, {
+	"id": "113",
+	"nm": "Espinosa de Henares"
+}, {
+	"id": "114",
+	"nm": "Esplegares"
+}, {
+	"id": "115",
+	"nm": "Establés"
+}, {
+	"id": "116",
+	"nm": "Estriégana"
+}, {
+	"id": "117",
+	"nm": "Fontanar"
+}, {
+	"id": "118",
+	"nm": "Fuembellida"
+}, {
+	"id": "119",
+	"nm": "Fuencemillán"
+}, {
+	"id": "120",
+	"nm": "Fuentelahiguera de Albatages"
+}, {
+	"id": "121",
+	"nm": "Fuentelencina"
+}, {
+	"id": "122",
+	"nm": "Fuentelsaz"
+}, {
+	"id": "123",
+	"nm": "Fuentelviejo"
+}, {
+	"id": "124",
+	"nm": "Fuentenovilla"
+}, {
+	"id": "125",
+	"nm": "Gajanejos"
+}, {
+	"id": "126",
+	"nm": "Galápagos"
+}, {
+	"id": "127",
+	"nm": "Galve de Sorbe"
+}, {
+	"id": "129",
+	"nm": "Gascueña de Bornova"
+}, {
+	"id": "130",
+	"nm": "Guadalajara"
+}, {
+	"id": "132",
+	"nm": "Henche"
+}, {
+	"id": "133",
+	"nm": "Heras de Ayuso"
+}, {
+	"id": "134",
+	"nm": "Herrería"
+}, {
+	"id": "135",
+	"nm": "Hiendelaencina"
+}, {
+	"id": "136",
+	"nm": "Hijes"
+}, {
+	"id": "138",
+	"nm": "Hita"
+}, {
+	"id": "139",
+	"nm": "Hombrados"
+}, {
+	"id": "142",
+	"nm": "Hontoba"
+}, {
+	"id": "143",
+	"nm": "Horche"
+}, {
+	"id": "145",
+	"nm": "Hortezuela de Océn"
+}, {
+	"id": "146",
+	"nm": "Huerce, La"
+}, {
+	"id": "147",
+	"nm": "Huérmeces del Cerro"
+}, {
+	"id": "148",
+	"nm": "Huertahernando"
+}, {
+	"id": "150",
+	"nm": "Hueva"
+}, {
+	"id": "151",
+	"nm": "Humanes"
+}, {
+	"id": "152",
+	"nm": "Illana"
+}, {
+	"id": "153",
+	"nm": "Iniéstola"
+}, {
+	"id": "154",
+	"nm": "Inviernas, Las"
+}, {
+	"id": "155",
+	"nm": "Irueste"
+}, {
+	"id": "156",
+	"nm": "Jadraque"
+}, {
+	"id": "157",
+	"nm": "Jirueque"
+}, {
+	"id": "159",
+	"nm": "Ledanca"
+}, {
+	"id": "160",
+	"nm": "Loranca de Tajuña"
+}, {
+	"id": "161",
+	"nm": "Lupiana"
+}, {
+	"id": "162",
+	"nm": "Luzaga"
+}, {
+	"id": "163",
+	"nm": "Luzón"
+}, {
+	"id": "165",
+	"nm": "Majaelrayo"
+}, {
+	"id": "166",
+	"nm": "Málaga del Fresno"
+}, {
+	"id": "167",
+	"nm": "Malaguilla"
+}, {
+	"id": "168",
+	"nm": "Mandayona"
+}, {
+	"id": "169",
+	"nm": "Mantiel"
+}, {
+	"id": "170",
+	"nm": "Maranchón"
+}, {
+	"id": "171",
+	"nm": "Marchamalo"
+}, {
+	"id": "172",
+	"nm": "Masegoso de Tajuña"
+}, {
+	"id": "173",
+	"nm": "Matarrubia"
+}, {
+	"id": "174",
+	"nm": "Matillas"
+}, {
+	"id": "175",
+	"nm": "Mazarete"
+}, {
+	"id": "176",
+	"nm": "Mazuecos"
+}, {
+	"id": "177",
+	"nm": "Medranda"
+}, {
+	"id": "178",
+	"nm": "Megina"
+}, {
+	"id": "179",
+	"nm": "Membrillera"
+}, {
+	"id": "181",
+	"nm": "Miedes de Atienza"
+}, {
+	"id": "182",
+	"nm": "Mierla, La"
+}, {
+	"id": "184",
+	"nm": "Millana"
+}, {
+	"id": "183",
+	"nm": "Milmarcos"
+}, {
+	"id": "185",
+	"nm": "Miñosa, La"
+}, {
+	"id": "186",
+	"nm": "Mirabueno"
+}, {
+	"id": "187",
+	"nm": "Miralrío"
+}, {
+	"id": "188",
+	"nm": "Mochales"
+}, {
+	"id": "189",
+	"nm": "Mohernando"
+}, {
+	"id": "190",
+	"nm": "Molina de Aragón"
+}, {
+	"id": "191",
+	"nm": "Monasterio"
+}, {
+	"id": "192",
+	"nm": "Mondéjar"
+}, {
+	"id": "193",
+	"nm": "Montarrón"
+}, {
+	"id": "194",
+	"nm": "Moratilla de los Meleros"
+}, {
+	"id": "195",
+	"nm": "Morenilla"
+}, {
+	"id": "196",
+	"nm": "Muduex"
+}, {
+	"id": "197",
+	"nm": "Navas de Jadraque, Las"
+}, {
+	"id": "198",
+	"nm": "Negredo"
+}, {
+	"id": "199",
+	"nm": "Ocentejo"
+}, {
+	"id": "200",
+	"nm": "Olivar, El"
+}, {
+	"id": "201",
+	"nm": "Olmeda de Cobeta"
+}, {
+	"id": "202",
+	"nm": "Olmeda de Jadraque, La"
+}, {
+	"id": "203",
+	"nm": "Ordial, El"
+}, {
+	"id": "204",
+	"nm": "Orea"
+}, {
+	"id": "208",
+	"nm": "Pálmaces de Jadraque"
+}, {
+	"id": "209",
+	"nm": "Pardos"
+}, {
+	"id": "210",
+	"nm": "Paredes de Sigüenza"
+}, {
+	"id": "211",
+	"nm": "Pareja"
+}, {
+	"id": "212",
+	"nm": "Pastrana"
+}, {
+	"id": "213",
+	"nm": "Pedregal, El"
+}, {
+	"id": "214",
+	"nm": "Peñalén"
+}, {
+	"id": "215",
+	"nm": "Peñalver"
+}, {
+	"id": "216",
+	"nm": "Peralejos de las Truchas"
+}, {
+	"id": "217",
+	"nm": "Peralveche"
+}, {
+	"id": "218",
+	"nm": "Pinilla de Jadraque"
+}, {
+	"id": "219",
+	"nm": "Pinilla de Molina"
+}, {
+	"id": "220",
+	"nm": "Pioz"
+}, {
+	"id": "221",
+	"nm": "Piqueras"
+}, {
+	"id": "222",
+	"nm": "Pobo de Dueñas, El"
+}, {
+	"id": "223",
+	"nm": "Poveda de la Sierra"
+}, {
+	"id": "224",
+	"nm": "Pozo de Almoguera"
+}, {
+	"id": "225",
+	"nm": "Pozo de Guadalajara"
+}, {
+	"id": "226",
+	"nm": "Prádena de Atienza"
+}, {
+	"id": "227",
+	"nm": "Prados Redondos"
+}, {
+	"id": "228",
+	"nm": "Puebla de Beleña"
+}, {
+	"id": "229",
+	"nm": "Puebla de Valles"
+}, {
+	"id": "230",
+	"nm": "Quer"
+}, {
+	"id": "231",
+	"nm": "Rebollosa de Jadraque"
+}, {
+	"id": "232",
+	"nm": "Recuenco, El"
+}, {
+	"id": "233",
+	"nm": "Renera"
+}, {
+	"id": "234",
+	"nm": "Retiendas"
+}, {
+	"id": "235",
+	"nm": "Riba de Saelices"
+}, {
+	"id": "237",
+	"nm": "Rillo de Gallo"
+}, {
+	"id": "238",
+	"nm": "Riofrío del Llano"
+}, {
+	"id": "239",
+	"nm": "Robledillo de Mohernando"
+}, {
+	"id": "240",
+	"nm": "Robledo de Corpes"
+}, {
+	"id": "241",
+	"nm": "Romanillos de Atienza"
+}, {
+	"id": "242",
+	"nm": "Romanones"
+}, {
+	"id": "243",
+	"nm": "Rueda de la Sierra"
+}, {
+	"id": "244",
+	"nm": "Sacecorbo"
+}, {
+	"id": "245",
+	"nm": "Sacedón"
+}, {
+	"id": "246",
+	"nm": "Saelices de la Sal"
+}, {
+	"id": "247",
+	"nm": "Salmerón"
+}, {
+	"id": "248",
+	"nm": "San Andrés del Congosto"
+}, {
+	"id": "249",
+	"nm": "San Andrés del Rey"
+}, {
+	"id": "250",
+	"nm": "Santiuste"
+}, {
+	"id": "251",
+	"nm": "Saúca"
+}, {
+	"id": "252",
+	"nm": "Sayatón"
+}, {
+	"id": "254",
+	"nm": "Selas"
+}, {
+	"id": "901",
+	"nm": "Semillas"
+}, {
+	"id": "255",
+	"nm": "Setiles"
+}, {
+	"id": "256",
+	"nm": "Sienes"
+}, {
+	"id": "257",
+	"nm": "Sigüenza"
+}, {
+	"id": "258",
+	"nm": "Solanillos del Extremo"
+}, {
+	"id": "259",
+	"nm": "Somolinos"
+}, {
+	"id": "260",
+	"nm": "Sotillo, El"
+}, {
+	"id": "261",
+	"nm": "Sotodosos"
+}, {
+	"id": "262",
+	"nm": "Tamajón"
+}, {
+	"id": "263",
+	"nm": "Taragudo"
+}, {
+	"id": "264",
+	"nm": "Taravilla"
+}, {
+	"id": "265",
+	"nm": "Tartanedo"
+}, {
+	"id": "266",
+	"nm": "Tendilla"
+}, {
+	"id": "267",
+	"nm": "Terzaga"
+}, {
+	"id": "268",
+	"nm": "Tierzo"
+}, {
+	"id": "269",
+	"nm": "Toba, La"
+}, {
+	"id": "271",
+	"nm": "Tordellego"
+}, {
+	"id": "270",
+	"nm": "Tordelrábano"
+}, {
+	"id": "272",
+	"nm": "Tordesilos"
+}, {
+	"id": "274",
+	"nm": "Torija"
+}, {
+	"id": "279",
+	"nm": "Torre del Burgo"
+}, {
+	"id": "277",
+	"nm": "Torrecuadrada de Molina"
+}, {
+	"id": "278",
+	"nm": "Torrecuadradilla"
+}, {
+	"id": "280",
+	"nm": "Torrejón del Rey"
+}, {
+	"id": "281",
+	"nm": "Torremocha de Jadraque"
+}, {
+	"id": "282",
+	"nm": "Torremocha del Campo"
+}, {
+	"id": "283",
+	"nm": "Torremocha del Pinar"
+}, {
+	"id": "284",
+	"nm": "Torremochuela"
+}, {
+	"id": "285",
+	"nm": "Torrubia"
+}, {
+	"id": "286",
+	"nm": "Tórtola de Henares"
+}, {
+	"id": "287",
+	"nm": "Tortuera"
+}, {
+	"id": "288",
+	"nm": "Tortuero"
+}, {
+	"id": "289",
+	"nm": "Traíd"
+}, {
+	"id": "290",
+	"nm": "Trijueque"
+}, {
+	"id": "291",
+	"nm": "Trillo"
+}, {
+	"id": "293",
+	"nm": "Uceda"
+}, {
+	"id": "294",
+	"nm": "Ujados"
+}, {
+	"id": "296",
+	"nm": "Utande"
+}, {
+	"id": "297",
+	"nm": "Valdarachas"
+}, {
+	"id": "298",
+	"nm": "Valdearenas"
+}, {
+	"id": "299",
+	"nm": "Valdeavellano"
+}, {
+	"id": "300",
+	"nm": "Valdeaveruelo"
+}, {
+	"id": "301",
+	"nm": "Valdeconcha"
+}, {
+	"id": "302",
+	"nm": "Valdegrudas"
+}, {
+	"id": "303",
+	"nm": "Valdelcubo"
+}, {
+	"id": "304",
+	"nm": "Valdenuño Fernández"
+}, {
+	"id": "305",
+	"nm": "Valdepeñas de la Sierra"
+}, {
+	"id": "306",
+	"nm": "Valderrebollo"
+}, {
+	"id": "307",
+	"nm": "Valdesotos"
+}, {
+	"id": "308",
+	"nm": "Valfermoso de Tajuña"
+}, {
+	"id": "309",
+	"nm": "Valhermoso"
+}, {
+	"id": "310",
+	"nm": "Valtablado del Río"
+}, {
+	"id": "311",
+	"nm": "Valverde de los Arroyos"
+}, {
+	"id": "314",
+	"nm": "Viana de Jadraque"
+}, {
+	"id": "317",
+	"nm": "Villanueva de Alcorón"
+}, {
+	"id": "318",
+	"nm": "Villanueva de Argecilla"
+}, {
+	"id": "319",
+	"nm": "Villanueva de la Torre"
+}, {
+	"id": "321",
+	"nm": "Villares de Jadraque"
+}, {
+	"id": "322",
+	"nm": "Villaseca de Henares"
+}, {
+	"id": "323",
+	"nm": "Villaseca de Uceda"
+}, {
+	"id": "324",
+	"nm": "Villel de Mesa"
+}, {
+	"id": "325",
+	"nm": "Viñuelas"
+}, {
+	"id": "326",
+	"nm": "Yebes"
+}, {
+	"id": "327",
+	"nm": "Yebra"
+}, {
+	"id": "329",
+	"nm": "Yélamos de Abajo"
+}, {
+	"id": "330",
+	"nm": "Yélamos de Arriba"
+}, {
+	"id": "331",
+	"nm": "Yunquera de Henares"
+}, {
+	"id": "332",
+	"nm": "Yunta, La"
+}, {
+	"id": "333",
+	"nm": "Zaorejas"
+}, {
+	"id": "334",
+	"nm": "Zarzuela de Jadraque"
+}, {
+	"id": "335",
+	"nm": "Zorita de los Canes"
+}]

@@ -1,0 +1,280 @@
+[{
+	"id": "001",
+	"nm": "Abegondo"
+}, {
+	"id": "002",
+	"nm": "Ames"
+}, {
+	"id": "003",
+	"nm": "Aranga"
+}, {
+	"id": "004",
+	"nm": "Ares"
+}, {
+	"id": "005",
+	"nm": "Arteixo"
+}, {
+	"id": "006",
+	"nm": "Arzúa"
+}, {
+	"id": "007",
+	"nm": "Baña, A"
+}, {
+	"id": "008",
+	"nm": "Bergondo"
+}, {
+	"id": "009",
+	"nm": "Betanzos"
+}, {
+	"id": "010",
+	"nm": "Boimorto"
+}, {
+	"id": "011",
+	"nm": "Boiro"
+}, {
+	"id": "012",
+	"nm": "Boqueixón"
+}, {
+	"id": "013",
+	"nm": "Brión"
+}, {
+	"id": "014",
+	"nm": "Cabana de Bergantiños"
+}, {
+	"id": "015",
+	"nm": "Cabanas"
+}, {
+	"id": "016",
+	"nm": "Camariñas"
+}, {
+	"id": "017",
+	"nm": "Cambre"
+}, {
+	"id": "018",
+	"nm": "Capela, A"
+}, {
+	"id": "019",
+	"nm": "Carballo"
+}, {
+	"id": "901",
+	"nm": "Cariño"
+}, {
+	"id": "020",
+	"nm": "Carnota"
+}, {
+	"id": "021",
+	"nm": "Carral"
+}, {
+	"id": "022",
+	"nm": "Cedeira"
+}, {
+	"id": "023",
+	"nm": "Cee"
+}, {
+	"id": "024",
+	"nm": "Cerceda"
+}, {
+	"id": "025",
+	"nm": "Cerdido"
+}, {
+	"id": "027",
+	"nm": "Coirós"
+}, {
+	"id": "028",
+	"nm": "Corcubión"
+}, {
+	"id": "029",
+	"nm": "Coristanco"
+}, {
+	"id": "030",
+	"nm": "Coruña, A"
+}, {
+	"id": "031",
+	"nm": "Culleredo"
+}, {
+	"id": "032",
+	"nm": "Curtis"
+}, {
+	"id": "033",
+	"nm": "Dodro"
+}, {
+	"id": "034",
+	"nm": "Dumbría"
+}, {
+	"id": "035",
+	"nm": "Fene"
+}, {
+	"id": "036",
+	"nm": "Ferrol"
+}, {
+	"id": "037",
+	"nm": "Fisterra"
+}, {
+	"id": "038",
+	"nm": "Frades"
+}, {
+	"id": "039",
+	"nm": "Irixoa"
+}, {
+	"id": "041",
+	"nm": "Laracha, A"
+}, {
+	"id": "040",
+	"nm": "Laxe"
+}, {
+	"id": "042",
+	"nm": "Lousame"
+}, {
+	"id": "043",
+	"nm": "Malpica de Bergantiños"
+}, {
+	"id": "044",
+	"nm": "Mañón"
+}, {
+	"id": "045",
+	"nm": "Mazaricos"
+}, {
+	"id": "046",
+	"nm": "Melide"
+}, {
+	"id": "047",
+	"nm": "Mesía"
+}, {
+	"id": "048",
+	"nm": "Miño"
+}, {
+	"id": "049",
+	"nm": "Moeche"
+}, {
+	"id": "050",
+	"nm": "Monfero"
+}, {
+	"id": "051",
+	"nm": "Mugardos"
+}, {
+	"id": "053",
+	"nm": "Muros"
+}, {
+	"id": "052",
+	"nm": "Muxía"
+}, {
+	"id": "054",
+	"nm": "Narón"
+}, {
+	"id": "055",
+	"nm": "Neda"
+}, {
+	"id": "056",
+	"nm": "Negreira"
+}, {
+	"id": "057",
+	"nm": "Noia"
+}, {
+	"id": "058",
+	"nm": "Oleiros"
+}, {
+	"id": "059",
+	"nm": "Ordes"
+}, {
+	"id": "060",
+	"nm": "Oroso"
+}, {
+	"id": "061",
+	"nm": "Ortigueira"
+}, {
+	"id": "062",
+	"nm": "Outes"
+}, {
+	"id": "902",
+	"nm": "Oza-Cesuras"
+}, {
+	"id": "064",
+	"nm": "Paderne"
+}, {
+	"id": "065",
+	"nm": "Padrón"
+}, {
+	"id": "066",
+	"nm": "Pino, O"
+}, {
+	"id": "067",
+	"nm": "Pobra do Caramiñal, A"
+}, {
+	"id": "068",
+	"nm": "Ponteceso"
+}, {
+	"id": "069",
+	"nm": "Pontedeume"
+}, {
+	"id": "070",
+	"nm": "Pontes de García Rodríguez, As"
+}, {
+	"id": "071",
+	"nm": "Porto do Son"
+}, {
+	"id": "072",
+	"nm": "Rianxo"
+}, {
+	"id": "073",
+	"nm": "Ribeira"
+}, {
+	"id": "074",
+	"nm": "Rois"
+}, {
+	"id": "075",
+	"nm": "Sada"
+}, {
+	"id": "076",
+	"nm": "San Sadurniño"
+}, {
+	"id": "077",
+	"nm": "Santa Comba"
+}, {
+	"id": "078",
+	"nm": "Santiago de Compostela"
+}, {
+	"id": "079",
+	"nm": "Santiso"
+}, {
+	"id": "080",
+	"nm": "Sobrado"
+}, {
+	"id": "081",
+	"nm": "Somozas, As"
+}, {
+	"id": "082",
+	"nm": "Teo"
+}, {
+	"id": "083",
+	"nm": "Toques"
+}, {
+	"id": "084",
+	"nm": "Tordoia"
+}, {
+	"id": "085",
+	"nm": "Touro"
+}, {
+	"id": "086",
+	"nm": "Trazo"
+}, {
+	"id": "088",
+	"nm": "Val do Dubra"
+}, {
+	"id": "087",
+	"nm": "Valdoviño"
+}, {
+	"id": "089",
+	"nm": "Vedra"
+}, {
+	"id": "091",
+	"nm": "Vilarmaior"
+}, {
+	"id": "090",
+	"nm": "Vilasantar"
+}, {
+	"id": "092",
+	"nm": "Vimianzo"
+}, {
+	"id": "093",
+	"nm": "Zas"
+}]

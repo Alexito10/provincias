@@ -1,0 +1,745 @@
+[{
+	"id": "001",
+	"nm": "Adanero"
+}, {
+	"id": "002",
+	"nm": "Adrada, La"
+}, {
+	"id": "005",
+	"nm": "Albornos"
+}, {
+	"id": "007",
+	"nm": "Aldeanueva de Santa Cruz"
+}, {
+	"id": "008",
+	"nm": "Aldeaseca"
+}, {
+	"id": "010",
+	"nm": "Aldehuela, La"
+}, {
+	"id": "012",
+	"nm": "Amavida"
+}, {
+	"id": "013",
+	"nm": "Arenal, El"
+}, {
+	"id": "014",
+	"nm": "Arenas de San Pedro"
+}, {
+	"id": "015",
+	"nm": "Arevalillo"
+}, {
+	"id": "016",
+	"nm": "Arévalo"
+}, {
+	"id": "017",
+	"nm": "Aveinte"
+}, {
+	"id": "018",
+	"nm": "Avellaneda"
+}, {
+	"id": "019",
+	"nm": "Ávila"
+}, {
+	"id": "021",
+	"nm": "Barco de Ávila, El"
+}, {
+	"id": "022",
+	"nm": "Barraco, El"
+}, {
+	"id": "023",
+	"nm": "Barromán"
+}, {
+	"id": "024",
+	"nm": "Becedas"
+}, {
+	"id": "025",
+	"nm": "Becedillas"
+}, {
+	"id": "026",
+	"nm": "Bercial de Zapardiel"
+}, {
+	"id": "027",
+	"nm": "Berlanas, Las"
+}, {
+	"id": "029",
+	"nm": "Bernuy-Zapardiel"
+}, {
+	"id": "030",
+	"nm": "Berrocalejo de Aragona"
+}, {
+	"id": "033",
+	"nm": "Blascomillán"
+}, {
+	"id": "034",
+	"nm": "Blasconuño de Matacabras"
+}, {
+	"id": "035",
+	"nm": "Blascosancho"
+}, {
+	"id": "036",
+	"nm": "Bohodón, El"
+}, {
+	"id": "037",
+	"nm": "Bohoyo"
+}, {
+	"id": "038",
+	"nm": "Bonilla de la Sierra"
+}, {
+	"id": "039",
+	"nm": "Brabos"
+}, {
+	"id": "040",
+	"nm": "Bularros"
+}, {
+	"id": "041",
+	"nm": "Burgohondo"
+}, {
+	"id": "042",
+	"nm": "Cabezas de Alambre"
+}, {
+	"id": "043",
+	"nm": "Cabezas del Pozo"
+}, {
+	"id": "044",
+	"nm": "Cabezas del Villar"
+}, {
+	"id": "045",
+	"nm": "Cabizuela"
+}, {
+	"id": "046",
+	"nm": "Canales"
+}, {
+	"id": "047",
+	"nm": "Candeleda"
+}, {
+	"id": "048",
+	"nm": "Cantiveros"
+}, {
+	"id": "049",
+	"nm": "Cardeñosa"
+}, {
+	"id": "051",
+	"nm": "Carrera, La"
+}, {
+	"id": "052",
+	"nm": "Casas del Puerto"
+}, {
+	"id": "053",
+	"nm": "Casasola"
+}, {
+	"id": "054",
+	"nm": "Casavieja"
+}, {
+	"id": "055",
+	"nm": "Casillas"
+}, {
+	"id": "056",
+	"nm": "Castellanos de Zapardiel"
+}, {
+	"id": "057",
+	"nm": "Cebreros"
+}, {
+	"id": "058",
+	"nm": "Cepeda la Mora"
+}, {
+	"id": "067",
+	"nm": "Chamartín"
+}, {
+	"id": "059",
+	"nm": "Cillán"
+}, {
+	"id": "060",
+	"nm": "Cisla"
+}, {
+	"id": "061",
+	"nm": "Colilla, La"
+}, {
+	"id": "062",
+	"nm": "Collado de Contreras"
+}, {
+	"id": "063",
+	"nm": "Collado del Mirón"
+}, {
+	"id": "064",
+	"nm": "Constanzana"
+}, {
+	"id": "065",
+	"nm": "Crespos"
+}, {
+	"id": "066",
+	"nm": "Cuevas del Valle"
+}, {
+	"id": "903",
+	"nm": "Diego del Carpio"
+}, {
+	"id": "069",
+	"nm": "Donjimeno"
+}, {
+	"id": "070",
+	"nm": "Donvidas"
+}, {
+	"id": "072",
+	"nm": "Espinosa de los Caballeros"
+}, {
+	"id": "073",
+	"nm": "Flores de Ávila"
+}, {
+	"id": "074",
+	"nm": "Fontiveros"
+}, {
+	"id": "075",
+	"nm": "Fresnedilla"
+}, {
+	"id": "076",
+	"nm": "Fresno, El"
+}, {
+	"id": "077",
+	"nm": "Fuente el Saúz"
+}, {
+	"id": "078",
+	"nm": "Fuentes de Año"
+}, {
+	"id": "079",
+	"nm": "Gallegos de Altamiros"
+}, {
+	"id": "080",
+	"nm": "Gallegos de Sobrinos"
+}, {
+	"id": "081",
+	"nm": "Garganta del Villar"
+}, {
+	"id": "082",
+	"nm": "Gavilanes"
+}, {
+	"id": "083",
+	"nm": "Gemuño"
+}, {
+	"id": "085",
+	"nm": "Gil García"
+}, {
+	"id": "084",
+	"nm": "Gilbuena"
+}, {
+	"id": "086",
+	"nm": "Gimialcón"
+}, {
+	"id": "087",
+	"nm": "Gotarrendura"
+}, {
+	"id": "088",
+	"nm": "Grandes y San Martín"
+}, {
+	"id": "089",
+	"nm": "Guisando"
+}, {
+	"id": "090",
+	"nm": "Gutierre-Muñoz"
+}, {
+	"id": "092",
+	"nm": "Hernansancho"
+}, {
+	"id": "093",
+	"nm": "Herradón de Pinares"
+}, {
+	"id": "094",
+	"nm": "Herreros de Suso"
+}, {
+	"id": "095",
+	"nm": "Higuera de las Dueñas"
+}, {
+	"id": "096",
+	"nm": "Hija de Dios, La"
+}, {
+	"id": "097",
+	"nm": "Horcajada, La"
+}, {
+	"id": "099",
+	"nm": "Horcajo de las Torres"
+}, {
+	"id": "100",
+	"nm": "Hornillo, El"
+}, {
+	"id": "102",
+	"nm": "Hoyo de Pinares, El"
+}, {
+	"id": "101",
+	"nm": "Hoyocasero"
+}, {
+	"id": "103",
+	"nm": "Hoyorredondo"
+}, {
+	"id": "106",
+	"nm": "Hoyos de Miguel Muñoz"
+}, {
+	"id": "104",
+	"nm": "Hoyos del Collado"
+}, {
+	"id": "105",
+	"nm": "Hoyos del Espino"
+}, {
+	"id": "107",
+	"nm": "Hurtumpascual"
+}, {
+	"id": "108",
+	"nm": "Junciana"
+}, {
+	"id": "109",
+	"nm": "Langa"
+}, {
+	"id": "110",
+	"nm": "Lanzahíta"
+}, {
+	"id": "113",
+	"nm": "Llanos de Tormes, Los"
+}, {
+	"id": "112",
+	"nm": "Losar del Barco, El"
+}, {
+	"id": "114",
+	"nm": "Madrigal de las Altas Torres"
+}, {
+	"id": "115",
+	"nm": "Maello"
+}, {
+	"id": "116",
+	"nm": "Malpartida de Corneja"
+}, {
+	"id": "117",
+	"nm": "Mamblas"
+}, {
+	"id": "118",
+	"nm": "Mancera de Arriba"
+}, {
+	"id": "119",
+	"nm": "Manjabálago y Ortigosa de Rioalmar"
+}, {
+	"id": "120",
+	"nm": "Marlín"
+}, {
+	"id": "121",
+	"nm": "Martiherrero"
+}, {
+	"id": "122",
+	"nm": "Martínez"
+}, {
+	"id": "123",
+	"nm": "Mediana de Voltoya"
+}, {
+	"id": "124",
+	"nm": "Medinilla"
+}, {
+	"id": "125",
+	"nm": "Mengamuñoz"
+}, {
+	"id": "126",
+	"nm": "Mesegar de Corneja"
+}, {
+	"id": "127",
+	"nm": "Mijares"
+}, {
+	"id": "128",
+	"nm": "Mingorría"
+}, {
+	"id": "129",
+	"nm": "Mirón, El"
+}, {
+	"id": "130",
+	"nm": "Mironcillo"
+}, {
+	"id": "131",
+	"nm": "Mirueña de los Infanzones"
+}, {
+	"id": "132",
+	"nm": "Mombeltrán"
+}, {
+	"id": "133",
+	"nm": "Monsalupe"
+}, {
+	"id": "134",
+	"nm": "Moraleja de Matacabras"
+}, {
+	"id": "135",
+	"nm": "Muñana"
+}, {
+	"id": "136",
+	"nm": "Muñico"
+}, {
+	"id": "138",
+	"nm": "Muñogalindo"
+}, {
+	"id": "139",
+	"nm": "Muñogrande"
+}, {
+	"id": "140",
+	"nm": "Muñomer del Peco"
+}, {
+	"id": "141",
+	"nm": "Muñopepe"
+}, {
+	"id": "142",
+	"nm": "Muñosancho"
+}, {
+	"id": "143",
+	"nm": "Muñotello"
+}, {
+	"id": "144",
+	"nm": "Narrillos del Álamo"
+}, {
+	"id": "145",
+	"nm": "Narrillos del Rebollar"
+}, {
+	"id": "149",
+	"nm": "Narros de Saldueña"
+}, {
+	"id": "147",
+	"nm": "Narros del Castillo"
+}, {
+	"id": "148",
+	"nm": "Narros del Puerto"
+}, {
+	"id": "152",
+	"nm": "Nava de Arévalo"
+}, {
+	"id": "153",
+	"nm": "Nava del Barco"
+}, {
+	"id": "151",
+	"nm": "Navacepedilla de Corneja"
+}, {
+	"id": "154",
+	"nm": "Navadijos"
+}, {
+	"id": "155",
+	"nm": "Navaescurial"
+}, {
+	"id": "156",
+	"nm": "Navahondilla"
+}, {
+	"id": "157",
+	"nm": "Navalacruz"
+}, {
+	"id": "158",
+	"nm": "Navalmoral"
+}, {
+	"id": "159",
+	"nm": "Navalonguilla"
+}, {
+	"id": "160",
+	"nm": "Navalosa"
+}, {
+	"id": "161",
+	"nm": "Navalperal de Pinares"
+}, {
+	"id": "162",
+	"nm": "Navalperal de Tormes"
+}, {
+	"id": "163",
+	"nm": "Navaluenga"
+}, {
+	"id": "164",
+	"nm": "Navaquesera"
+}, {
+	"id": "165",
+	"nm": "Navarredonda de Gredos"
+}, {
+	"id": "166",
+	"nm": "Navarredondilla"
+}, {
+	"id": "167",
+	"nm": "Navarrevisca"
+}, {
+	"id": "168",
+	"nm": "Navas del Marqués, Las"
+}, {
+	"id": "169",
+	"nm": "Navatalgordo"
+}, {
+	"id": "170",
+	"nm": "Navatejares"
+}, {
+	"id": "171",
+	"nm": "Neila de San Miguel"
+}, {
+	"id": "172",
+	"nm": "Niharra"
+}, {
+	"id": "173",
+	"nm": "Ojos-Albos"
+}, {
+	"id": "174",
+	"nm": "Orbita"
+}, {
+	"id": "175",
+	"nm": "Oso, El"
+}, {
+	"id": "176",
+	"nm": "Padiernos"
+}, {
+	"id": "177",
+	"nm": "Pajares de Adaja"
+}, {
+	"id": "178",
+	"nm": "Palacios de Goda"
+}, {
+	"id": "179",
+	"nm": "Papatrigo"
+}, {
+	"id": "180",
+	"nm": "Parral, El"
+}, {
+	"id": "181",
+	"nm": "Pascualcobo"
+}, {
+	"id": "182",
+	"nm": "Pedro Bernardo"
+}, {
+	"id": "183",
+	"nm": "Pedro-Rodríguez"
+}, {
+	"id": "184",
+	"nm": "Peguerinos"
+}, {
+	"id": "185",
+	"nm": "Peñalba de Ávila"
+}, {
+	"id": "186",
+	"nm": "Piedrahíta"
+}, {
+	"id": "187",
+	"nm": "Piedralaves"
+}, {
+	"id": "188",
+	"nm": "Poveda"
+}, {
+	"id": "189",
+	"nm": "Poyales del Hoyo"
+}, {
+	"id": "190",
+	"nm": "Pozanco"
+}, {
+	"id": "191",
+	"nm": "Pradosegar"
+}, {
+	"id": "192",
+	"nm": "Puerto Castilla"
+}, {
+	"id": "193",
+	"nm": "Rasueros"
+}, {
+	"id": "194",
+	"nm": "Riocabado"
+}, {
+	"id": "195",
+	"nm": "Riofrío"
+}, {
+	"id": "196",
+	"nm": "Rivilla de Barajas"
+}, {
+	"id": "197",
+	"nm": "Salobral"
+}, {
+	"id": "198",
+	"nm": "Salvadiós"
+}, {
+	"id": "199",
+	"nm": "San Bartolomé de Béjar"
+}, {
+	"id": "200",
+	"nm": "San Bartolomé de Corneja"
+}, {
+	"id": "201",
+	"nm": "San Bartolomé de Pinares"
+}, {
+	"id": "206",
+	"nm": "San Esteban de los Patos"
+}, {
+	"id": "208",
+	"nm": "San Esteban de Zapardiel"
+}, {
+	"id": "207",
+	"nm": "San Esteban del Valle"
+}, {
+	"id": "209",
+	"nm": "San García de Ingelmos"
+}, {
+	"id": "901",
+	"nm": "San Juan de Gredos"
+}, {
+	"id": "210",
+	"nm": "San Juan de la Encinilla"
+}, {
+	"id": "211",
+	"nm": "San Juan de la Nava"
+}, {
+	"id": "212",
+	"nm": "San Juan del Molinillo"
+}, {
+	"id": "213",
+	"nm": "San Juan del Olmo"
+}, {
+	"id": "214",
+	"nm": "San Lorenzo de Tormes"
+}, {
+	"id": "215",
+	"nm": "San Martín de la Vega del Alberche"
+}, {
+	"id": "216",
+	"nm": "San Martín del Pimpollar"
+}, {
+	"id": "217",
+	"nm": "San Miguel de Corneja"
+}, {
+	"id": "218",
+	"nm": "San Miguel de Serrezuela"
+}, {
+	"id": "219",
+	"nm": "San Pascual"
+}, {
+	"id": "220",
+	"nm": "San Pedro del Arroyo"
+}, {
+	"id": "231",
+	"nm": "San Vicente de Arévalo"
+}, {
+	"id": "204",
+	"nm": "Sanchidrián"
+}, {
+	"id": "205",
+	"nm": "Sanchorreja"
+}, {
+	"id": "222",
+	"nm": "Santa Cruz de Pinares"
+}, {
+	"id": "221",
+	"nm": "Santa Cruz del Valle"
+}, {
+	"id": "226",
+	"nm": "Santa María de los Caballeros"
+}, {
+	"id": "224",
+	"nm": "Santa María del Arroyo"
+}, {
+	"id": "225",
+	"nm": "Santa María del Berrocal"
+}, {
+	"id": "902",
+	"nm": "Santa María del Cubillo"
+}, {
+	"id": "227",
+	"nm": "Santa María del Tiétar"
+}, {
+	"id": "228",
+	"nm": "Santiago del Collado"
+}, {
+	"id": "904",
+	"nm": "Santiago del Tormes"
+}, {
+	"id": "229",
+	"nm": "Santo Domingo de las Posadas"
+}, {
+	"id": "230",
+	"nm": "Santo Tomé de Zabarcos"
+}, {
+	"id": "232",
+	"nm": "Serrada, La"
+}, {
+	"id": "233",
+	"nm": "Serranillos"
+}, {
+	"id": "234",
+	"nm": "Sigeres"
+}, {
+	"id": "235",
+	"nm": "Sinlabajos"
+}, {
+	"id": "236",
+	"nm": "Solana de Ávila"
+}, {
+	"id": "237",
+	"nm": "Solana de Rioalmar"
+}, {
+	"id": "238",
+	"nm": "Solosancho"
+}, {
+	"id": "239",
+	"nm": "Sotalbo"
+}, {
+	"id": "240",
+	"nm": "Sotillo de la Adrada"
+}, {
+	"id": "241",
+	"nm": "Tiemblo, El"
+}, {
+	"id": "242",
+	"nm": "Tiñosillos"
+}, {
+	"id": "243",
+	"nm": "Tolbaños"
+}, {
+	"id": "244",
+	"nm": "Tormellas"
+}, {
+	"id": "245",
+	"nm": "Tornadizos de Ávila"
+}, {
+	"id": "247",
+	"nm": "Torre, La"
+}, {
+	"id": "246",
+	"nm": "Tórtoles"
+}, {
+	"id": "249",
+	"nm": "Umbrías"
+}, {
+	"id": "251",
+	"nm": "Vadillo de la Sierra"
+}, {
+	"id": "252",
+	"nm": "Valdecasa"
+}, {
+	"id": "253",
+	"nm": "Vega de Santa María"
+}, {
+	"id": "254",
+	"nm": "Velayos"
+}, {
+	"id": "256",
+	"nm": "Villaflor"
+}, {
+	"id": "257",
+	"nm": "Villafranca de la Sierra"
+}, {
+	"id": "905",
+	"nm": "Villanueva de Ávila"
+}, {
+	"id": "258",
+	"nm": "Villanueva de Gómez"
+}, {
+	"id": "259",
+	"nm": "Villanueva del Aceral"
+}, {
+	"id": "260",
+	"nm": "Villanueva del Campillo"
+}, {
+	"id": "261",
+	"nm": "Villar de Corneja"
+}, {
+	"id": "262",
+	"nm": "Villarejo del Valle"
+}, {
+	"id": "263",
+	"nm": "Villatoro"
+}, {
+	"id": "264",
+	"nm": "Viñegra de Moraña"
+}, {
+	"id": "265",
+	"nm": "Vita"
+}, {
+	"id": "266",
+	"nm": "Zapardiel de la Cañada"
+}, {
+	"id": "267",
+	"nm": "Zapardiel de la Ribera"
+}]

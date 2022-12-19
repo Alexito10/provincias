@@ -1,0 +1,538 @@
+[{
+	"id": "001",
+	"nm": "Acebeda, La"
+}, {
+	"id": "002",
+	"nm": "Ajalvir"
+}, {
+	"id": "003",
+	"nm": "Alameda del Valle"
+}, {
+	"id": "004",
+	"nm": "Álamo, El"
+}, {
+	"id": "005",
+	"nm": "Alcalá de Henares"
+}, {
+	"id": "006",
+	"nm": "Alcobendas"
+}, {
+	"id": "007",
+	"nm": "Alcorcón"
+}, {
+	"id": "008",
+	"nm": "Aldea del Fresno"
+}, {
+	"id": "009",
+	"nm": "Algete"
+}, {
+	"id": "010",
+	"nm": "Alpedrete"
+}, {
+	"id": "011",
+	"nm": "Ambite"
+}, {
+	"id": "012",
+	"nm": "Anchuelo"
+}, {
+	"id": "013",
+	"nm": "Aranjuez"
+}, {
+	"id": "014",
+	"nm": "Arganda del Rey"
+}, {
+	"id": "015",
+	"nm": "Arroyomolinos"
+}, {
+	"id": "016",
+	"nm": "Atazar, El"
+}, {
+	"id": "017",
+	"nm": "Batres"
+}, {
+	"id": "018",
+	"nm": "Becerril de la Sierra"
+}, {
+	"id": "019",
+	"nm": "Belmonte de Tajo"
+}, {
+	"id": "021",
+	"nm": "Berrueco, El"
+}, {
+	"id": "020",
+	"nm": "Berzosa del Lozoya"
+}, {
+	"id": "022",
+	"nm": "Boadilla del Monte"
+}, {
+	"id": "023",
+	"nm": "Boalo, El"
+}, {
+	"id": "024",
+	"nm": "Braojos"
+}, {
+	"id": "025",
+	"nm": "Brea de Tajo"
+}, {
+	"id": "026",
+	"nm": "Brunete"
+}, {
+	"id": "027",
+	"nm": "Buitrago del Lozoya"
+}, {
+	"id": "028",
+	"nm": "Bustarviejo"
+}, {
+	"id": "029",
+	"nm": "Cabanillas de la Sierra"
+}, {
+	"id": "030",
+	"nm": "Cabrera, La"
+}, {
+	"id": "031",
+	"nm": "Cadalso de los Vidrios"
+}, {
+	"id": "032",
+	"nm": "Camarma de Esteruelas"
+}, {
+	"id": "033",
+	"nm": "Campo Real"
+}, {
+	"id": "034",
+	"nm": "Canencia"
+}, {
+	"id": "035",
+	"nm": "Carabaña"
+}, {
+	"id": "036",
+	"nm": "Casarrubuelos"
+}, {
+	"id": "037",
+	"nm": "Cenicientos"
+}, {
+	"id": "038",
+	"nm": "Cercedilla"
+}, {
+	"id": "039",
+	"nm": "Cervera de Buitrago"
+}, {
+	"id": "051",
+	"nm": "Chapinería"
+}, {
+	"id": "052",
+	"nm": "Chinchón"
+}, {
+	"id": "040",
+	"nm": "Ciempozuelos"
+}, {
+	"id": "041",
+	"nm": "Cobeña"
+}, {
+	"id": "046",
+	"nm": "Collado Mediano"
+}, {
+	"id": "047",
+	"nm": "Collado Villalba"
+}, {
+	"id": "043",
+	"nm": "Colmenar de Oreja"
+}, {
+	"id": "042",
+	"nm": "Colmenar del Arroyo"
+}, {
+	"id": "045",
+	"nm": "Colmenar Viejo"
+}, {
+	"id": "044",
+	"nm": "Colmenarejo"
+}, {
+	"id": "048",
+	"nm": "Corpa"
+}, {
+	"id": "049",
+	"nm": "Coslada"
+}, {
+	"id": "050",
+	"nm": "Cubas de la Sagra"
+}, {
+	"id": "053",
+	"nm": "Daganzo de Arriba"
+}, {
+	"id": "054",
+	"nm": "Escorial, El"
+}, {
+	"id": "055",
+	"nm": "Estremera"
+}, {
+	"id": "056",
+	"nm": "Fresnedillas de la Oliva"
+}, {
+	"id": "057",
+	"nm": "Fresno de Torote"
+}, {
+	"id": "058",
+	"nm": "Fuenlabrada"
+}, {
+	"id": "059",
+	"nm": "Fuente el Saz de Jarama"
+}, {
+	"id": "060",
+	"nm": "Fuentidueña de Tajo"
+}, {
+	"id": "061",
+	"nm": "Galapagar"
+}, {
+	"id": "062",
+	"nm": "Garganta de los Montes"
+}, {
+	"id": "063",
+	"nm": "Gargantilla del Lozoya y Pinilla de Buitrago"
+}, {
+	"id": "064",
+	"nm": "Gascones"
+}, {
+	"id": "065",
+	"nm": "Getafe"
+}, {
+	"id": "066",
+	"nm": "Griñón"
+}, {
+	"id": "067",
+	"nm": "Guadalix de la Sierra"
+}, {
+	"id": "068",
+	"nm": "Guadarrama"
+}, {
+	"id": "069",
+	"nm": "Hiruela, La"
+}, {
+	"id": "070",
+	"nm": "Horcajo de la Sierra-Aoslos"
+}, {
+	"id": "071",
+	"nm": "Horcajuelo de la Sierra"
+}, {
+	"id": "072",
+	"nm": "Hoyo de Manzanares"
+}, {
+	"id": "073",
+	"nm": "Humanes de Madrid"
+}, {
+	"id": "074",
+	"nm": "Leganés"
+}, {
+	"id": "075",
+	"nm": "Loeches"
+}, {
+	"id": "076",
+	"nm": "Lozoya"
+}, {
+	"id": "901",
+	"nm": "Lozoyuela-Navas-Sieteiglesias"
+}, {
+	"id": "078",
+	"nm": "Madarcos"
+}, {
+	"id": "079",
+	"nm": "Madrid"
+}, {
+	"id": "080",
+	"nm": "Majadahonda"
+}, {
+	"id": "082",
+	"nm": "Manzanares el Real"
+}, {
+	"id": "083",
+	"nm": "Meco"
+}, {
+	"id": "084",
+	"nm": "Mejorada del Campo"
+}, {
+	"id": "085",
+	"nm": "Miraflores de la Sierra"
+}, {
+	"id": "086",
+	"nm": "Molar, El"
+}, {
+	"id": "087",
+	"nm": "Molinos, Los"
+}, {
+	"id": "088",
+	"nm": "Montejo de la Sierra"
+}, {
+	"id": "089",
+	"nm": "Moraleja de Enmedio"
+}, {
+	"id": "090",
+	"nm": "Moralzarzal"
+}, {
+	"id": "091",
+	"nm": "Morata de Tajuña"
+}, {
+	"id": "092",
+	"nm": "Móstoles"
+}, {
+	"id": "093",
+	"nm": "Navacerrada"
+}, {
+	"id": "094",
+	"nm": "Navalafuente"
+}, {
+	"id": "095",
+	"nm": "Navalagamella"
+}, {
+	"id": "096",
+	"nm": "Navalcarnero"
+}, {
+	"id": "097",
+	"nm": "Navarredonda y San Mamés"
+}, {
+	"id": "099",
+	"nm": "Navas del Rey"
+}, {
+	"id": "100",
+	"nm": "Nuevo Baztán"
+}, {
+	"id": "101",
+	"nm": "Olmeda de las Fuentes"
+}, {
+	"id": "102",
+	"nm": "Orusco de Tajuña"
+}, {
+	"id": "104",
+	"nm": "Paracuellos de Jarama"
+}, {
+	"id": "106",
+	"nm": "Parla"
+}, {
+	"id": "107",
+	"nm": "Patones"
+}, {
+	"id": "108",
+	"nm": "Pedrezuela"
+}, {
+	"id": "109",
+	"nm": "Pelayos de la Presa"
+}, {
+	"id": "110",
+	"nm": "Perales de Tajuña"
+}, {
+	"id": "111",
+	"nm": "Pezuela de las Torres"
+}, {
+	"id": "112",
+	"nm": "Pinilla del Valle"
+}, {
+	"id": "113",
+	"nm": "Pinto"
+}, {
+	"id": "114",
+	"nm": "Piñuécar-Gandullas"
+}, {
+	"id": "115",
+	"nm": "Pozuelo de Alarcón"
+}, {
+	"id": "116",
+	"nm": "Pozuelo del Rey"
+}, {
+	"id": "117",
+	"nm": "Prádena del Rincón"
+}, {
+	"id": "118",
+	"nm": "Puebla de la Sierra"
+}, {
+	"id": "902",
+	"nm": "Puentes Viejas"
+}, {
+	"id": "119",
+	"nm": "Quijorna"
+}, {
+	"id": "120",
+	"nm": "Rascafría"
+}, {
+	"id": "121",
+	"nm": "Redueña"
+}, {
+	"id": "122",
+	"nm": "Ribatejada"
+}, {
+	"id": "123",
+	"nm": "Rivas-Vaciamadrid"
+}, {
+	"id": "124",
+	"nm": "Robledillo de la Jara"
+}, {
+	"id": "125",
+	"nm": "Robledo de Chavela"
+}, {
+	"id": "126",
+	"nm": "Robregordo"
+}, {
+	"id": "127",
+	"nm": "Rozas de Madrid, Las"
+}, {
+	"id": "128",
+	"nm": "Rozas de Puerto Real"
+}, {
+	"id": "129",
+	"nm": "San Agustín del Guadalix"
+}, {
+	"id": "130",
+	"nm": "San Fernando de Henares"
+}, {
+	"id": "131",
+	"nm": "San Lorenzo de El Escorial"
+}, {
+	"id": "132",
+	"nm": "San Martín de la Vega"
+}, {
+	"id": "133",
+	"nm": "San Martín de Valdeiglesias"
+}, {
+	"id": "134",
+	"nm": "San Sebastián de los Reyes"
+}, {
+	"id": "135",
+	"nm": "Santa María de la Alameda"
+}, {
+	"id": "136",
+	"nm": "Santorcaz"
+}, {
+	"id": "137",
+	"nm": "Santos de la Humosa, Los"
+}, {
+	"id": "138",
+	"nm": "Serna del Monte, La"
+}, {
+	"id": "140",
+	"nm": "Serranillos del Valle"
+}, {
+	"id": "141",
+	"nm": "Sevilla la Nueva"
+}, {
+	"id": "143",
+	"nm": "Somosierra"
+}, {
+	"id": "144",
+	"nm": "Soto del Real"
+}, {
+	"id": "145",
+	"nm": "Talamanca de Jarama"
+}, {
+	"id": "146",
+	"nm": "Tielmes"
+}, {
+	"id": "147",
+	"nm": "Titulcia"
+}, {
+	"id": "148",
+	"nm": "Torrejón de Ardoz"
+}, {
+	"id": "149",
+	"nm": "Torrejón de la Calzada"
+}, {
+	"id": "150",
+	"nm": "Torrejón de Velasco"
+}, {
+	"id": "151",
+	"nm": "Torrelaguna"
+}, {
+	"id": "152",
+	"nm": "Torrelodones"
+}, {
+	"id": "153",
+	"nm": "Torremocha de Jarama"
+}, {
+	"id": "154",
+	"nm": "Torres de la Alameda"
+}, {
+	"id": "903",
+	"nm": "Tres Cantos"
+}, {
+	"id": "155",
+	"nm": "Valdaracete"
+}, {
+	"id": "156",
+	"nm": "Valdeavero"
+}, {
+	"id": "157",
+	"nm": "Valdelaguna"
+}, {
+	"id": "158",
+	"nm": "Valdemanco"
+}, {
+	"id": "159",
+	"nm": "Valdemaqueda"
+}, {
+	"id": "160",
+	"nm": "Valdemorillo"
+}, {
+	"id": "161",
+	"nm": "Valdemoro"
+}, {
+	"id": "162",
+	"nm": "Valdeolmos-Alalpardo"
+}, {
+	"id": "163",
+	"nm": "Valdepiélagos"
+}, {
+	"id": "164",
+	"nm": "Valdetorres de Jarama"
+}, {
+	"id": "165",
+	"nm": "Valdilecha"
+}, {
+	"id": "166",
+	"nm": "Valverde de Alcalá"
+}, {
+	"id": "167",
+	"nm": "Velilla de San Antonio"
+}, {
+	"id": "168",
+	"nm": "Vellón, El"
+}, {
+	"id": "169",
+	"nm": "Venturada"
+}, {
+	"id": "171",
+	"nm": "Villa del Prado"
+}, {
+	"id": "170",
+	"nm": "Villaconejos"
+}, {
+	"id": "172",
+	"nm": "Villalbilla"
+}, {
+	"id": "173",
+	"nm": "Villamanrique de Tajo"
+}, {
+	"id": "174",
+	"nm": "Villamanta"
+}, {
+	"id": "175",
+	"nm": "Villamantilla"
+}, {
+	"id": "176",
+	"nm": "Villanueva de la Cañada"
+}, {
+	"id": "178",
+	"nm": "Villanueva de Perales"
+}, {
+	"id": "177",
+	"nm": "Villanueva del Pardillo"
+}, {
+	"id": "179",
+	"nm": "Villar del Olmo"
+}, {
+	"id": "180",
+	"nm": "Villarejo de Salvanés"
+}, {
+	"id": "181",
+	"nm": "Villaviciosa de Odón"
+}, {
+	"id": "182",
+	"nm": "Villavieja del Lozoya"
+}, {
+	"id": "183",
+	"nm": "Zarzalejo"
+}]

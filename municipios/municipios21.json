@@ -1,0 +1,238 @@
+[{
+	"id": "001",
+	"nm": "Alájar"
+}, {
+	"id": "002",
+	"nm": "Aljaraque"
+}, {
+	"id": "003",
+	"nm": "Almendro, El"
+}, {
+	"id": "004",
+	"nm": "Almonaster la Real"
+}, {
+	"id": "005",
+	"nm": "Almonte"
+}, {
+	"id": "006",
+	"nm": "Alosno"
+}, {
+	"id": "007",
+	"nm": "Aracena"
+}, {
+	"id": "008",
+	"nm": "Aroche"
+}, {
+	"id": "009",
+	"nm": "Arroyomolinos de León"
+}, {
+	"id": "010",
+	"nm": "Ayamonte"
+}, {
+	"id": "011",
+	"nm": "Beas"
+}, {
+	"id": "012",
+	"nm": "Berrocal"
+}, {
+	"id": "013",
+	"nm": "Bollullos Par del Condado"
+}, {
+	"id": "014",
+	"nm": "Bonares"
+}, {
+	"id": "015",
+	"nm": "Cabezas Rubias"
+}, {
+	"id": "016",
+	"nm": "Cala"
+}, {
+	"id": "017",
+	"nm": "Calañas"
+}, {
+	"id": "018",
+	"nm": "Campillo, El"
+}, {
+	"id": "019",
+	"nm": "Campofrío"
+}, {
+	"id": "020",
+	"nm": "Cañaveral de León"
+}, {
+	"id": "021",
+	"nm": "Cartaya"
+}, {
+	"id": "022",
+	"nm": "Castaño del Robledo"
+}, {
+	"id": "023",
+	"nm": "Cerro de Andévalo, El"
+}, {
+	"id": "030",
+	"nm": "Chucena"
+}, {
+	"id": "024",
+	"nm": "Corteconcepción"
+}, {
+	"id": "025",
+	"nm": "Cortegana"
+}, {
+	"id": "026",
+	"nm": "Cortelazor"
+}, {
+	"id": "027",
+	"nm": "Cumbres de Enmedio"
+}, {
+	"id": "028",
+	"nm": "Cumbres de San Bartolomé"
+}, {
+	"id": "029",
+	"nm": "Cumbres Mayores"
+}, {
+	"id": "031",
+	"nm": "Encinasola"
+}, {
+	"id": "032",
+	"nm": "Escacena del Campo"
+}, {
+	"id": "033",
+	"nm": "Fuenteheridos"
+}, {
+	"id": "034",
+	"nm": "Galaroza"
+}, {
+	"id": "035",
+	"nm": "Gibraleón"
+}, {
+	"id": "036",
+	"nm": "Granada de Río-Tinto, La"
+}, {
+	"id": "037",
+	"nm": "Granado, El"
+}, {
+	"id": "038",
+	"nm": "Higuera de la Sierra"
+}, {
+	"id": "039",
+	"nm": "Hinojales"
+}, {
+	"id": "040",
+	"nm": "Hinojos"
+}, {
+	"id": "041",
+	"nm": "Huelva"
+}, {
+	"id": "042",
+	"nm": "Isla Cristina"
+}, {
+	"id": "043",
+	"nm": "Jabugo"
+}, {
+	"id": "044",
+	"nm": "Lepe"
+}, {
+	"id": "045",
+	"nm": "Linares de la Sierra"
+}, {
+	"id": "046",
+	"nm": "Lucena del Puerto"
+}, {
+	"id": "047",
+	"nm": "Manzanilla"
+}, {
+	"id": "048",
+	"nm": "Marines, Los"
+}, {
+	"id": "049",
+	"nm": "Minas de Riotinto"
+}, {
+	"id": "050",
+	"nm": "Moguer"
+}, {
+	"id": "051",
+	"nm": "Nava, La"
+}, {
+	"id": "052",
+	"nm": "Nerva"
+}, {
+	"id": "053",
+	"nm": "Niebla"
+}, {
+	"id": "054",
+	"nm": "Palma del Condado, La"
+}, {
+	"id": "055",
+	"nm": "Palos de la Frontera"
+}, {
+	"id": "056",
+	"nm": "Paterna del Campo"
+}, {
+	"id": "057",
+	"nm": "Paymogo"
+}, {
+	"id": "058",
+	"nm": "Puebla de Guzmán"
+}, {
+	"id": "059",
+	"nm": "Puerto Moral"
+}, {
+	"id": "060",
+	"nm": "Punta Umbría"
+}, {
+	"id": "061",
+	"nm": "Rociana del Condado"
+}, {
+	"id": "062",
+	"nm": "Rosal de la Frontera"
+}, {
+	"id": "063",
+	"nm": "San Bartolomé de la Torre"
+}, {
+	"id": "064",
+	"nm": "San Juan del Puerto"
+}, {
+	"id": "066",
+	"nm": "San Silvestre de Guzmán"
+}, {
+	"id": "065",
+	"nm": "Sanlúcar de Guadiana"
+}, {
+	"id": "067",
+	"nm": "Santa Ana la Real"
+}, {
+	"id": "068",
+	"nm": "Santa Bárbara de Casa"
+}, {
+	"id": "069",
+	"nm": "Santa Olalla del Cala"
+}, {
+	"id": "070",
+	"nm": "Trigueros"
+}, {
+	"id": "071",
+	"nm": "Valdelarco"
+}, {
+	"id": "072",
+	"nm": "Valverde del Camino"
+}, {
+	"id": "073",
+	"nm": "Villablanca"
+}, {
+	"id": "074",
+	"nm": "Villalba del Alcor"
+}, {
+	"id": "075",
+	"nm": "Villanueva de las Cruces"
+}, {
+	"id": "076",
+	"nm": "Villanueva de los Castillejos"
+}, {
+	"id": "077",
+	"nm": "Villarrasa"
+}, {
+	"id": "078",
+	"nm": "Zalamea la Real"
+}, {
+	"id": "079",
+	"nm": "Zufre"
+}]

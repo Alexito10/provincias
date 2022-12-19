@@ -1,0 +1,310 @@
+[{
+	"id": "001",
+	"nm": "Alameda"
+}, {
+	"id": "002",
+	"nm": "Alcaucín"
+}, {
+	"id": "003",
+	"nm": "Alfarnate"
+}, {
+	"id": "004",
+	"nm": "Alfarnatejo"
+}, {
+	"id": "005",
+	"nm": "Algarrobo"
+}, {
+	"id": "006",
+	"nm": "Algatocín"
+}, {
+	"id": "007",
+	"nm": "Alhaurín de la Torre"
+}, {
+	"id": "008",
+	"nm": "Alhaurín el Grande"
+}, {
+	"id": "009",
+	"nm": "Almáchar"
+}, {
+	"id": "010",
+	"nm": "Almargen"
+}, {
+	"id": "011",
+	"nm": "Almogía"
+}, {
+	"id": "012",
+	"nm": "Álora"
+}, {
+	"id": "013",
+	"nm": "Alozaina"
+}, {
+	"id": "014",
+	"nm": "Alpandeire"
+}, {
+	"id": "015",
+	"nm": "Antequera"
+}, {
+	"id": "016",
+	"nm": "Árchez"
+}, {
+	"id": "017",
+	"nm": "Archidona"
+}, {
+	"id": "018",
+	"nm": "Ardales"
+}, {
+	"id": "019",
+	"nm": "Arenas"
+}, {
+	"id": "020",
+	"nm": "Arriate"
+}, {
+	"id": "021",
+	"nm": "Atajate"
+}, {
+	"id": "022",
+	"nm": "Benadalid"
+}, {
+	"id": "023",
+	"nm": "Benahavís"
+}, {
+	"id": "024",
+	"nm": "Benalauría"
+}, {
+	"id": "025",
+	"nm": "Benalmádena"
+}, {
+	"id": "026",
+	"nm": "Benamargosa"
+}, {
+	"id": "027",
+	"nm": "Benamocarra"
+}, {
+	"id": "028",
+	"nm": "Benaoján"
+}, {
+	"id": "029",
+	"nm": "Benarrabá"
+}, {
+	"id": "030",
+	"nm": "Borge, El"
+}, {
+	"id": "031",
+	"nm": "Burgo, El"
+}, {
+	"id": "032",
+	"nm": "Campillos"
+}, {
+	"id": "033",
+	"nm": "Canillas de Aceituno"
+}, {
+	"id": "034",
+	"nm": "Canillas de Albaida"
+}, {
+	"id": "035",
+	"nm": "Cañete la Real"
+}, {
+	"id": "036",
+	"nm": "Carratraca"
+}, {
+	"id": "037",
+	"nm": "Cartajima"
+}, {
+	"id": "038",
+	"nm": "Cártama"
+}, {
+	"id": "039",
+	"nm": "Casabermeja"
+}, {
+	"id": "040",
+	"nm": "Casarabonela"
+}, {
+	"id": "041",
+	"nm": "Casares"
+}, {
+	"id": "042",
+	"nm": "Coín"
+}, {
+	"id": "043",
+	"nm": "Colmenar"
+}, {
+	"id": "044",
+	"nm": "Comares"
+}, {
+	"id": "045",
+	"nm": "Cómpeta"
+}, {
+	"id": "046",
+	"nm": "Cortes de la Frontera"
+}, {
+	"id": "047",
+	"nm": "Cuevas Bajas"
+}, {
+	"id": "049",
+	"nm": "Cuevas de San Marcos"
+}, {
+	"id": "048",
+	"nm": "Cuevas del Becerro"
+}, {
+	"id": "050",
+	"nm": "Cútar"
+}, {
+	"id": "051",
+	"nm": "Estepona"
+}, {
+	"id": "052",
+	"nm": "Faraján"
+}, {
+	"id": "053",
+	"nm": "Frigiliana"
+}, {
+	"id": "054",
+	"nm": "Fuengirola"
+}, {
+	"id": "055",
+	"nm": "Fuente de Piedra"
+}, {
+	"id": "056",
+	"nm": "Gaucín"
+}, {
+	"id": "057",
+	"nm": "Genalguacil"
+}, {
+	"id": "058",
+	"nm": "Guaro"
+}, {
+	"id": "059",
+	"nm": "Humilladero"
+}, {
+	"id": "060",
+	"nm": "Igualeja"
+}, {
+	"id": "061",
+	"nm": "Istán"
+}, {
+	"id": "062",
+	"nm": "Iznate"
+}, {
+	"id": "063",
+	"nm": "Jimera de Líbar"
+}, {
+	"id": "064",
+	"nm": "Jubrique"
+}, {
+	"id": "065",
+	"nm": "Júzcar"
+}, {
+	"id": "066",
+	"nm": "Macharaviaya"
+}, {
+	"id": "067",
+	"nm": "Málaga"
+}, {
+	"id": "068",
+	"nm": "Manilva"
+}, {
+	"id": "069",
+	"nm": "Marbella"
+}, {
+	"id": "070",
+	"nm": "Mijas"
+}, {
+	"id": "071",
+	"nm": "Moclinejo"
+}, {
+	"id": "072",
+	"nm": "Mollina"
+}, {
+	"id": "073",
+	"nm": "Monda"
+}, {
+	"id": "903",
+	"nm": "Montecorto"
+}, {
+	"id": "074",
+	"nm": "Montejaque"
+}, {
+	"id": "075",
+	"nm": "Nerja"
+}, {
+	"id": "076",
+	"nm": "Ojén"
+}, {
+	"id": "077",
+	"nm": "Parauta"
+}, {
+	"id": "079",
+	"nm": "Periana"
+}, {
+	"id": "080",
+	"nm": "Pizarra"
+}, {
+	"id": "081",
+	"nm": "Pujerra"
+}, {
+	"id": "082",
+	"nm": "Rincón de la Victoria"
+}, {
+	"id": "083",
+	"nm": "Riogordo"
+}, {
+	"id": "084",
+	"nm": "Ronda"
+}, {
+	"id": "085",
+	"nm": "Salares"
+}, {
+	"id": "086",
+	"nm": "Sayalonga"
+}, {
+	"id": "087",
+	"nm": "Sedella"
+}, {
+	"id": "904",
+	"nm": "Serrato"
+}, {
+	"id": "088",
+	"nm": "Sierra de Yeguas"
+}, {
+	"id": "089",
+	"nm": "Teba"
+}, {
+	"id": "090",
+	"nm": "Tolox"
+}, {
+	"id": "901",
+	"nm": "Torremolinos"
+}, {
+	"id": "091",
+	"nm": "Torrox"
+}, {
+	"id": "092",
+	"nm": "Totalán"
+}, {
+	"id": "093",
+	"nm": "Valle de Abdalajís"
+}, {
+	"id": "094",
+	"nm": "Vélez-Málaga"
+}, {
+	"id": "095",
+	"nm": "Villanueva de Algaidas"
+}, {
+	"id": "902",
+	"nm": "Villanueva de la Concepción"
+}, {
+	"id": "098",
+	"nm": "Villanueva de Tapia"
+}, {
+	"id": "096",
+	"nm": "Villanueva del Rosario"
+}, {
+	"id": "097",
+	"nm": "Villanueva del Trabuco"
+}, {
+	"id": "099",
+	"nm": "Viñuela"
+}, {
+	"id": "100",
+	"nm": "Yunquera"
+}]

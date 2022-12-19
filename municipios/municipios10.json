@@ -1,0 +1,670 @@
+[{
+	"id": "001",
+	"nm": "Abadía"
+}, {
+	"id": "002",
+	"nm": "Abertura"
+}, {
+	"id": "003",
+	"nm": "Acebo"
+}, {
+	"id": "004",
+	"nm": "Acehúche"
+}, {
+	"id": "005",
+	"nm": "Aceituna"
+}, {
+	"id": "006",
+	"nm": "Ahigal"
+}, {
+	"id": "903",
+	"nm": "Alagón del Río"
+}, {
+	"id": "007",
+	"nm": "Albalá"
+}, {
+	"id": "008",
+	"nm": "Alcántara"
+}, {
+	"id": "009",
+	"nm": "Alcollarín"
+}, {
+	"id": "010",
+	"nm": "Alcuéscar"
+}, {
+	"id": "012",
+	"nm": "Aldea del Cano"
+}, {
+	"id": "013",
+	"nm": "Aldea del Obispo, La"
+}, {
+	"id": "011",
+	"nm": "Aldeacentenera"
+}, {
+	"id": "014",
+	"nm": "Aldeanueva de la Vera"
+}, {
+	"id": "015",
+	"nm": "Aldeanueva del Camino"
+}, {
+	"id": "016",
+	"nm": "Aldehuela de Jerte"
+}, {
+	"id": "017",
+	"nm": "Alía"
+}, {
+	"id": "018",
+	"nm": "Aliseda"
+}, {
+	"id": "019",
+	"nm": "Almaraz"
+}, {
+	"id": "020",
+	"nm": "Almoharín"
+}, {
+	"id": "021",
+	"nm": "Arroyo de la Luz"
+}, {
+	"id": "023",
+	"nm": "Arroyomolinos"
+}, {
+	"id": "022",
+	"nm": "Arroyomolinos de la Vera"
+}, {
+	"id": "024",
+	"nm": "Baños de Montemayor"
+}, {
+	"id": "025",
+	"nm": "Barrado"
+}, {
+	"id": "026",
+	"nm": "Belvís de Monroy"
+}, {
+	"id": "027",
+	"nm": "Benquerencia"
+}, {
+	"id": "028",
+	"nm": "Berrocalejo"
+}, {
+	"id": "029",
+	"nm": "Berzocana"
+}, {
+	"id": "030",
+	"nm": "Bohonal de Ibor"
+}, {
+	"id": "031",
+	"nm": "Botija"
+}, {
+	"id": "032",
+	"nm": "Brozas"
+}, {
+	"id": "033",
+	"nm": "Cabañas del Castillo"
+}, {
+	"id": "034",
+	"nm": "Cabezabellosa"
+}, {
+	"id": "035",
+	"nm": "Cabezuela del Valle"
+}, {
+	"id": "036",
+	"nm": "Cabrero"
+}, {
+	"id": "037",
+	"nm": "Cáceres"
+}, {
+	"id": "038",
+	"nm": "Cachorrilla"
+}, {
+	"id": "039",
+	"nm": "Cadalso"
+}, {
+	"id": "040",
+	"nm": "Calzadilla"
+}, {
+	"id": "041",
+	"nm": "Caminomorisco"
+}, {
+	"id": "042",
+	"nm": "Campillo de Deleitosa"
+}, {
+	"id": "043",
+	"nm": "Campo Lugar"
+}, {
+	"id": "044",
+	"nm": "Cañamero"
+}, {
+	"id": "045",
+	"nm": "Cañaveral"
+}, {
+	"id": "046",
+	"nm": "Carbajo"
+}, {
+	"id": "047",
+	"nm": "Carcaboso"
+}, {
+	"id": "048",
+	"nm": "Carrascalejo"
+}, {
+	"id": "049",
+	"nm": "Casar de Cáceres"
+}, {
+	"id": "050",
+	"nm": "Casar de Palomero"
+}, {
+	"id": "051",
+	"nm": "Casares de las Hurdes"
+}, {
+	"id": "052",
+	"nm": "Casas de Don Antonio"
+}, {
+	"id": "053",
+	"nm": "Casas de Don Gómez"
+}, {
+	"id": "056",
+	"nm": "Casas de Millán"
+}, {
+	"id": "057",
+	"nm": "Casas de Miravete"
+}, {
+	"id": "054",
+	"nm": "Casas del Castañar"
+}, {
+	"id": "055",
+	"nm": "Casas del Monte"
+}, {
+	"id": "058",
+	"nm": "Casatejada"
+}, {
+	"id": "059",
+	"nm": "Casillas de Coria"
+}, {
+	"id": "060",
+	"nm": "Castañar de Ibor"
+}, {
+	"id": "061",
+	"nm": "Ceclavín"
+}, {
+	"id": "062",
+	"nm": "Cedillo"
+}, {
+	"id": "063",
+	"nm": "Cerezo"
+}, {
+	"id": "064",
+	"nm": "Cilleros"
+}, {
+	"id": "065",
+	"nm": "Collado de la Vera"
+}, {
+	"id": "066",
+	"nm": "Conquista de la Sierra"
+}, {
+	"id": "067",
+	"nm": "Coria"
+}, {
+	"id": "068",
+	"nm": "Cuacos de Yuste"
+}, {
+	"id": "069",
+	"nm": "Cumbre, La"
+}, {
+	"id": "070",
+	"nm": "Deleitosa"
+}, {
+	"id": "071",
+	"nm": "Descargamaría"
+}, {
+	"id": "072",
+	"nm": "Eljas"
+}, {
+	"id": "073",
+	"nm": "Escurial"
+}, {
+	"id": "075",
+	"nm": "Fresnedoso de Ibor"
+}, {
+	"id": "076",
+	"nm": "Galisteo"
+}, {
+	"id": "077",
+	"nm": "Garciaz"
+}, {
+	"id": "079",
+	"nm": "Garganta la Olla"
+}, {
+	"id": "078",
+	"nm": "Garganta, La"
+}, {
+	"id": "080",
+	"nm": "Gargantilla"
+}, {
+	"id": "081",
+	"nm": "Gargüera"
+}, {
+	"id": "082",
+	"nm": "Garrovillas de Alconétar"
+}, {
+	"id": "083",
+	"nm": "Garvín"
+}, {
+	"id": "084",
+	"nm": "Gata"
+}, {
+	"id": "085",
+	"nm": "Gordo, El"
+}, {
+	"id": "086",
+	"nm": "Granja, La"
+}, {
+	"id": "087",
+	"nm": "Guadalupe"
+}, {
+	"id": "088",
+	"nm": "Guijo de Coria"
+}, {
+	"id": "089",
+	"nm": "Guijo de Galisteo"
+}, {
+	"id": "090",
+	"nm": "Guijo de Granadilla"
+}, {
+	"id": "091",
+	"nm": "Guijo de Santa Bárbara"
+}, {
+	"id": "092",
+	"nm": "Herguijuela"
+}, {
+	"id": "093",
+	"nm": "Hernán-Pérez"
+}, {
+	"id": "094",
+	"nm": "Herrera de Alcántara"
+}, {
+	"id": "095",
+	"nm": "Herreruela"
+}, {
+	"id": "096",
+	"nm": "Hervás"
+}, {
+	"id": "097",
+	"nm": "Higuera"
+}, {
+	"id": "098",
+	"nm": "Hinojal"
+}, {
+	"id": "099",
+	"nm": "Holguera"
+}, {
+	"id": "100",
+	"nm": "Hoyos"
+}, {
+	"id": "101",
+	"nm": "Huélaga"
+}, {
+	"id": "102",
+	"nm": "Ibahernando"
+}, {
+	"id": "103",
+	"nm": "Jaraicejo"
+}, {
+	"id": "104",
+	"nm": "Jaraíz de la Vera"
+}, {
+	"id": "105",
+	"nm": "Jarandilla de la Vera"
+}, {
+	"id": "106",
+	"nm": "Jarilla"
+}, {
+	"id": "107",
+	"nm": "Jerte"
+}, {
+	"id": "108",
+	"nm": "Ladrillar"
+}, {
+	"id": "109",
+	"nm": "Logrosán"
+}, {
+	"id": "110",
+	"nm": "Losar de la Vera"
+}, {
+	"id": "111",
+	"nm": "Madrigal de la Vera"
+}, {
+	"id": "112",
+	"nm": "Madrigalejo"
+}, {
+	"id": "113",
+	"nm": "Madroñera"
+}, {
+	"id": "114",
+	"nm": "Majadas"
+}, {
+	"id": "115",
+	"nm": "Malpartida de Cáceres"
+}, {
+	"id": "116",
+	"nm": "Malpartida de Plasencia"
+}, {
+	"id": "117",
+	"nm": "Marchagaz"
+}, {
+	"id": "118",
+	"nm": "Mata de Alcántara"
+}, {
+	"id": "119",
+	"nm": "Membrío"
+}, {
+	"id": "120",
+	"nm": "Mesas de Ibor"
+}, {
+	"id": "121",
+	"nm": "Miajadas"
+}, {
+	"id": "122",
+	"nm": "Millanes"
+}, {
+	"id": "123",
+	"nm": "Mirabel"
+}, {
+	"id": "124",
+	"nm": "Mohedas de Granadilla"
+}, {
+	"id": "125",
+	"nm": "Monroy"
+}, {
+	"id": "126",
+	"nm": "Montánchez"
+}, {
+	"id": "127",
+	"nm": "Montehermoso"
+}, {
+	"id": "128",
+	"nm": "Moraleja"
+}, {
+	"id": "129",
+	"nm": "Morcillo"
+}, {
+	"id": "130",
+	"nm": "Navaconcejo"
+}, {
+	"id": "131",
+	"nm": "Navalmoral de la Mata"
+}, {
+	"id": "132",
+	"nm": "Navalvillar de Ibor"
+}, {
+	"id": "133",
+	"nm": "Navas del Madroño"
+}, {
+	"id": "134",
+	"nm": "Navezuelas"
+}, {
+	"id": "135",
+	"nm": "Nuñomoral"
+}, {
+	"id": "136",
+	"nm": "Oliva de Plasencia"
+}, {
+	"id": "137",
+	"nm": "Palomero"
+}, {
+	"id": "138",
+	"nm": "Pasarón de la Vera"
+}, {
+	"id": "139",
+	"nm": "Pedroso de Acim"
+}, {
+	"id": "140",
+	"nm": "Peraleda de la Mata"
+}, {
+	"id": "141",
+	"nm": "Peraleda de San Román"
+}, {
+	"id": "142",
+	"nm": "Perales del Puerto"
+}, {
+	"id": "143",
+	"nm": "Pescueza"
+}, {
+	"id": "144",
+	"nm": "Pesga, La"
+}, {
+	"id": "145",
+	"nm": "Piedras Albas"
+}, {
+	"id": "146",
+	"nm": "Pinofranqueado"
+}, {
+	"id": "147",
+	"nm": "Piornal"
+}, {
+	"id": "148",
+	"nm": "Plasencia"
+}, {
+	"id": "149",
+	"nm": "Plasenzuela"
+}, {
+	"id": "150",
+	"nm": "Portaje"
+}, {
+	"id": "151",
+	"nm": "Portezuelo"
+}, {
+	"id": "152",
+	"nm": "Pozuelo de Zarzón"
+}, {
+	"id": "905",
+	"nm": "Pueblonuevo de Miramontes"
+}, {
+	"id": "153",
+	"nm": "Puerto de Santa Cruz"
+}, {
+	"id": "154",
+	"nm": "Rebollar"
+}, {
+	"id": "155",
+	"nm": "Riolobos"
+}, {
+	"id": "156",
+	"nm": "Robledillo de Gata"
+}, {
+	"id": "157",
+	"nm": "Robledillo de la Vera"
+}, {
+	"id": "158",
+	"nm": "Robledillo de Trujillo"
+}, {
+	"id": "159",
+	"nm": "Robledollano"
+}, {
+	"id": "160",
+	"nm": "Romangordo"
+}, {
+	"id": "901",
+	"nm": "Rosalejo"
+}, {
+	"id": "161",
+	"nm": "Ruanes"
+}, {
+	"id": "162",
+	"nm": "Salorino"
+}, {
+	"id": "163",
+	"nm": "Salvatierra de Santiago"
+}, {
+	"id": "164",
+	"nm": "San Martín de Trevejo"
+}, {
+	"id": "165",
+	"nm": "Santa Ana"
+}, {
+	"id": "166",
+	"nm": "Santa Cruz de la Sierra"
+}, {
+	"id": "167",
+	"nm": "Santa Cruz de Paniagua"
+}, {
+	"id": "168",
+	"nm": "Santa Marta de Magasca"
+}, {
+	"id": "169",
+	"nm": "Santiago de Alcántara"
+}, {
+	"id": "170",
+	"nm": "Santiago del Campo"
+}, {
+	"id": "171",
+	"nm": "Santibáñez el Alto"
+}, {
+	"id": "172",
+	"nm": "Santibáñez el Bajo"
+}, {
+	"id": "173",
+	"nm": "Saucedilla"
+}, {
+	"id": "174",
+	"nm": "Segura de Toro"
+}, {
+	"id": "175",
+	"nm": "Serradilla"
+}, {
+	"id": "176",
+	"nm": "Serrejón"
+}, {
+	"id": "177",
+	"nm": "Sierra de Fuentes"
+}, {
+	"id": "178",
+	"nm": "Talaván"
+}, {
+	"id": "179",
+	"nm": "Talaveruela de la Vera"
+}, {
+	"id": "180",
+	"nm": "Talayuela"
+}, {
+	"id": "181",
+	"nm": "Tejeda de Tiétar"
+}, {
+	"id": "904",
+	"nm": "Tiétar"
+}, {
+	"id": "182",
+	"nm": "Toril"
+}, {
+	"id": "183",
+	"nm": "Tornavacas"
+}, {
+	"id": "184",
+	"nm": "Torno, El"
+}, {
+	"id": "187",
+	"nm": "Torre de Don Miguel"
+}, {
+	"id": "188",
+	"nm": "Torre de Santa María"
+}, {
+	"id": "185",
+	"nm": "Torrecilla de los Ángeles"
+}, {
+	"id": "186",
+	"nm": "Torrecillas de la Tiesa"
+}, {
+	"id": "190",
+	"nm": "Torrejón el Rubio"
+}, {
+	"id": "189",
+	"nm": "Torrejoncillo"
+}, {
+	"id": "191",
+	"nm": "Torremenga"
+}, {
+	"id": "192",
+	"nm": "Torremocha"
+}, {
+	"id": "193",
+	"nm": "Torreorgaz"
+}, {
+	"id": "194",
+	"nm": "Torrequemada"
+}, {
+	"id": "195",
+	"nm": "Trujillo"
+}, {
+	"id": "196",
+	"nm": "Valdastillas"
+}, {
+	"id": "197",
+	"nm": "Valdecañas de Tajo"
+}, {
+	"id": "198",
+	"nm": "Valdefuentes"
+}, {
+	"id": "199",
+	"nm": "Valdehúncar"
+}, {
+	"id": "200",
+	"nm": "Valdelacasa de Tajo"
+}, {
+	"id": "201",
+	"nm": "Valdemorales"
+}, {
+	"id": "202",
+	"nm": "Valdeobispo"
+}, {
+	"id": "203",
+	"nm": "Valencia de Alcántara"
+}, {
+	"id": "204",
+	"nm": "Valverde de la Vera"
+}, {
+	"id": "205",
+	"nm": "Valverde del Fresno"
+}, {
+	"id": "902",
+	"nm": "Vegaviana"
+}, {
+	"id": "206",
+	"nm": "Viandar de la Vera"
+}, {
+	"id": "207",
+	"nm": "Villa del Campo"
+}, {
+	"id": "208",
+	"nm": "Villa del Rey"
+}, {
+	"id": "209",
+	"nm": "Villamesías"
+}, {
+	"id": "210",
+	"nm": "Villamiel"
+}, {
+	"id": "211",
+	"nm": "Villanueva de la Sierra"
+}, {
+	"id": "212",
+	"nm": "Villanueva de la Vera"
+}, {
+	"id": "214",
+	"nm": "Villar de Plasencia"
+}, {
+	"id": "213",
+	"nm": "Villar del Pedroso"
+}, {
+	"id": "215",
+	"nm": "Villasbuenas de Gata"
+}, {
+	"id": "216",
+	"nm": "Zarza de Granadilla"
+}, {
+	"id": "217",
+	"nm": "Zarza de Montánchez"
+}, {
+	"id": "218",
+	"nm": "Zarza la Mayor"
+}, {
+	"id": "219",
+	"nm": "Zorita"
+}]

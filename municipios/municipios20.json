@@ -1,0 +1,265 @@
+[{
+	"id": "001",
+	"nm": "Abaltzisketa"
+}, {
+	"id": "002",
+	"nm": "Aduna"
+}, {
+	"id": "016",
+	"nm": "Aia"
+}, {
+	"id": "003",
+	"nm": "Aizarnazabal"
+}, {
+	"id": "004",
+	"nm": "Albiztur"
+}, {
+	"id": "005",
+	"nm": "Alegia"
+}, {
+	"id": "006",
+	"nm": "Alkiza"
+}, {
+	"id": "906",
+	"nm": "Altzaga"
+}, {
+	"id": "007",
+	"nm": "Altzo"
+}, {
+	"id": "008",
+	"nm": "Amezketa"
+}, {
+	"id": "009",
+	"nm": "Andoain"
+}, {
+	"id": "010",
+	"nm": "Anoeta"
+}, {
+	"id": "011",
+	"nm": "Antzuola"
+}, {
+	"id": "012",
+	"nm": "Arama"
+}, {
+	"id": "013",
+	"nm": "Aretxabaleta"
+}, {
+	"id": "055",
+	"nm": "Arrasate/Mondragón"
+}, {
+	"id": "014",
+	"nm": "Asteasu"
+}, {
+	"id": "903",
+	"nm": "Astigarraga"
+}, {
+	"id": "015",
+	"nm": "Ataun"
+}, {
+	"id": "017",
+	"nm": "Azkoitia"
+}, {
+	"id": "018",
+	"nm": "Azpeitia"
+}, {
+	"id": "904",
+	"nm": "Baliarrain"
+}, {
+	"id": "019",
+	"nm": "Beasain"
+}, {
+	"id": "020",
+	"nm": "Beizama"
+}, {
+	"id": "021",
+	"nm": "Belauntza"
+}, {
+	"id": "022",
+	"nm": "Berastegi"
+}, {
+	"id": "074",
+	"nm": "Bergara"
+}, {
+	"id": "023",
+	"nm": "Berrobi"
+}, {
+	"id": "024",
+	"nm": "Bidania-Goiatz"
+}, {
+	"id": "029",
+	"nm": "Deba"
+}, {
+	"id": "069",
+	"nm": "Donostia/San Sebastián"
+}, {
+	"id": "030",
+	"nm": "Eibar"
+}, {
+	"id": "031",
+	"nm": "Elduain"
+}, {
+	"id": "033",
+	"nm": "Elgeta"
+}, {
+	"id": "032",
+	"nm": "Elgoibar"
+}, {
+	"id": "067",
+	"nm": "Errenteria"
+}, {
+	"id": "066",
+	"nm": "Errezil"
+}, {
+	"id": "034",
+	"nm": "Eskoriatza"
+}, {
+	"id": "035",
+	"nm": "Ezkio-Itsaso"
+}, {
+	"id": "038",
+	"nm": "Gabiria"
+}, {
+	"id": "037",
+	"nm": "Gaintza"
+}, {
+	"id": "907",
+	"nm": "Gaztelu"
+}, {
+	"id": "039",
+	"nm": "Getaria"
+}, {
+	"id": "040",
+	"nm": "Hernani"
+}, {
+	"id": "041",
+	"nm": "Hernialde"
+}, {
+	"id": "036",
+	"nm": "Hondarribia"
+}, {
+	"id": "042",
+	"nm": "Ibarra"
+}, {
+	"id": "043",
+	"nm": "Idiazabal"
+}, {
+	"id": "044",
+	"nm": "Ikaztegieta"
+}, {
+	"id": "045",
+	"nm": "Irun"
+}, {
+	"id": "046",
+	"nm": "Irura"
+}, {
+	"id": "047",
+	"nm": "Itsasondo"
+}, {
+	"id": "048",
+	"nm": "Larraul"
+}, {
+	"id": "902",
+	"nm": "Lasarte-Oria"
+}, {
+	"id": "049",
+	"nm": "Lazkao"
+}, {
+	"id": "050",
+	"nm": "Leaburu"
+}, {
+	"id": "051",
+	"nm": "Legazpi"
+}, {
+	"id": "052",
+	"nm": "Legorreta"
+}, {
+	"id": "068",
+	"nm": "Leintz-Gatzaga"
+}, {
+	"id": "053",
+	"nm": "Lezo"
+}, {
+	"id": "054",
+	"nm": "Lizartza"
+}, {
+	"id": "901",
+	"nm": "Mendaro"
+}, {
+	"id": "057",
+	"nm": "Mutiloa"
+}, {
+	"id": "056",
+	"nm": "Mutriku"
+}, {
+	"id": "063",
+	"nm": "Oiartzun"
+}, {
+	"id": "058",
+	"nm": "Olaberria"
+}, {
+	"id": "059",
+	"nm": "Oñati"
+}, {
+	"id": "076",
+	"nm": "Ordizia"
+}, {
+	"id": "905",
+	"nm": "Orendain"
+}, {
+	"id": "060",
+	"nm": "Orexa"
+}, {
+	"id": "061",
+	"nm": "Orio"
+}, {
+	"id": "062",
+	"nm": "Ormaiztegi"
+}, {
+	"id": "064",
+	"nm": "Pasaia"
+}, {
+	"id": "070",
+	"nm": "Segura"
+}, {
+	"id": "065",
+	"nm": "Soraluze-Placencia de las Armas"
+}, {
+	"id": "071",
+	"nm": "Tolosa"
+}, {
+	"id": "072",
+	"nm": "Urnieta"
+}, {
+	"id": "077",
+	"nm": "Urretxu"
+}, {
+	"id": "073",
+	"nm": "Usurbil"
+}, {
+	"id": "075",
+	"nm": "Villabona"
+}, {
+	"id": "078",
+	"nm": "Zaldibia"
+}, {
+	"id": "079",
+	"nm": "Zarautz"
+}, {
+	"id": "025",
+	"nm": "Zegama"
+}, {
+	"id": "026",
+	"nm": "Zerain"
+}, {
+	"id": "027",
+	"nm": "Zestoa"
+}, {
+	"id": "028",
+	"nm": "Zizurkil"
+}, {
+	"id": "081",
+	"nm": "Zumaia"
+}, {
+	"id": "080",
+	"nm": "Zumarraga"
+}]

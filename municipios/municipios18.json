@@ -1,0 +1,517 @@
+[{
+	"id": "001",
+	"nm": "Agrón"
+}, {
+	"id": "002",
+	"nm": "Alamedilla"
+}, {
+	"id": "003",
+	"nm": "Albolote"
+}, {
+	"id": "004",
+	"nm": "Albondón"
+}, {
+	"id": "005",
+	"nm": "Albuñán"
+}, {
+	"id": "006",
+	"nm": "Albuñol"
+}, {
+	"id": "007",
+	"nm": "Albuñuelas"
+}, {
+	"id": "010",
+	"nm": "Aldeire"
+}, {
+	"id": "011",
+	"nm": "Alfacar"
+}, {
+	"id": "012",
+	"nm": "Algarinejo"
+}, {
+	"id": "013",
+	"nm": "Alhama de Granada"
+}, {
+	"id": "014",
+	"nm": "Alhendín"
+}, {
+	"id": "015",
+	"nm": "Alicún de Ortega"
+}, {
+	"id": "016",
+	"nm": "Almegíjar"
+}, {
+	"id": "017",
+	"nm": "Almuñécar"
+}, {
+	"id": "904",
+	"nm": "Alpujarra de la Sierra"
+}, {
+	"id": "018",
+	"nm": "Alquife"
+}, {
+	"id": "020",
+	"nm": "Arenas del Rey"
+}, {
+	"id": "021",
+	"nm": "Armilla"
+}, {
+	"id": "022",
+	"nm": "Atarfe"
+}, {
+	"id": "023",
+	"nm": "Baza"
+}, {
+	"id": "024",
+	"nm": "Beas de Granada"
+}, {
+	"id": "025",
+	"nm": "Beas de Guadix"
+}, {
+	"id": "027",
+	"nm": "Benalúa"
+}, {
+	"id": "028",
+	"nm": "Benalúa de las Villas"
+}, {
+	"id": "029",
+	"nm": "Benamaurel"
+}, {
+	"id": "030",
+	"nm": "Bérchules"
+}, {
+	"id": "032",
+	"nm": "Bubión"
+}, {
+	"id": "033",
+	"nm": "Busquístar"
+}, {
+	"id": "034",
+	"nm": "Cacín"
+}, {
+	"id": "035",
+	"nm": "Cádiar"
+}, {
+	"id": "036",
+	"nm": "Cájar"
+}, {
+	"id": "114",
+	"nm": "Calahorra, La"
+}, {
+	"id": "037",
+	"nm": "Calicasas"
+}, {
+	"id": "038",
+	"nm": "Campotéjar"
+}, {
+	"id": "039",
+	"nm": "Caniles"
+}, {
+	"id": "040",
+	"nm": "Cáñar"
+}, {
+	"id": "042",
+	"nm": "Capileira"
+}, {
+	"id": "043",
+	"nm": "Carataunas"
+}, {
+	"id": "044",
+	"nm": "Cástaras"
+}, {
+	"id": "045",
+	"nm": "Castilléjar"
+}, {
+	"id": "046",
+	"nm": "Castril"
+}, {
+	"id": "047",
+	"nm": "Cenes de la Vega"
+}, {
+	"id": "059",
+	"nm": "Chauchina"
+}, {
+	"id": "061",
+	"nm": "Chimeneas"
+}, {
+	"id": "062",
+	"nm": "Churriana de la Vega"
+}, {
+	"id": "048",
+	"nm": "Cijuela"
+}, {
+	"id": "049",
+	"nm": "Cogollos de Guadix"
+}, {
+	"id": "050",
+	"nm": "Cogollos de la Vega"
+}, {
+	"id": "051",
+	"nm": "Colomera"
+}, {
+	"id": "053",
+	"nm": "Cortes de Baza"
+}, {
+	"id": "054",
+	"nm": "Cortes y Graena"
+}, {
+	"id": "912",
+	"nm": "Cuevas del Campo"
+}, {
+	"id": "056",
+	"nm": "Cúllar"
+}, {
+	"id": "057",
+	"nm": "Cúllar Vega"
+}, {
+	"id": "063",
+	"nm": "Darro"
+}, {
+	"id": "064",
+	"nm": "Dehesas de Guadix"
+}, {
+	"id": "065",
+	"nm": "Dehesas Viejas"
+}, {
+	"id": "066",
+	"nm": "Deifontes"
+}, {
+	"id": "067",
+	"nm": "Diezma"
+}, {
+	"id": "068",
+	"nm": "Dílar"
+}, {
+	"id": "069",
+	"nm": "Dólar"
+}, {
+	"id": "915",
+	"nm": "Domingo Pérez de Granada"
+}, {
+	"id": "070",
+	"nm": "Dúdar"
+}, {
+	"id": "071",
+	"nm": "Dúrcal"
+}, {
+	"id": "072",
+	"nm": "Escúzar"
+}, {
+	"id": "074",
+	"nm": "Ferreira"
+}, {
+	"id": "076",
+	"nm": "Fonelas"
+}, {
+	"id": "078",
+	"nm": "Freila"
+}, {
+	"id": "079",
+	"nm": "Fuente Vaqueros"
+}, {
+	"id": "905",
+	"nm": "Gabias, Las"
+}, {
+	"id": "082",
+	"nm": "Galera"
+}, {
+	"id": "083",
+	"nm": "Gobernador"
+}, {
+	"id": "084",
+	"nm": "Gójar"
+}, {
+	"id": "085",
+	"nm": "Gor"
+}, {
+	"id": "086",
+	"nm": "Gorafe"
+}, {
+	"id": "087",
+	"nm": "Granada"
+}, {
+	"id": "088",
+	"nm": "Guadahortuna"
+}, {
+	"id": "089",
+	"nm": "Guadix"
+}, {
+	"id": "906",
+	"nm": "Guájares, Los"
+}, {
+	"id": "093",
+	"nm": "Gualchos"
+}, {
+	"id": "094",
+	"nm": "Güéjar Sierra"
+}, {
+	"id": "095",
+	"nm": "Güevéjar"
+}, {
+	"id": "096",
+	"nm": "Huélago"
+}, {
+	"id": "097",
+	"nm": "Huéneja"
+}, {
+	"id": "098",
+	"nm": "Huéscar"
+}, {
+	"id": "099",
+	"nm": "Huétor de Santillán"
+}, {
+	"id": "100",
+	"nm": "Huétor Tájar"
+}, {
+	"id": "101",
+	"nm": "Huétor Vega"
+}, {
+	"id": "102",
+	"nm": "Illora"
+}, {
+	"id": "103",
+	"nm": "Ítrabo"
+}, {
+	"id": "105",
+	"nm": "Iznalloz"
+}, {
+	"id": "106",
+	"nm": "Játar"
+}, {
+	"id": "107",
+	"nm": "Jayena"
+}, {
+	"id": "108",
+	"nm": "Jerez del Marquesado"
+}, {
+	"id": "109",
+	"nm": "Jete"
+}, {
+	"id": "111",
+	"nm": "Jun"
+}, {
+	"id": "112",
+	"nm": "Juviles"
+}, {
+	"id": "115",
+	"nm": "Láchar"
+}, {
+	"id": "116",
+	"nm": "Lanjarón"
+}, {
+	"id": "117",
+	"nm": "Lanteira"
+}, {
+	"id": "119",
+	"nm": "Lecrín"
+}, {
+	"id": "120",
+	"nm": "Lentegí"
+}, {
+	"id": "121",
+	"nm": "Lobras"
+}, {
+	"id": "122",
+	"nm": "Loja"
+}, {
+	"id": "123",
+	"nm": "Lugros"
+}, {
+	"id": "124",
+	"nm": "Lújar"
+}, {
+	"id": "126",
+	"nm": "Malahá, La"
+}, {
+	"id": "127",
+	"nm": "Maracena"
+}, {
+	"id": "128",
+	"nm": "Marchal"
+}, {
+	"id": "132",
+	"nm": "Moclín"
+}, {
+	"id": "133",
+	"nm": "Molvízar"
+}, {
+	"id": "134",
+	"nm": "Monachil"
+}, {
+	"id": "135",
+	"nm": "Montefrío"
+}, {
+	"id": "136",
+	"nm": "Montejícar"
+}, {
+	"id": "137",
+	"nm": "Montillana"
+}, {
+	"id": "138",
+	"nm": "Moraleda de Zafayona"
+}, {
+	"id": "909",
+	"nm": "Morelábor"
+}, {
+	"id": "140",
+	"nm": "Motril"
+}, {
+	"id": "141",
+	"nm": "Murtas"
+}, {
+	"id": "903",
+	"nm": "Nevada"
+}, {
+	"id": "143",
+	"nm": "Nigüelas"
+}, {
+	"id": "144",
+	"nm": "Nívar"
+}, {
+	"id": "145",
+	"nm": "Ogíjares"
+}, {
+	"id": "146",
+	"nm": "Orce"
+}, {
+	"id": "147",
+	"nm": "Órgiva"
+}, {
+	"id": "148",
+	"nm": "Otívar"
+}, {
+	"id": "150",
+	"nm": "Padul"
+}, {
+	"id": "151",
+	"nm": "Pampaneira"
+}, {
+	"id": "152",
+	"nm": "Pedro Martínez"
+}, {
+	"id": "153",
+	"nm": "Peligros"
+}, {
+	"id": "154",
+	"nm": "Peza, La"
+}, {
+	"id": "910",
+	"nm": "Pinar, El"
+}, {
+	"id": "157",
+	"nm": "Pinos Genil"
+}, {
+	"id": "158",
+	"nm": "Pinos Puente"
+}, {
+	"id": "159",
+	"nm": "Píñar"
+}, {
+	"id": "161",
+	"nm": "Polícar"
+}, {
+	"id": "162",
+	"nm": "Polopos"
+}, {
+	"id": "163",
+	"nm": "Pórtugos"
+}, {
+	"id": "164",
+	"nm": "Puebla de Don Fadrique"
+}, {
+	"id": "165",
+	"nm": "Pulianas"
+}, {
+	"id": "167",
+	"nm": "Purullena"
+}, {
+	"id": "168",
+	"nm": "Quéntar"
+}, {
+	"id": "170",
+	"nm": "Rubite"
+}, {
+	"id": "171",
+	"nm": "Salar"
+}, {
+	"id": "173",
+	"nm": "Salobreña"
+}, {
+	"id": "174",
+	"nm": "Santa Cruz del Comercio"
+}, {
+	"id": "175",
+	"nm": "Santa Fe"
+}, {
+	"id": "176",
+	"nm": "Soportújar"
+}, {
+	"id": "177",
+	"nm": "Sorvilán"
+}, {
+	"id": "901",
+	"nm": "Taha, La"
+}, {
+	"id": "178",
+	"nm": "Torre-Cardela"
+}, {
+	"id": "179",
+	"nm": "Torvizcón"
+}, {
+	"id": "180",
+	"nm": "Trevélez"
+}, {
+	"id": "181",
+	"nm": "Turón"
+}, {
+	"id": "182",
+	"nm": "Ugíjar"
+}, {
+	"id": "914",
+	"nm": "Valderrubio"
+}, {
+	"id": "907",
+	"nm": "Valle del Zalabí"
+}, {
+	"id": "902",
+	"nm": "Valle, El"
+}, {
+	"id": "183",
+	"nm": "Válor"
+}, {
+	"id": "911",
+	"nm": "Vegas del Genil"
+}, {
+	"id": "184",
+	"nm": "Vélez de Benaudalla"
+}, {
+	"id": "185",
+	"nm": "Ventas de Huelma"
+}, {
+	"id": "149",
+	"nm": "Villa de Otura"
+}, {
+	"id": "908",
+	"nm": "Villamena"
+}, {
+	"id": "187",
+	"nm": "Villanueva de las Torres"
+}, {
+	"id": "188",
+	"nm": "Villanueva Mesía"
+}, {
+	"id": "189",
+	"nm": "Víznar"
+}, {
+	"id": "192",
+	"nm": "Zafarraya"
+}, {
+	"id": "913",
+	"nm": "Zagra"
+}, {
+	"id": "193",
+	"nm": "Zubia, La"
+}, {
+	"id": "194",
+	"nm": "Zújar"
+}]

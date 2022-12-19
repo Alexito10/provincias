@@ -1,0 +1,292 @@
+[{
+	"id": "001",
+	"nm": "Albanchez de Mágina"
+}, {
+	"id": "002",
+	"nm": "Alcalá la Real"
+}, {
+	"id": "003",
+	"nm": "Alcaudete"
+}, {
+	"id": "004",
+	"nm": "Aldeaquemada"
+}, {
+	"id": "005",
+	"nm": "Andújar"
+}, {
+	"id": "006",
+	"nm": "Arjona"
+}, {
+	"id": "007",
+	"nm": "Arjonilla"
+}, {
+	"id": "008",
+	"nm": "Arquillos"
+}, {
+	"id": "905",
+	"nm": "Arroyo del Ojanco"
+}, {
+	"id": "009",
+	"nm": "Baeza"
+}, {
+	"id": "010",
+	"nm": "Bailén"
+}, {
+	"id": "011",
+	"nm": "Baños de la Encina"
+}, {
+	"id": "012",
+	"nm": "Beas de Segura"
+}, {
+	"id": "902",
+	"nm": "Bedmar y Garcíez"
+}, {
+	"id": "014",
+	"nm": "Begíjar"
+}, {
+	"id": "015",
+	"nm": "Bélmez de la Moraleda"
+}, {
+	"id": "016",
+	"nm": "Benatae"
+}, {
+	"id": "017",
+	"nm": "Cabra del Santo Cristo"
+}, {
+	"id": "018",
+	"nm": "Cambil"
+}, {
+	"id": "019",
+	"nm": "Campillo de Arenas"
+}, {
+	"id": "020",
+	"nm": "Canena"
+}, {
+	"id": "021",
+	"nm": "Carboneros"
+}, {
+	"id": "901",
+	"nm": "Cárcheles"
+}, {
+	"id": "024",
+	"nm": "Carolina, La"
+}, {
+	"id": "025",
+	"nm": "Castellar"
+}, {
+	"id": "026",
+	"nm": "Castillo de Locubín"
+}, {
+	"id": "027",
+	"nm": "Cazalilla"
+}, {
+	"id": "028",
+	"nm": "Cazorla"
+}, {
+	"id": "029",
+	"nm": "Chiclana de Segura"
+}, {
+	"id": "030",
+	"nm": "Chilluévar"
+}, {
+	"id": "031",
+	"nm": "Escañuela"
+}, {
+	"id": "032",
+	"nm": "Espelúy"
+}, {
+	"id": "033",
+	"nm": "Frailes"
+}, {
+	"id": "034",
+	"nm": "Fuensanta de Martos"
+}, {
+	"id": "035",
+	"nm": "Fuerte del Rey"
+}, {
+	"id": "037",
+	"nm": "Génave"
+}, {
+	"id": "038",
+	"nm": "Guardia de Jaén, La"
+}, {
+	"id": "039",
+	"nm": "Guarromán"
+}, {
+	"id": "041",
+	"nm": "Higuera de Calatrava"
+}, {
+	"id": "042",
+	"nm": "Hinojares"
+}, {
+	"id": "043",
+	"nm": "Hornos"
+}, {
+	"id": "044",
+	"nm": "Huelma"
+}, {
+	"id": "045",
+	"nm": "Huesa"
+}, {
+	"id": "046",
+	"nm": "Ibros"
+}, {
+	"id": "047",
+	"nm": "Iruela, La"
+}, {
+	"id": "048",
+	"nm": "Iznatoraf"
+}, {
+	"id": "049",
+	"nm": "Jabalquinto"
+}, {
+	"id": "050",
+	"nm": "Jaén"
+}, {
+	"id": "051",
+	"nm": "Jamilena"
+}, {
+	"id": "052",
+	"nm": "Jimena"
+}, {
+	"id": "053",
+	"nm": "Jódar"
+}, {
+	"id": "040",
+	"nm": "Lahiguera"
+}, {
+	"id": "054",
+	"nm": "Larva"
+}, {
+	"id": "055",
+	"nm": "Linares"
+}, {
+	"id": "056",
+	"nm": "Lopera"
+}, {
+	"id": "057",
+	"nm": "Lupión"
+}, {
+	"id": "058",
+	"nm": "Mancha Real"
+}, {
+	"id": "059",
+	"nm": "Marmolejo"
+}, {
+	"id": "060",
+	"nm": "Martos"
+}, {
+	"id": "061",
+	"nm": "Mengíbar"
+}, {
+	"id": "062",
+	"nm": "Montizón"
+}, {
+	"id": "063",
+	"nm": "Navas de San Juan"
+}, {
+	"id": "064",
+	"nm": "Noalejo"
+}, {
+	"id": "065",
+	"nm": "Orcera"
+}, {
+	"id": "066",
+	"nm": "Peal de Becerro"
+}, {
+	"id": "067",
+	"nm": "Pegalajar"
+}, {
+	"id": "069",
+	"nm": "Porcuna"
+}, {
+	"id": "070",
+	"nm": "Pozo Alcón"
+}, {
+	"id": "071",
+	"nm": "Puente de Génave"
+}, {
+	"id": "072",
+	"nm": "Puerta de Segura, La"
+}, {
+	"id": "073",
+	"nm": "Quesada"
+}, {
+	"id": "074",
+	"nm": "Rus"
+}, {
+	"id": "075",
+	"nm": "Sabiote"
+}, {
+	"id": "076",
+	"nm": "Santa Elena"
+}, {
+	"id": "077",
+	"nm": "Santiago de Calatrava"
+}, {
+	"id": "904",
+	"nm": "Santiago-Pontones"
+}, {
+	"id": "079",
+	"nm": "Santisteban del Puerto"
+}, {
+	"id": "080",
+	"nm": "Santo Tomé"
+}, {
+	"id": "081",
+	"nm": "Segura de la Sierra"
+}, {
+	"id": "082",
+	"nm": "Siles"
+}, {
+	"id": "084",
+	"nm": "Sorihuela del Guadalimar"
+}, {
+	"id": "085",
+	"nm": "Torreblascopedro"
+}, {
+	"id": "086",
+	"nm": "Torredelcampo"
+}, {
+	"id": "087",
+	"nm": "Torredonjimeno"
+}, {
+	"id": "088",
+	"nm": "Torreperogil"
+}, {
+	"id": "090",
+	"nm": "Torres"
+}, {
+	"id": "091",
+	"nm": "Torres de Albánchez"
+}, {
+	"id": "092",
+	"nm": "Úbeda"
+}, {
+	"id": "093",
+	"nm": "Valdepeñas de Jaén"
+}, {
+	"id": "094",
+	"nm": "Vilches"
+}, {
+	"id": "095",
+	"nm": "Villacarrillo"
+}, {
+	"id": "096",
+	"nm": "Villanueva de la Reina"
+}, {
+	"id": "097",
+	"nm": "Villanueva del Arzobispo"
+}, {
+	"id": "098",
+	"nm": "Villardompardo"
+}, {
+	"id": "099",
+	"nm": "Villares, Los"
+}, {
+	"id": "101",
+	"nm": "Villarrodrigo"
+}, {
+	"id": "903",
+	"nm": "Villatorres"
+}]

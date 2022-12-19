@@ -1,0 +1,523 @@
+[{
+	"id": "001",
+	"nm": "Ábalos"
+}, {
+	"id": "002",
+	"nm": "Agoncillo"
+}, {
+	"id": "003",
+	"nm": "Aguilar del Río Alhama"
+}, {
+	"id": "004",
+	"nm": "Ajamil de Cameros"
+}, {
+	"id": "005",
+	"nm": "Albelda de Iregua"
+}, {
+	"id": "006",
+	"nm": "Alberite"
+}, {
+	"id": "007",
+	"nm": "Alcanadre"
+}, {
+	"id": "008",
+	"nm": "Aldeanueva de Ebro"
+}, {
+	"id": "009",
+	"nm": "Alesanco"
+}, {
+	"id": "010",
+	"nm": "Alesón"
+}, {
+	"id": "011",
+	"nm": "Alfaro"
+}, {
+	"id": "012",
+	"nm": "Almarza de Cameros"
+}, {
+	"id": "013",
+	"nm": "Anguciana"
+}, {
+	"id": "014",
+	"nm": "Anguiano"
+}, {
+	"id": "015",
+	"nm": "Arenzana de Abajo"
+}, {
+	"id": "016",
+	"nm": "Arenzana de Arriba"
+}, {
+	"id": "017",
+	"nm": "Arnedillo"
+}, {
+	"id": "018",
+	"nm": "Arnedo"
+}, {
+	"id": "019",
+	"nm": "Arrúbal"
+}, {
+	"id": "020",
+	"nm": "Ausejo"
+}, {
+	"id": "021",
+	"nm": "Autol"
+}, {
+	"id": "022",
+	"nm": "Azofra"
+}, {
+	"id": "023",
+	"nm": "Badarán"
+}, {
+	"id": "024",
+	"nm": "Bañares"
+}, {
+	"id": "026",
+	"nm": "Baños de Río Tobía"
+}, {
+	"id": "025",
+	"nm": "Baños de Rioja"
+}, {
+	"id": "027",
+	"nm": "Berceo"
+}, {
+	"id": "028",
+	"nm": "Bergasa"
+}, {
+	"id": "029",
+	"nm": "Bergasillas Bajera"
+}, {
+	"id": "030",
+	"nm": "Bezares"
+}, {
+	"id": "031",
+	"nm": "Bobadilla"
+}, {
+	"id": "032",
+	"nm": "Brieva de Cameros"
+}, {
+	"id": "033",
+	"nm": "Briñas"
+}, {
+	"id": "034",
+	"nm": "Briones"
+}, {
+	"id": "035",
+	"nm": "Cabezón de Cameros"
+}, {
+	"id": "036",
+	"nm": "Calahorra"
+}, {
+	"id": "037",
+	"nm": "Camprovín"
+}, {
+	"id": "038",
+	"nm": "Canales de la Sierra"
+}, {
+	"id": "039",
+	"nm": "Canillas de Río Tuerto"
+}, {
+	"id": "040",
+	"nm": "Cañas"
+}, {
+	"id": "041",
+	"nm": "Cárdenas"
+}, {
+	"id": "042",
+	"nm": "Casalarreina"
+}, {
+	"id": "043",
+	"nm": "Castañares de Rioja"
+}, {
+	"id": "044",
+	"nm": "Castroviejo"
+}, {
+	"id": "045",
+	"nm": "Cellorigo"
+}, {
+	"id": "046",
+	"nm": "Cenicero"
+}, {
+	"id": "047",
+	"nm": "Cervera del Río Alhama"
+}, {
+	"id": "048",
+	"nm": "Cidamón"
+}, {
+	"id": "049",
+	"nm": "Cihuri"
+}, {
+	"id": "050",
+	"nm": "Cirueña"
+}, {
+	"id": "051",
+	"nm": "Clavijo"
+}, {
+	"id": "052",
+	"nm": "Cordovín"
+}, {
+	"id": "053",
+	"nm": "Corera"
+}, {
+	"id": "054",
+	"nm": "Cornago"
+}, {
+	"id": "055",
+	"nm": "Corporales"
+}, {
+	"id": "056",
+	"nm": "Cuzcurrita de Río Tirón"
+}, {
+	"id": "057",
+	"nm": "Daroca de Rioja"
+}, {
+	"id": "058",
+	"nm": "Enciso"
+}, {
+	"id": "059",
+	"nm": "Entrena"
+}, {
+	"id": "060",
+	"nm": "Estollo"
+}, {
+	"id": "061",
+	"nm": "Ezcaray"
+}, {
+	"id": "062",
+	"nm": "Foncea"
+}, {
+	"id": "063",
+	"nm": "Fonzaleche"
+}, {
+	"id": "064",
+	"nm": "Fuenmayor"
+}, {
+	"id": "065",
+	"nm": "Galbárruli"
+}, {
+	"id": "066",
+	"nm": "Galilea"
+}, {
+	"id": "067",
+	"nm": "Gallinero de Cameros"
+}, {
+	"id": "068",
+	"nm": "Gimileo"
+}, {
+	"id": "069",
+	"nm": "Grañón"
+}, {
+	"id": "070",
+	"nm": "Grávalos"
+}, {
+	"id": "071",
+	"nm": "Haro"
+}, {
+	"id": "072",
+	"nm": "Herce"
+}, {
+	"id": "073",
+	"nm": "Herramélluri"
+}, {
+	"id": "074",
+	"nm": "Hervías"
+}, {
+	"id": "075",
+	"nm": "Hormilla"
+}, {
+	"id": "076",
+	"nm": "Hormilleja"
+}, {
+	"id": "077",
+	"nm": "Hornillos de Cameros"
+}, {
+	"id": "078",
+	"nm": "Hornos de Moncalvillo"
+}, {
+	"id": "079",
+	"nm": "Huércanos"
+}, {
+	"id": "080",
+	"nm": "Igea"
+}, {
+	"id": "081",
+	"nm": "Jalón de Cameros"
+}, {
+	"id": "082",
+	"nm": "Laguna de Cameros"
+}, {
+	"id": "083",
+	"nm": "Lagunilla del Jubera"
+}, {
+	"id": "084",
+	"nm": "Lardero"
+}, {
+	"id": "086",
+	"nm": "Ledesma de la Cogolla"
+}, {
+	"id": "087",
+	"nm": "Leiva"
+}, {
+	"id": "088",
+	"nm": "Leza de Río Leza"
+}, {
+	"id": "089",
+	"nm": "Logroño"
+}, {
+	"id": "091",
+	"nm": "Lumbreras"
+}, {
+	"id": "092",
+	"nm": "Manjarrés"
+}, {
+	"id": "093",
+	"nm": "Mansilla de la Sierra"
+}, {
+	"id": "094",
+	"nm": "Manzanares de Rioja"
+}, {
+	"id": "095",
+	"nm": "Matute"
+}, {
+	"id": "096",
+	"nm": "Medrano"
+}, {
+	"id": "098",
+	"nm": "Munilla"
+}, {
+	"id": "099",
+	"nm": "Murillo de Río Leza"
+}, {
+	"id": "100",
+	"nm": "Muro de Aguas"
+}, {
+	"id": "101",
+	"nm": "Muro en Cameros"
+}, {
+	"id": "102",
+	"nm": "Nájera"
+}, {
+	"id": "103",
+	"nm": "Nalda"
+}, {
+	"id": "104",
+	"nm": "Navajún"
+}, {
+	"id": "105",
+	"nm": "Navarrete"
+}, {
+	"id": "106",
+	"nm": "Nestares"
+}, {
+	"id": "107",
+	"nm": "Nieva de Cameros"
+}, {
+	"id": "109",
+	"nm": "Ochánduri"
+}, {
+	"id": "108",
+	"nm": "Ocón"
+}, {
+	"id": "110",
+	"nm": "Ojacastro"
+}, {
+	"id": "111",
+	"nm": "Ollauri"
+}, {
+	"id": "112",
+	"nm": "Ortigosa de Cameros"
+}, {
+	"id": "113",
+	"nm": "Pazuengos"
+}, {
+	"id": "114",
+	"nm": "Pedroso"
+}, {
+	"id": "115",
+	"nm": "Pinillos"
+}, {
+	"id": "117",
+	"nm": "Pradejón"
+}, {
+	"id": "118",
+	"nm": "Pradillo"
+}, {
+	"id": "119",
+	"nm": "Préjano"
+}, {
+	"id": "120",
+	"nm": "Quel"
+}, {
+	"id": "121",
+	"nm": "Rabanera"
+}, {
+	"id": "122",
+	"nm": "Rasillo de Cameros, El"
+}, {
+	"id": "123",
+	"nm": "Redal, El"
+}, {
+	"id": "124",
+	"nm": "Ribafrecha"
+}, {
+	"id": "125",
+	"nm": "Rincón de Soto"
+}, {
+	"id": "126",
+	"nm": "Robres del Castillo"
+}, {
+	"id": "127",
+	"nm": "Rodezno"
+}, {
+	"id": "128",
+	"nm": "Sajazarra"
+}, {
+	"id": "129",
+	"nm": "San Asensio"
+}, {
+	"id": "130",
+	"nm": "San Millán de la Cogolla"
+}, {
+	"id": "131",
+	"nm": "San Millán de Yécora"
+}, {
+	"id": "132",
+	"nm": "San Román de Cameros"
+}, {
+	"id": "139",
+	"nm": "San Torcuato"
+}, {
+	"id": "142",
+	"nm": "San Vicente de la Sonsierra"
+}, {
+	"id": "134",
+	"nm": "Santa Coloma"
+}, {
+	"id": "135",
+	"nm": "Santa Engracia del Jubera"
+}, {
+	"id": "136",
+	"nm": "Santa Eulalia Bajera"
+}, {
+	"id": "138",
+	"nm": "Santo Domingo de la Calzada"
+}, {
+	"id": "140",
+	"nm": "Santurde de Rioja"
+}, {
+	"id": "141",
+	"nm": "Santurdejo"
+}, {
+	"id": "143",
+	"nm": "Sojuela"
+}, {
+	"id": "144",
+	"nm": "Sorzano"
+}, {
+	"id": "145",
+	"nm": "Sotés"
+}, {
+	"id": "146",
+	"nm": "Soto en Cameros"
+}, {
+	"id": "147",
+	"nm": "Terroba"
+}, {
+	"id": "148",
+	"nm": "Tirgo"
+}, {
+	"id": "149",
+	"nm": "Tobía"
+}, {
+	"id": "150",
+	"nm": "Tormantos"
+}, {
+	"id": "153",
+	"nm": "Torre en Cameros"
+}, {
+	"id": "151",
+	"nm": "Torrecilla en Cameros"
+}, {
+	"id": "152",
+	"nm": "Torrecilla sobre Alesanco"
+}, {
+	"id": "154",
+	"nm": "Torremontalbo"
+}, {
+	"id": "155",
+	"nm": "Treviana"
+}, {
+	"id": "157",
+	"nm": "Tricio"
+}, {
+	"id": "158",
+	"nm": "Tudelilla"
+}, {
+	"id": "160",
+	"nm": "Uruñuela"
+}, {
+	"id": "161",
+	"nm": "Valdemadera"
+}, {
+	"id": "162",
+	"nm": "Valgañón"
+}, {
+	"id": "163",
+	"nm": "Ventosa"
+}, {
+	"id": "164",
+	"nm": "Ventrosa"
+}, {
+	"id": "165",
+	"nm": "Viguera"
+}, {
+	"id": "166",
+	"nm": "Villalba de Rioja"
+}, {
+	"id": "167",
+	"nm": "Villalobar de Rioja"
+}, {
+	"id": "168",
+	"nm": "Villamediana de Iregua"
+}, {
+	"id": "169",
+	"nm": "Villanueva de Cameros"
+}, {
+	"id": "170",
+	"nm": "Villar de Arnedo, El"
+}, {
+	"id": "171",
+	"nm": "Villar de Torre"
+}, {
+	"id": "172",
+	"nm": "Villarejo"
+}, {
+	"id": "173",
+	"nm": "Villarroya"
+}, {
+	"id": "174",
+	"nm": "Villarta-Quintana"
+}, {
+	"id": "175",
+	"nm": "Villavelayo"
+}, {
+	"id": "176",
+	"nm": "Villaverde de Rioja"
+}, {
+	"id": "177",
+	"nm": "Villoslada de Cameros"
+}, {
+	"id": "178",
+	"nm": "Viniegra de Abajo"
+}, {
+	"id": "179",
+	"nm": "Viniegra de Arriba"
+}, {
+	"id": "180",
+	"nm": "Zarratón"
+}, {
+	"id": "181",
+	"nm": "Zarzosa"
+}, {
+	"id": "183",
+	"nm": "Zorraquín"
+}]
