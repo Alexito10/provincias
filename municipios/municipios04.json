@@ -1,0 +1,310 @@
+[{
+	"id": "001",
+	"nm": "Abla"
+}, {
+	"id": "002",
+	"nm": "Abrucena"
+}, {
+	"id": "003",
+	"nm": "Adra"
+}, {
+	"id": "004",
+	"nm": "Albánchez"
+}, {
+	"id": "005",
+	"nm": "Alboloduy"
+}, {
+	"id": "006",
+	"nm": "Albox"
+}, {
+	"id": "007",
+	"nm": "Alcolea"
+}, {
+	"id": "008",
+	"nm": "Alcóntar"
+}, {
+	"id": "009",
+	"nm": "Alcudia de Monteagud"
+}, {
+	"id": "010",
+	"nm": "Alhabia"
+}, {
+	"id": "011",
+	"nm": "Alhama de Almería"
+}, {
+	"id": "012",
+	"nm": "Alicún"
+}, {
+	"id": "013",
+	"nm": "Almería"
+}, {
+	"id": "014",
+	"nm": "Almócita"
+}, {
+	"id": "015",
+	"nm": "Alsodux"
+}, {
+	"id": "016",
+	"nm": "Antas"
+}, {
+	"id": "017",
+	"nm": "Arboleas"
+}, {
+	"id": "018",
+	"nm": "Armuña de Almanzora"
+}, {
+	"id": "019",
+	"nm": "Bacares"
+}, {
+	"id": "904",
+	"nm": "Balanegra"
+}, {
+	"id": "020",
+	"nm": "Bayárcal"
+}, {
+	"id": "021",
+	"nm": "Bayarque"
+}, {
+	"id": "022",
+	"nm": "Bédar"
+}, {
+	"id": "023",
+	"nm": "Beires"
+}, {
+	"id": "024",
+	"nm": "Benahadux"
+}, {
+	"id": "026",
+	"nm": "Benitagla"
+}, {
+	"id": "027",
+	"nm": "Benizalón"
+}, {
+	"id": "028",
+	"nm": "Bentarique"
+}, {
+	"id": "029",
+	"nm": "Berja"
+}, {
+	"id": "030",
+	"nm": "Canjáyar"
+}, {
+	"id": "031",
+	"nm": "Cantoria"
+}, {
+	"id": "032",
+	"nm": "Carboneras"
+}, {
+	"id": "033",
+	"nm": "Castro de Filabres"
+}, {
+	"id": "036",
+	"nm": "Chercos"
+}, {
+	"id": "037",
+	"nm": "Chirivel"
+}, {
+	"id": "034",
+	"nm": "Cóbdar"
+}, {
+	"id": "035",
+	"nm": "Cuevas del Almanzora"
+}, {
+	"id": "038",
+	"nm": "Dalías"
+}, {
+	"id": "902",
+	"nm": "Ejido, El"
+}, {
+	"id": "041",
+	"nm": "Enix"
+}, {
+	"id": "043",
+	"nm": "Felix"
+}, {
+	"id": "044",
+	"nm": "Fines"
+}, {
+	"id": "045",
+	"nm": "Fiñana"
+}, {
+	"id": "046",
+	"nm": "Fondón"
+}, {
+	"id": "047",
+	"nm": "Gádor"
+}, {
+	"id": "048",
+	"nm": "Gallardos, Los"
+}, {
+	"id": "049",
+	"nm": "Garrucha"
+}, {
+	"id": "050",
+	"nm": "Gérgal"
+}, {
+	"id": "051",
+	"nm": "Huécija"
+}, {
+	"id": "052",
+	"nm": "Huércal de Almería"
+}, {
+	"id": "053",
+	"nm": "Huércal-Overa"
+}, {
+	"id": "054",
+	"nm": "Illar"
+}, {
+	"id": "055",
+	"nm": "Instinción"
+}, {
+	"id": "056",
+	"nm": "Laroya"
+}, {
+	"id": "057",
+	"nm": "Láujar de Andarax"
+}, {
+	"id": "058",
+	"nm": "Líjar"
+}, {
+	"id": "059",
+	"nm": "Lubrín"
+}, {
+	"id": "060",
+	"nm": "Lucainena de las Torres"
+}, {
+	"id": "061",
+	"nm": "Lúcar"
+}, {
+	"id": "062",
+	"nm": "Macael"
+}, {
+	"id": "063",
+	"nm": "María"
+}, {
+	"id": "064",
+	"nm": "Mojácar"
+}, {
+	"id": "903",
+	"nm": "Mojonera, La"
+}, {
+	"id": "065",
+	"nm": "Nacimiento"
+}, {
+	"id": "066",
+	"nm": "Níjar"
+}, {
+	"id": "067",
+	"nm": "Ohanes"
+}, {
+	"id": "068",
+	"nm": "Olula de Castro"
+}, {
+	"id": "069",
+	"nm": "Olula del Río"
+}, {
+	"id": "070",
+	"nm": "Oria"
+}, {
+	"id": "071",
+	"nm": "Padules"
+}, {
+	"id": "072",
+	"nm": "Partaloa"
+}, {
+	"id": "073",
+	"nm": "Paterna del Río"
+}, {
+	"id": "074",
+	"nm": "Pechina"
+}, {
+	"id": "075",
+	"nm": "Pulpí"
+}, {
+	"id": "076",
+	"nm": "Purchena"
+}, {
+	"id": "077",
+	"nm": "Rágol"
+}, {
+	"id": "078",
+	"nm": "Rioja"
+}, {
+	"id": "079",
+	"nm": "Roquetas de Mar"
+}, {
+	"id": "080",
+	"nm": "Santa Cruz de Marchena"
+}, {
+	"id": "081",
+	"nm": "Santa Fe de Mondújar"
+}, {
+	"id": "082",
+	"nm": "Senés"
+}, {
+	"id": "083",
+	"nm": "Serón"
+}, {
+	"id": "084",
+	"nm": "Sierro"
+}, {
+	"id": "085",
+	"nm": "Somontín"
+}, {
+	"id": "086",
+	"nm": "Sorbas"
+}, {
+	"id": "087",
+	"nm": "Suflí"
+}, {
+	"id": "088",
+	"nm": "Tabernas"
+}, {
+	"id": "089",
+	"nm": "Taberno"
+}, {
+	"id": "090",
+	"nm": "Tahal"
+}, {
+	"id": "091",
+	"nm": "Terque"
+}, {
+	"id": "092",
+	"nm": "Tíjola"
+}, {
+	"id": "901",
+	"nm": "Tres Villas, Las"
+}, {
+	"id": "093",
+	"nm": "Turre"
+}, {
+	"id": "094",
+	"nm": "Turrillas"
+}, {
+	"id": "095",
+	"nm": "Uleila del Campo"
+}, {
+	"id": "096",
+	"nm": "Urrácal"
+}, {
+	"id": "097",
+	"nm": "Velefique"
+}, {
+	"id": "098",
+	"nm": "Vélez-Blanco"
+}, {
+	"id": "099",
+	"nm": "Vélez-Rubio"
+}, {
+	"id": "100",
+	"nm": "Vera"
+}, {
+	"id": "101",
+	"nm": "Viator"
+}, {
+	"id": "102",
+	"nm": "Vícar"
+}, {
+	"id": "103",
+	"nm": "Zurgena"
+}]

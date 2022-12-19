@@ -1,0 +1,424 @@
+[{
+	"id": "002",
+	"nm": "Agost"
+}, {
+	"id": "003",
+	"nm": "Agres"
+}, {
+	"id": "004",
+	"nm": "Aigües"
+}, {
+	"id": "005",
+	"nm": "Albatera"
+}, {
+	"id": "006",
+	"nm": "Alcalalí"
+}, {
+	"id": "007",
+	"nm": "Alcocer de Planes"
+}, {
+	"id": "008",
+	"nm": "Alcoleja"
+}, {
+	"id": "009",
+	"nm": "Alcoy/Alcoi"
+}, {
+	"id": "010",
+	"nm": "Alfafara"
+}, {
+	"id": "011",
+	"nm": "Alfàs del Pi, l'"
+}, {
+	"id": "012",
+	"nm": "Algorfa"
+}, {
+	"id": "013",
+	"nm": "Algueña"
+}, {
+	"id": "014",
+	"nm": "Alicante/Alacant"
+}, {
+	"id": "015",
+	"nm": "Almoradí"
+}, {
+	"id": "016",
+	"nm": "Almudaina"
+}, {
+	"id": "017",
+	"nm": "Alqueria d'Asnar, l'"
+}, {
+	"id": "018",
+	"nm": "Altea"
+}, {
+	"id": "019",
+	"nm": "Aspe"
+}, {
+	"id": "001",
+	"nm": "Atzúbia, l'"
+}, {
+	"id": "020",
+	"nm": "Balones"
+}, {
+	"id": "021",
+	"nm": "Banyeres de Mariola"
+}, {
+	"id": "022",
+	"nm": "Benasau"
+}, {
+	"id": "023",
+	"nm": "Beneixama"
+}, {
+	"id": "024",
+	"nm": "Benejúzar"
+}, {
+	"id": "025",
+	"nm": "Benferri"
+}, {
+	"id": "026",
+	"nm": "Beniarbeig"
+}, {
+	"id": "027",
+	"nm": "Beniardá"
+}, {
+	"id": "028",
+	"nm": "Beniarrés"
+}, {
+	"id": "030",
+	"nm": "Benidoleig"
+}, {
+	"id": "031",
+	"nm": "Benidorm"
+}, {
+	"id": "032",
+	"nm": "Benifallim"
+}, {
+	"id": "033",
+	"nm": "Benifato"
+}, {
+	"id": "029",
+	"nm": "Benigembla"
+}, {
+	"id": "034",
+	"nm": "Benijófar"
+}, {
+	"id": "035",
+	"nm": "Benilloba"
+}, {
+	"id": "036",
+	"nm": "Benillup"
+}, {
+	"id": "037",
+	"nm": "Benimantell"
+}, {
+	"id": "038",
+	"nm": "Benimarfull"
+}, {
+	"id": "039",
+	"nm": "Benimassot"
+}, {
+	"id": "040",
+	"nm": "Benimeli"
+}, {
+	"id": "041",
+	"nm": "Benissa"
+}, {
+	"id": "042",
+	"nm": "Benitachell/Poble Nou de Benitatxell, el"
+}, {
+	"id": "043",
+	"nm": "Biar"
+}, {
+	"id": "044",
+	"nm": "Bigastro"
+}, {
+	"id": "045",
+	"nm": "Bolulla"
+}, {
+	"id": "046",
+	"nm": "Busot"
+}, {
+	"id": "049",
+	"nm": "Callosa de Segura"
+}, {
+	"id": "048",
+	"nm": "Callosa d'en Sarrià"
+}, {
+	"id": "047",
+	"nm": "Calp"
+}, {
+	"id": "050",
+	"nm": "Campello, el"
+}, {
+	"id": "051",
+	"nm": "Campo de Mirra/Camp de Mirra, el"
+}, {
+	"id": "052",
+	"nm": "Cañada"
+}, {
+	"id": "053",
+	"nm": "Castalla"
+}, {
+	"id": "054",
+	"nm": "Castell de Castells"
+}, {
+	"id": "075",
+	"nm": "Castell de Guadalest, el"
+}, {
+	"id": "055",
+	"nm": "Catral"
+}, {
+	"id": "056",
+	"nm": "Cocentaina"
+}, {
+	"id": "057",
+	"nm": "Confrides"
+}, {
+	"id": "058",
+	"nm": "Cox"
+}, {
+	"id": "059",
+	"nm": "Crevillent"
+}, {
+	"id": "061",
+	"nm": "Daya Nueva"
+}, {
+	"id": "062",
+	"nm": "Daya Vieja"
+}, {
+	"id": "063",
+	"nm": "Dénia"
+}, {
+	"id": "064",
+	"nm": "Dolores"
+}, {
+	"id": "065",
+	"nm": "Elche/Elx"
+}, {
+	"id": "066",
+	"nm": "Elda"
+}, {
+	"id": "067",
+	"nm": "Facheca"
+}, {
+	"id": "068",
+	"nm": "Famorca"
+}, {
+	"id": "069",
+	"nm": "Finestrat"
+}, {
+	"id": "077",
+	"nm": "Fondó de les Neus, el/Hondón de las Nieves"
+}, {
+	"id": "070",
+	"nm": "Formentera del Segura"
+}, {
+	"id": "072",
+	"nm": "Gaianes"
+}, {
+	"id": "071",
+	"nm": "Gata de Gorgos"
+}, {
+	"id": "073",
+	"nm": "Gorga"
+}, {
+	"id": "074",
+	"nm": "Granja de Rocamora"
+}, {
+	"id": "076",
+	"nm": "Guardamar del Segura"
+}, {
+	"id": "078",
+	"nm": "Hondón de los Frailes"
+}, {
+	"id": "079",
+	"nm": "Ibi"
+}, {
+	"id": "080",
+	"nm": "Jacarilla"
+}, {
+	"id": "082",
+	"nm": "Jávea/Xàbia"
+}, {
+	"id": "083",
+	"nm": "Jijona/Xixona"
+}, {
+	"id": "085",
+	"nm": "Llíber"
+}, {
+	"id": "084",
+	"nm": "Lorcha/Orxa, l'"
+}, {
+	"id": "086",
+	"nm": "Millena"
+}, {
+	"id": "088",
+	"nm": "Monforte del Cid"
+}, {
+	"id": "089",
+	"nm": "Monóvar/Monòver"
+}, {
+	"id": "903",
+	"nm": "Montesinos, Los"
+}, {
+	"id": "091",
+	"nm": "Murla"
+}, {
+	"id": "092",
+	"nm": "Muro de Alcoy"
+}, {
+	"id": "090",
+	"nm": "Mutxamel"
+}, {
+	"id": "093",
+	"nm": "Novelda"
+}, {
+	"id": "094",
+	"nm": "Nucia, la"
+}, {
+	"id": "095",
+	"nm": "Ondara"
+}, {
+	"id": "096",
+	"nm": "Onil"
+}, {
+	"id": "097",
+	"nm": "Orba"
+}, {
+	"id": "099",
+	"nm": "Orihuela"
+}, {
+	"id": "098",
+	"nm": "Orxeta"
+}, {
+	"id": "100",
+	"nm": "Parcent"
+}, {
+	"id": "101",
+	"nm": "Pedreguer"
+}, {
+	"id": "102",
+	"nm": "Pego"
+}, {
+	"id": "103",
+	"nm": "Penàguila"
+}, {
+	"id": "104",
+	"nm": "Petrer"
+}, {
+	"id": "902",
+	"nm": "Pilar de la Horadada"
+}, {
+	"id": "105",
+	"nm": "Pinós, el/Pinoso"
+}, {
+	"id": "106",
+	"nm": "Planes"
+}, {
+	"id": "901",
+	"nm": "Poblets, els"
+}, {
+	"id": "107",
+	"nm": "Polop"
+}, {
+	"id": "060",
+	"nm": "Quatretondeta"
+}, {
+	"id": "109",
+	"nm": "Rafal"
+}, {
+	"id": "110",
+	"nm": "Ràfol d'Almúnia, el"
+}, {
+	"id": "111",
+	"nm": "Redován"
+}, {
+	"id": "112",
+	"nm": "Relleu"
+}, {
+	"id": "113",
+	"nm": "Rojales"
+}, {
+	"id": "114",
+	"nm": "Romana, la"
+}, {
+	"id": "115",
+	"nm": "Sagra"
+}, {
+	"id": "116",
+	"nm": "Salinas"
+}, {
+	"id": "118",
+	"nm": "San Fulgencio"
+}, {
+	"id": "904",
+	"nm": "San Isidro"
+}, {
+	"id": "120",
+	"nm": "San Miguel de Salinas"
+}, {
+	"id": "122",
+	"nm": "San Vicente del Raspeig/Sant Vicent del Raspeig"
+}, {
+	"id": "117",
+	"nm": "Sanet y Negrals"
+}, {
+	"id": "119",
+	"nm": "Sant Joan d'Alacant"
+}, {
+	"id": "121",
+	"nm": "Santa Pola"
+}, {
+	"id": "123",
+	"nm": "Sax"
+}, {
+	"id": "124",
+	"nm": "Sella"
+}, {
+	"id": "125",
+	"nm": "Senija"
+}, {
+	"id": "127",
+	"nm": "Tàrbena"
+}, {
+	"id": "128",
+	"nm": "Teulada"
+}, {
+	"id": "129",
+	"nm": "Tibi"
+}, {
+	"id": "130",
+	"nm": "Tollos"
+}, {
+	"id": "131",
+	"nm": "Tormos"
+}, {
+	"id": "132",
+	"nm": "Torremanzanas/Torre de les Maçanes, la"
+}, {
+	"id": "133",
+	"nm": "Torrevieja"
+}, {
+	"id": "134",
+	"nm": "Vall d'Alcalà, la"
+}, {
+	"id": "136",
+	"nm": "Vall de Gallinera"
+}, {
+	"id": "137",
+	"nm": "Vall de Laguar, la"
+}, {
+	"id": "135",
+	"nm": "Vall d'Ebo, la"
+}, {
+	"id": "138",
+	"nm": "Verger, el"
+}, {
+	"id": "139",
+	"nm": "Villajoyosa/Vila Joiosa, la"
+}, {
+	"id": "140",
+	"nm": "Villena"
+}, {
+	"id": "081",
+	"nm": "Xaló"
+}]
